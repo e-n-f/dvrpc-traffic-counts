@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 2/2/2011           PROJECT:           11-43-040                 STATION ID:     P0351
+
+ROAD:     PA 532 BUSTLETON AVE                                                                         SR/SEG/OFF:     0532/0050/1534
+
+FROM:     GORMAN ST                                                 TO:    VERREE RD
+
+STATE:    PA           COUNTY:                                      MCD: 4210160113 - UPPER FAR NORTHEAST
+
+SIDEWALK:           east                    FC:     14                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 74063 COUNTER #:           10-009                  WEATHER:                     DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Tuesday      Wednesday   Thursday         Friday          Saturday       Sunday    Monday        Tuesday
+ Ending         2/1/2011     2/2/2011    2/3/2011        2/4/2011         2/5/2011     2/6/2011    2/7/2011     2/8/2011
+
+    12 AM                            0          0               0                1             2            0           1
+      1 AM                           1          1               2                0             0            0           1
+      2 AM                           0          2               0                3             3            0           2
+      3 AM                           0          1               0                0             0            0           0
+      4 AM                           0          0               0                0             0            0           0
+      5 AM                           0          1               0                0             0            0           1
+      6 AM                           0          6               5                1             1            4           7
+      7 AM                           0         50              61                0             0           81          37
+      8 AM                           0          8               9                1             2            6           7
+      9 AM                           0          0               7                1             8            5           3
+    10 AM                            0          1               4                0             3           12           3
+    11 AM                6           0          2               8                5             2            9           1
+    12 PM                4           3          3               6                8             4            8           2
+      1 PM               7           7          3               4                4             5           10
+      2 PM             131          99        158             161                1            11          156
+      3 PM              22          27         38              34                4            11           37
+      4 PM              15          18         26              17                1             6           32
+      5 PM               8           6         14              10                3             6           14
+      6 PM               3           8          5               7                3             5           17
+      7 PM               2           3          5               4                3             4            6
+      8 PM               3           0          4               3                1             4            1
+      9 PM               1           2          5               0                1             1            1
+    10 PM                0           2          1               0                1             0            1
+     11PM                0           2          2               5                1             1            3
+     Total             202         178        336             347               43            79          403          65
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 1.106            FACTOR:          1.0622        ADP:    271
+
+
+
+
+11:15:07PM      6/7/2014                                                                                                    Page 1 of 1
+

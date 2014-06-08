@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                  DATE: 3/26/2011            PROJECT:        10-cbd-028               STATION ID:         P0002
+
+ROAD:     CHRISTOPHER COLUMBUS BLVD                                                                    SR/SEG/OFF:         2001/0081/2500
+
+FROM:     KENILWORTH ST                                               TO:    I 95 DELAWARE EXPWY NB ON RAMP
+
+STATE:    PA            COUNTY:                                       MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           west                        FC:     14                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                   71779 COUNTER #:             10-005               WEATHER:                     DATA SOURCE:          INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday      Saturday     Sunday          Monday         Tuesday    Wednesday   Thursday       Friday
+ Ending         3/25/2011       3/26/2011   3/27/2011    3/28/2011      3/29/2011      3/30/2011   3/31/2011     4/1/2011
+
+    12 AM                               4           0               0              0           0            0               0
+      1 AM                              0           0               0              0           0            0               0
+      2 AM                              0           1               1              0           0            0               0
+      3 AM                              3           0               0              0           0            0               0
+      4 AM                              0           1               0              0           0            0               1
+      5 AM                              0           0               0              1           2            2               1
+      6 AM                              0           0               1              4           1            2               0
+      7 AM                              0           2               1              4           1            0               0
+      8 AM                              5           2              13             19          11            4               7
+      9 AM                              2           1              16             21          10           10               8
+    10 AM                               5           3              14             12          12           18               9
+    11 AM                  15           0           3               7              8          14            8
+    12 PM                   7          11           2               2              6          12            5
+      1 PM                  9           9          11               9              6          10            2
+      2 PM                  4          18           7               4              7           7            5
+      3 PM                  9          16           6              10              7           8            1
+      4 PM                 10          10          11               4             13           5            6
+      5 PM                  4          10           5              17             12           4            4
+      6 PM                 16          12           7              12             11           6            3
+      7 PM                  3           4           0              10             13           6            1
+      8 PM                 10           1           0               6              7           6            3
+      9 PM                  1           8           0               2              2           0            0
+    10 PM                   5           6           0               3              0           0            0
+     11PM                   3           3           1               1              0           0            0
+     Total                 96         127          63             133            153         115           74              26
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    1.036            FACTOR:         1.0622      ADP:     122
+
+
+
+
+11:05:55PM      6/7/2014                                                                                                        Page 1 of 1
+

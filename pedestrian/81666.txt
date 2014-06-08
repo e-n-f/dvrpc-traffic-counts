@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 10/7/2011            PROJECT:        11-43-045                    STATION ID:    P0334
+
+ROAD:     FRANKFORD AVE                                                                                  SR/SEG/OFF:    2007/0130/1250
+
+FROM:     DYRE ST                                                   TO:    PRATT ST
+
+STATE:    PA           COUNTY:                                      MCD: 4210160114 - LOWER NORTHEAST
+
+SIDEWALK:           west                      FC:     14                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 81666 COUNTER #:             10-006              WEATHER:          f             DATA SOURCE:      INTERNAL
+
+COMMENTS:             Monday October 10, 2011: Columbus Day Holiday
+
+
+
+
+  Hour          Thursday       Friday     Saturday         Sunday         Monday      Tuesday        Wednesday   Thursday
+ Ending         10/6/2011     10/7/2011   10/8/2011    10/9/2011      10/10/2011 10/11/2011 10/12/2011 10/13/2011
+
+    12 AM                            34          58              44            28           35              37         22
+      1 AM                           17          36              41            17           31              26         26
+      2 AM                           18          33              33            13           25              24         18
+      3 AM                           24          16              19            19           10              21         16
+      4 AM                           19          22              20            18           18              13         13
+      5 AM                           36          25              10            30           28              28         30
+      6 AM                           47          24              18            47           47              56         67
+      7 AM                          107          42              37            76          103              98        111
+      8 AM                          107          69              64            82          129             127        112
+      9 AM                           93          72              61           100          119              96         87
+    10 AM                            99         103              52           101          108              80         84
+    11 AM                67         142          80              75            89          109              92        112
+    12 PM               147         115          96              87            90           89              97         81
+      1 PM              124         113         111              71           103          121             111        118
+      2 PM               98         113          74              81           114          117             101        110
+      3 PM              189         167          95              85           157          174             127        168
+      4 PM              177         170         104              71           149          135             143        139
+      5 PM              135         131          90              74           135          171             113        112
+      6 PM              106         130          74              56            81          120             103         98
+      7 PM               84          93          82              73            95           70              64         86
+      8 PM               68          79          69              87            58           70              49         79
+      9 PM               54          65          62              48            57           54              46         52
+    10 PM                54          57          53              34            39           68              49         57
+     11PM                44          54          69              52            70           50              47         58
+     Total            1,347       2,030       1,559           1,293         1,768        2,001           1,748      1,856
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.968            FACTOR:        1.0622       ADP:         1,782
+
+
+
+
+11:19:21PM      6/7/2014                                                                                                    Page 1 of 1
+

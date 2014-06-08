@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 3/29/2011           PROJECT:           10-cbd-034                STATION ID:        P0110
+
+ROAD:     4TH ST                                                                                        SR/SEG/OFF:        G706/0020/2956
+
+FROM:     CALLOWHILL ST                                              TO:    WILLOW ST
+
+STATE:    PA           COUNTY:                                       MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           west                     FC:     17                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                71785 COUNTER #:             10-008                     WEATHER:                  DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Monday       Tuesday    Wednesday        Thursday          Friday      Saturday    Sunday        Monday
+ Ending         3/28/2011    3/29/2011   3/30/2011    3/31/2011            4/1/2011     4/2/2011    4/3/2011     4/4/2011
+
+    12 AM                            0           0               0                3            6             4          0
+      1 AM                           1           1               1                1            1             2          0
+      2 AM                           0           1               0                1            1            13          0
+      3 AM                           0           0               0                0            0             0          0
+      4 AM                           0           0               0                0            0             0          1
+      5 AM                           1           1               0                1            0             0          0
+      6 AM                           0           3               2                1            0             0          1
+      7 AM                          12          12               5                6            3             2         10
+      8 AM                          27          25              27               12            7             6         26
+      9 AM                          13          18               9                9           15            16         11
+    10 AM                           13          19              13                9           22            27          2
+    11 AM               11          21          20               2                4           20            26
+    12 PM               17          17          26              13               19           28            20
+      1 PM              13          18          20               5               16           24            17
+      2 PM              15          23          21              13               22           21            22
+      3 PM              13          17          12              10               12           13            19
+      4 PM              16          18           8              10               32           17            20
+      5 PM              19          21          29              20               22           14            24
+      6 PM              13          23          25              10               14           14            10
+      7 PM               9          18          12              12               17           12             3
+      8 PM               6           4           4               3                9           14             5
+      9 PM               8           4           2               6                6            4             5
+    10 PM                2           3           5               1                9            5             1
+     11PM                0           0           3               2                8            6             3
+     Total             142         254         267             164              233          247           245         51
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 1.036             FACTOR:          1.0622        ADP:    259
+
+
+
+
+11:12:17PM      6/7/2014                                                                                                     Page 1 of 1
+

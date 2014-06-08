@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 1/26/2011            PROJECT:          11-43-040                 STATION ID:      P0179
+
+ROAD:     WALNUT ST                                                                                     SR/SEG/OFF:      0003/0101/1600
+
+FROM:     19TH ST                                                    TO:    18TH ST
+
+STATE:    PA           COUNTY:                                       MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           south                     FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                  73494 COUNTER #:            10-005                 WEATHER:                      DATA SOURCE:       INTERNAL
+
+COMMENTS:             Wednesday & Thursday: Major Snow Event
+
+
+
+
+  Hour           Tuesday      Wednesday   Thursday          Friday         Saturday       Sunday     Monday        Tuesday
+ Ending         1/25/2011     1/26/2011   1/27/2011    1/28/2011       1/29/2011      1/30/2011     1/31/2011     2/1/2011
+
+    12 AM                            14           0              32              82           156          10           14
+      1 AM                            9           0              18              55            74           5           13
+      2 AM                            7           0              29              69           101           3            5
+      3 AM                            6           0              14              34            37           1            5
+      4 AM                            1           0               4               6             8           2            3
+      5 AM                           19           0              14               5            11          36           23
+      6 AM                           34           0              69              28            15          67           54
+      7 AM                           49           0             106              42            38          83           75
+      8 AM                           99           0             133             106            69         154          163
+      9 AM               79          94           0             163             369            99         134          117
+    10 AM               124         145          55             137             280           138         116          109
+    11 AM               158         121         150             176             233           175         165          129
+    12 PM               240         153         173             186             336           275         222           49
+      1 PM              257         122         159             214             376           272         240
+      2 PM              192         138         166             226             388           268         197
+      3 PM              197         159         184             201             340           288         196
+      4 PM              213         168         206             197             290           251         244
+      5 PM              252         155         253             269             275           200         272
+      6 PM              259          98         247             204             179           154         217
+      7 PM              191         112         173             146             169           156         186
+      8 PM              201          24         125             146             138            91         163
+      9 PM              121           0          70             102             200            89         110
+    10 PM                86           1          93             131             149            58          74
+     11PM                46           0          60             110             151            23          41
+     Total            2,616       1,728       2,114           3,027           4,300         3,046       2,938           759
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  1.104             FACTOR:         1.0622        ADP:     3,353
+
+
+
+
+11:17:16PM      6/7/2014                                                                                                      Page 1 of 1
+

@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                DATE: 10/12/2011         PROJECT:          11-43-045                    STATION ID:     P0317
+
+ROAD:     KENSINGTON AVE                                                                                 SR/SEG/OFF:     G046/0012/2500
+
+FROM:     TIOGA ST                                                 TO:    ATLANTIC ST
+
+STATE:    PA           COUNTY:                                     MCD: 4210160101 - NORTH
+
+SIDEWALK:           west                    FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 81584 COUNTER #:           10-010                 WEATHER:          f            DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Tuesday      Wednesday   Thursday         Friday         Saturday       Sunday        Monday       Tuesday
+ Ending        10/11/2011 10/12/2011 10/13/2011 10/14/2011 10/15/2011 10/16/2011 10/17/2011 10/18/2011
+
+    12 AM                            5         10               7              11            12                7         13
+      1 AM                           5          7               8              12            10                7         10
+      2 AM                           4          3               5               5             7                7         15
+      3 AM                           8          5              10               7             5                8         10
+      4 AM                           7         12               9               6             5               11         10
+      5 AM                          18         13               7               9             5               12          5
+      6 AM                          17         34              13               7             8               18         26
+      7 AM                          24         17              13               7            12               16         25
+      8 AM                          23         18              25               8             8               20         23
+      9 AM                          33         28              24              22            19               26         36
+    10 AM                           20         39              26              22            23               23         15
+    11 AM                           34         47              25              38            36               26          6
+    12 PM                           18         25              25              25            54               46
+      1 PM                          35         32              37              34            20               41
+      2 PM              21          27         31              39              25            31               32
+      3 PM              31          23         39              34              20            29               29
+      4 PM              44          18         22              23              21            27               35
+      5 PM              39          31         41              25              27             8               34
+      6 PM              45          19         25              25              31            23               35
+      7 PM              21          13         25              22              28            26               21
+      8 PM              20           5         19              14              16             5               16
+      9 PM              22           6         27              23              10            11               12
+    10 PM                8          10         21              16              12             7               20
+     11PM               17           8         14              16              10             1               12
+     Total             268         411        554             471             413           392              514        194
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                0.968             FACTOR:         1.0622        ADP:        472
+
+
+
+
+11:18:55PM      6/7/2014                                                                                                      Page 1 of 1
+

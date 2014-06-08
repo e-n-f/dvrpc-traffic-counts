@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                  DATE: 6/28/2011            PROJECT:           11-41-050                 STATION ID:        P0240
+
+ROAD:     59TH ST                                                                                          SR/SEG/OFF:         LOCAL
+
+FROM:     BEAUMONT AVE                                                  TO:    COBBS CREEK PARKWAY
+
+STATE:    PA           COUNTY:                                          MCD: 4210160110 - UNIVERSITY - SOUTHWEST
+
+SIDEWALK:           west                        FC:     19                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                   79361 COUNTER #:             10-008                     WEATHER:                  DATA SOURCE:         INTERNAL
+
+COMMENTS:             Monday July 4: Independence Day Holiday
+
+
+
+
+  Hour           Monday          Tuesday    Wednesday        Thursday          Friday      Saturday    Sunday        Monday       Tuesday
+ Ending         6/27/2011       6/28/2011   6/29/2011    6/30/2011            7/1/2011     7/2/2011    7/3/2011     7/4/2011     7/5/2011
+
+    12 AM                               2           1               0                0            0            0           0                1
+      1 AM                              4           0               1                0            0            0           1                6
+      2 AM                              1           0               0                0            0            0           0                5
+      3 AM                              0           0               0                0            0            0           0                0
+      4 AM                              0           0               0                0            0            0           1                0
+      5 AM                              0           1               0                1            0            0           0                0
+      6 AM                              0           2               1                1            1            0           0                3
+      7 AM                              0           1               1                6            0            0           0                2
+      8 AM                              0           0               0                1            2            4           3                0
+      9 AM                              3          10               2                1            1            1           4                4
+    10 AM                               2          13               4                0            4            3           2
+    11 AM                               2           8               4                1           13            2           0
+    12 PM                   0           1          10              11                7            5            3           0
+      1 PM                  0           3          13               6                4            5           18          22
+      2 PM                  5           1          28              14               12           10           13          11
+      3 PM                  5           4          31              17                8           33            7           8
+      4 PM                  0          12          16              30               11           24            7           8
+      5 PM                  3          11          16              19               18           17            8           5
+      6 PM                  3           4          16              11               15            7            8           4
+      7 PM                  1           3           2               7                5            4            3           7
+      8 PM                  6           3           4               7                3            3            5           8
+      9 PM                  4           4           1               1                0            3            0           1
+    10 PM                   2           1           4               1                0            2            2           3
+     11PM                   2           0           1               0                1            0            3           0
+     Total                 31          61         178             137               95          134           87          88             21
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    0.915             FACTOR:          1.0622        ADP:    108
+
+
+
+
+10:51:59PM      6/7/2014                                                                                                        Page 1 of 1
+

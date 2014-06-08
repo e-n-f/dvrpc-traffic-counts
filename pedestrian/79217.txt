@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 8/2/2011            PROJECT:           11-43-045                 STATION ID:        P0263
+
+ROAD:     PARKSIDE AVE                                                                                  SR/SEG/OFF:        3017/0080/1500
+
+FROM:     MEMORIAL HALL DR                                           TO:    41ST ST
+
+STATE:    PA           COUNTY:                                       MCD: 4210160106 - WEST PARK
+
+SIDEWALK:           south                    FC:     17                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                79217 COUNTER #:             10-002                     WEATHER:                  DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Monday       Tuesday     Wednesday        Thursday          Friday      Saturday    Sunday        Monday
+ Ending         8/1/2011     8/2/2011    8/3/2011         8/4/2011         8/5/2011     8/6/2011    8/7/2011     8/8/2011
+
+    12 AM                            5          8                2                7            4            10         13
+      1 AM                           7          3                1                4            3             3          5
+      2 AM                           4          2                0                2            2             2          3
+      3 AM                           1          0                0                0            1             1          2
+      4 AM                           0          3                0                0            0             0          2
+      5 AM                           1          2                3                0            0             3          1
+      6 AM                           4          7                9                6            4             2          8
+      7 AM                          16         10                8                8            5             3          4
+      8 AM                          18         11               11               22            5             9         11
+      9 AM                          21          4                6               17            9             6         12
+    10 AM               20          22          6               10               15           15             8          5
+    11 AM               15          14         13               17               10           21             4
+    12 PM               23          26         22               12               17            9            12
+      1 PM              19          28         18               18                8            8            10
+      2 PM               6          17          9               10               19            7             7
+      3 PM               8           6          8               35               17            9            10
+      4 PM              16          18         10               34               16           17            12
+      5 PM              13          26          8               24               13           18            11
+      6 PM              10          10         15               12                8           13            11
+      7 PM               8           4         14               11               13           26            16
+      8 PM              13          16         15                6               14           20            21
+      9 PM              19           7          4               10                5           11            19
+    10 PM               20           6          3                6               13           21            12
+     11PM                7          10          3               10               13            3             2
+     Total             197         287        198              255              247          231           194         66
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.888             FACTOR:          1.0622        ADP:    222
+
+
+
+
+11:15:44PM      6/7/2014                                                                                                     Page 1 of 1
+

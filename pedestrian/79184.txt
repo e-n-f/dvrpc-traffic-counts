@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 7/19/2011            PROJECT:          11-43-045                  STATION ID:         P0330
+
+ROAD:      CAYUGA ST                                                                                        SR/SEG/OFF:         LOCAL
+
+FROM:     "M" ST                                                         TO:   CASTOR AVE
+
+STATE:    PA            COUNTY:                                          MCD: 4210160101 - NORTH
+
+SIDEWALK:           north                        FC:     19                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                    79184 COUNTER #:             11-019                    WEATHER:                    DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Monday           Tuesday    Wednesday        Thursday         Friday      Saturday      Sunday        Monday
+ Ending         7/18/2011        7/19/2011   7/20/2011    7/21/2011         7/22/2011     7/23/2011     7/24/2011     7/25/2011
+
+    12 AM                                0           3                  0            0              0             0           1
+      1 AM                               0           0                  0            0              0             0           2
+      2 AM                               0           0                  2            0              0             3           0
+      3 AM                              11           7                 12           13              8            10           9
+      4 AM                               0           0                  0            3              1             0           1
+      5 AM                               0           0                  0            0              0             0           1
+      6 AM                               6           5                  4            5              7             1           0
+      7 AM                              15           5                  9            4              3             7           8
+      8 AM                               5          16                 10            8              5             2           8
+      9 AM                               5           6                  6           10              4            60           7
+    10 AM                   14           5           7                  6            7              4             3           6
+    11 AM                    5          10           5                  1            2              3             6           2
+    12 PM                    9           2          13                  7            6              2             4          15
+      1 PM                   4          13           7                  9            8              6             8          14
+      2 PM                   8           5          22                  5            3              4             1           5
+      3 PM                  10           2           8                  5            8             13             3           1
+      4 PM                   5           2           6                  4           14              9             6           4
+      5 PM                   3          11           2                  1            6              4             4           4
+      6 PM                   6           6          13                  6            1              5             7          11
+      7 PM                   4           9          12                  3            3              1             6          11
+      8 PM                   2           2           7                  5            9              4             4           0
+      9 PM                   1           1           2                  3            0              2             3           0
+    10 PM                    0           7           0                  1            0              4             0           0
+     11PM                    0           1           0                  0            0              0             0           0
+     Total                  71         118         146                 99          110             89           138         110
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     0.900             FACTOR:         1.0622        ADP:      112
+
+
+
+
+11:05:15PM      6/7/2014                                                                                                          Page 1 of 1
+

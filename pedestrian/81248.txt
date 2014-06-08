@@ -1,0 +1,58 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 8/30/2011           PROJECT:           12-41-040                      STATION ID:       P0401
+
+ROAD:     LAFAYETTE ST                                                                                       SR/SEG/OFF:        LOCAL
+
+FROM:     CHERRY ST                                                  TO:    SWEDE ST
+
+STATE:    PA           COUNTY:                                       MCD: 4209154656 - NORRISTOWN BORO
+
+SIDEWALK:           south                    FC:     19                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                81248 COUNTER #:             10-003                     WEATHER:      fair            DATA SOURCE:         INTERNAL
+
+COMMENTS:             Monday September 5, 2011 Labor Day Holiday
+
+
+
+
+  Hour           Monday       Tuesday    Wednesday        Thursday          Friday      Saturday          Sunday      Monday       Tuesday     Wednesday
+ Ending         8/29/2011    8/30/2011   8/31/2011        9/1/2011         9/2/2011     9/3/2011      9/4/2011       9/5/2011     9/6/2011     9/7/2011
+
+    12 AM                            5           3               11                8           9                8           10             5          0
+      1 AM                           0           8                4                6           5                6            1             3          1
+      2 AM                           2           0                1                1           2                4            0             0          2
+      3 AM                           0           0                1                1           0                2            0             0          0
+      4 AM                          10           9               12               16           1                0            1            11         14
+      5 AM                          29          25               35               27          11                7           12            27         28
+      6 AM                          72          76               81               80          33               14           23            77         50
+      7 AM                          84          63               72               73          52               28           34            73         61
+      8 AM                          73          64               74               62          49               34           34            60         76
+      9 AM                          60          65               76               89          53               47           33            60         50
+    10 AM               55          74          63               70               57          70               38           29            43         56
+    11 AM               60          41          67               74               46          37               40           38            45         21
+    12 PM               92          74          63               67               39          47               17           27            29
+      1 PM              77          70          69               50               54          41               17           27            54
+      2 PM              58          76          77               48               55          25               24           20            41
+      3 PM              55          79          46               55              100          36               31           14            40
+      4 PM              81          98          60               54               78          26               23           17            54
+      5 PM              61          66          54               55               66          41               19           26            35
+      6 PM              49          44          42               42               58          43               27           27            27
+      7 PM              49          35          23               38               71          41               20           22            12
+      8 PM              20          23          29               41               41          18               26           15            13
+      9 PM              29          36          24               46               27          29               24           19            20
+    10 PM               13          13          26               23               18          40               18           11            12
+     11PM               13          10          13               19               24          21                5            6             8
+     Total             712       1,074         969            1,049            1,097         730              479          446           749        359
+
+
+
+
+11:16:13PM      6/7/2014                                                                                                         Page 1 of 1
+PEDESTRIAN SEASONAL FACTOR:   0.919   FACTOR:   1.0622   ADP:   804
+
+
+
+
+11:16:13PM   6/7/2014                                                 Page 2 of 1
+

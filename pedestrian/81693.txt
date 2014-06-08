@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                 DATE: 9/30/2011           PROJECT:        11-43-045                STATION ID:       P0232
+
+ROAD:     SPRINGFIELD AVE                                                                            SR/SEG/OFF:       G072/0020/6970
+
+FROM:     46TH ST                                                   TO:    45TH ST
+
+STATE:    PA            COUNTY:                                     MCD: 4210160110 - UNIVERSITY - SOUTHWEST
+
+SIDEWALK:           north                     FC:     17                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 81693 COUNTER #:             11-012              WEATHER:                      DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday       Friday     Saturday         Sunday         Monday      Tuesday    Wednesday     Thursday
+ Ending         9/29/2011     9/30/2011   10/1/2011    10/2/2011      10/3/2011      10/4/2011   10/5/2011     10/6/2011
+
+    12 AM                             2           5               3             2           10             2           3
+      1 AM                            5           8               8             5            8             1           5
+      2 AM                            1           5               2             1            2             5           0
+      3 AM                            4           7               6             3            4             8           6
+      4 AM                            2           6               1             0            1             0           2
+      5 AM                            7           2               2             2            3             5           6
+      6 AM                           11           9               0             6            9             4          10
+      7 AM                4          22          11               5            23           19            29           9
+      8 AM               14          12          10              18            15           20            22          24
+      9 AM               11          20          26              20            14           16            22          17
+    10 AM                23          27          41              16            19           17            18          18
+    11 AM                19          16          25              37            15           11            11          23
+    12 PM                10          14          17              18            11           10            22          14
+      1 PM               15          21          31              14            11           22            17          21
+      2 PM               15           9          17              13            12           11            14
+      3 PM               12          17          11               9            10           16            17
+      4 PM               19           8          25               9            19           43            14
+      5 PM               26          23          23              12            28           18            28
+      6 PM               37          21          18              13            37           35            41
+      7 PM               27          22          38              14            34           25            32
+      8 PM               25          13          22              13            20           17            39
+      9 PM               12          18           6               8            33           16            17
+    10 PM                 9          11          10               7             5           16            21
+     11PM                 8           7          11               8            13            8             8
+     Total              286         313         384             256           338          357           397         158
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.959            FACTOR:        1.0622       ADP:     347
+
+
+
+
+11:20:55PM      6/7/2014                                                                                                   Page 1 of 1
+

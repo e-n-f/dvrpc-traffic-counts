@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 2/7/2012             PROJECT:          11-43-045                    STATION ID:         P0219
+
+ROAD:     SPRUCE ST                                                                                        SR/SEG/OFF:         G066/0030/1478
+
+FROM:     36TH ST WALK                                                TO:   34TH ST
+
+STATE:    PA           COUNTY:                                        MCD: 4210160110 - UNIVERSITY - SOUTHWEST
+
+SIDEWALK:           south                     FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 85824 COUNTER #:             11-019                    WEATHER:      f               DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Monday        Tuesday     Wednesday        Thursday         Friday      Saturday        Sunday        Monday
+ Ending         2/6/2012      2/7/2012    2/8/2012         2/9/2012     2/10/2012      2/11/2012       2/12/2012     2/13/2012
+
+    12 AM                            11          16               27             24           23              21             9
+      1 AM                           12           8                5             13           10              16             3
+      2 AM                            2           2                8              7            4              10             2
+      3 AM                            1           4                3              4           12              14             7
+      4 AM                            5          12                7             10            2               8             8
+      5 AM                           30          33               23             26           10              13            23
+      6 AM                          154         106              130            134           62              41           141
+      7 AM                          256         242              234            271           72              31           221
+      8 AM                          358         382              308            334           88              20           314
+      9 AM                          337         421              307            374           81              49           372
+    10 AM                           332         317              356            335           77              61           311
+    11 AM               318         241         278              296            362           98              66
+    12 PM               370         330         358              305            432           99              97
+      1 PM              392         389         379              367            386          153              98
+      2 PM              302         355         285              370            291          118             103
+      3 PM              335         311         285              340            354          111              90
+      4 PM              367         450         341              427            367          111             115
+      5 PM              422         439         417              422            365          116             150
+      6 PM              246         256         216              262            340          106              95
+      7 PM              182         209         150              181            204           91             108
+      8 PM              140         130          92              126            100           47              42
+      9 PM               78          97         103               78            207           48              42
+    10 PM                43          48          40               64             54           35              28
+     11PM                31          43          37               49             37           26              23
+     Total            3,226       4,796       4,524            4,695          5,031        1,600           1,341         1,411
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  1.106             FACTOR:         1.0622        ADP:        4,306
+
+
+
+
+11:22:31PM      6/7/2014                                                                                                         Page 1 of 1
+

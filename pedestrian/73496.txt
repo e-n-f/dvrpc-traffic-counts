@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 1/20/2011            PROJECT:          11-43-040                STATION ID:       P0166
+
+ROAD:     2ND ST                                                                                       SR/SEG/OFF:       G007/0090/0316
+
+FROM:     ARCH ST                                                     TO:    MARKET ST
+
+STATE:    PA           COUNTY:                                        MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           west                      FC:     17                      TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 73496 COUNTER #:             10-004                    WEATHER:                  DATA SOURCE:       INTERNAL
+
+COMMENTS:             Wednesday 1/26: Major Snow Event
+
+
+
+
+  Hour         Wednesday      Thursday     Friday          Saturday         Sunday      Monday      Tuesday      Wednesday
+ Ending         1/19/2011     1/20/2011   1/21/2011    1/22/2011        1/23/2011      1/24/2011   1/25/2011     1/26/2011
+
+    12 AM                             8          20              55              59            0           5             5
+      1 AM                            7           6              53              51            3           1             4
+      2 AM                            3           5              41              93            1          11             5
+      3 AM                            2           2              11               7            2           1             2
+      4 AM                            5           2               2               2            2           2             4
+      5 AM                            7           6               3               1            4           8             6
+      6 AM                           24          19               5               6           18          26            20
+      7 AM                           49          89               9               8           52          57            53
+      8 AM                          115         119              31              22           87         122           118
+      9 AM              146          92          94              46              21           72          90            84
+    10 AM                58          55          48             108              91           34          82            53
+    11 AM                71          63          71             131             121           58          78            53
+    12 PM               244         223          92             176             141           52         197            59
+      1 PM              114         110          92             197             191           78         122            83
+      2 PM              110          85          81             225             122           88         101            45
+      3 PM               63          88          75             208              97           51          78            66
+      4 PM               99         127         110             183             113           88         102           103
+      5 PM              195         158         177             183              89          127         155           111
+      6 PM              195         123         213             143             155           96         148
+      7 PM              116         209         149             127              45           76         104
+      8 PM               70          77         157              84              43           29          57
+      9 PM               70          50         123              81              41           40          68
+    10 PM                34          68         113              76              18           16          34
+     11PM                24          23          83              91               7           15          18
+     Total            1,609       1,771       1,946           2,269           1,544        1,089       1,667           874
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  1.102             FACTOR:         1.0622       ADP:     2,006
+
+
+
+
+11:15:10PM      6/7/2014                                                                                                     Page 1 of 1
+

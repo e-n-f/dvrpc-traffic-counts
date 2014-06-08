@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                  DATE: 6/28/2011            PROJECT:           11-43-045                 STATION ID:        P0201
+
+ROAD:     20TH ST                                                                                          SR/SEG/OFF:        G093/0010/0264
+
+FROM:     PATTISON AVE                                                  TO:    RESERVE DR
+
+STATE:    PA           COUNTY:                                          MCD: 4210160105 - LOWER SOUTH
+
+SIDEWALK:           west                        FC:     16                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                   79122 COUNTER #:             10-009                     WEATHER:                  DATA SOURCE:        INTERNAL
+
+COMMENTS:             Monday July 4: Independence Day Holiday
+
+
+
+
+  Hour           Monday          Tuesday    Wednesday        Thursday          Friday      Saturday    Sunday        Monday
+ Ending         6/27/2011       6/28/2011   6/29/2011    6/30/2011            7/1/2011     7/2/2011    7/3/2011     7/4/2011
+
+    12 AM                               1           0               1                0            0             0          0
+      1 AM                              0           0               4                1            0             0          0
+      2 AM                              0           0               0                0            0             0          0
+      3 AM                              0           0               0                0            0             0          0
+      4 AM                              0           0               0                0            0             0          0
+      5 AM                              2           0               0                1            2             0          0
+      6 AM                              6           6               1                2            1             0          0
+      7 AM                              1           6               3                6            0             0          0
+      8 AM                              6           5               7                1            8             9          5
+      9 AM                              2           4               4               93            2             1          4
+    10 AM                   2           1           6               3               75            4             4          2
+    11 AM                   0           0           8              11                6            0            14          2
+    12 PM                   4           0           4               6               13            4             1          0
+      1 PM                  6           1           9               8               11            3             0          3
+      2 PM                  2          10          32               6               51           12             4          5
+      3 PM                  3          52          60              19              108           34            14          3
+      4 PM                  2         100           7              48              168           38            27          9
+      5 PM                  8          32          19             132              147           27             3          7
+      6 PM                 12           6          18               3                3            1             2          3
+      7 PM                  3           6          13               8                1            4            10          1
+      8 PM                  9           7           3               3                1            2            12          1
+      9 PM                  4           9          18               3                3            0             0          0
+    10 PM                   2           4           6               6                0            0             0          1
+     11PM                   0           5           0               1                0            0             0          2
+     Total                 57         251         224             277              691          142           101         48
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    0.915             FACTOR:          1.0622        ADP:    273
+
+
+
+
+11:16:59PM      6/7/2014                                                                                                        Page 1 of 1
+

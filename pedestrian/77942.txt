@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                 DATE: 4/23/2011           PROJECT:        11-41-010                STATION ID:     P0366
+
+ROAD:     5TH ST                                                                                     SR/SEG/OFF:     G284/0050/0845
+
+FROM:     DARBY TERRACE                                             TO:    GREENWAY AVE
+
+STATE:    PA            COUNTY:                                     MCD: 4204518152 - DARBY BORO
+
+SIDEWALK:           west                      FC:     17                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 77942 COUNTER #:             10-007               WEATHER:                     DATA SOURCE:    INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday    Saturday     Sunday          Monday         Tuesday    Wednesday   Thursday
+ Ending         4/22/2011     4/23/2011   4/24/2011    4/25/2011      4/26/2011      4/27/2011   4/28/2011
+
+    12 AM                            60          57              21             35          34           53
+      1 AM                           44          96              12             44          14           39
+      2 AM                            9           2               3              8           1            5
+      3 AM                            0           0               2              0           0            2
+      4 AM                            2           2               2              1           2            0
+      5 AM                            0           1               0              0           0            0
+      6 AM                            1           0               6             11           4            6
+      7 AM                            2           0              11             15          13           10
+      8 AM                            5           3               9              5          20           21
+      9 AM                            8           4               8             14          16            5
+    10 AM                            16          15              13             20           8            5
+    11 AM                 3          11          21              22             21           8            4
+    12 PM                29          29          25              16             15          10
+      1 PM               34          36          41              36             15          29
+      2 PM               28          27          28              37             22          44
+      3 PM               30          38          24              79             36          40
+      4 PM               48          44          32              46             40          40
+      5 PM               43          41          26              34             35          27
+      6 PM               48          30          28              55             41          55
+      7 PM               47          58          44              50             44          39
+      8 PM               54          29          37              54             40          46
+      9 PM               29          33          47              33             51          32
+    10 PM                77          43          33              12             41          45
+     11PM                64          51          17              51             19          29
+     Total              534         617         583             612            573         556           150
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  1.012            FACTOR:         1.0622      ADP:     632
+
+
+
+
+11:16:01PM      6/7/2014                                                                                               Page 1 of 1
+

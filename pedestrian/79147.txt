@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 7/1/2011            PROJECT:           11-43-045                 STATION ID:      P0211
+
+ROAD:     25TH ST                                                                                       SR/SEG/OFF:          LOCAL
+
+FROM:     REED ST                                                    TO:    WHARTON ST
+
+STATE:    PA           COUNTY:                                       MCD: 4210160112 - SOUTH
+
+SIDEWALK:           west                     FC:     19                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 79147 COUNTER #:            10-005                  WEATHER:                     DATA SOURCE:          INTERNAL
+
+COMMENTS:             Monday July 4: Independence Day Holiday
+
+
+
+
+  Hour          Thursday       Friday    Saturday         Sunday           Monday       Tuesday     Wednesday     Thursday
+ Ending         6/30/2011    7/1/2011    7/2/2011         7/3/2011         7/4/2011     7/5/2011    7/6/2011      7/7/2011
+
+    12 AM                            1           0               1                1            1              0          2
+      1 AM                           4           2               0                1            2              0          0
+      2 AM                           0           1               2                0            1              0          0
+      3 AM                           0           0               0                0            0              0          0
+      4 AM                           0           1               0                0            0              0          0
+      5 AM                           1           0               0                2            0              1          0
+      6 AM                           2           0               0                0            0              2          0
+      7 AM                           1           2               1                0            2              6          2
+      8 AM                           0           3               1                2            2              5          3
+      9 AM                           3           6               2                0            5              1          0
+    10 AM                            2           2               5                1            1              4          3
+    11 AM                3           2           1               7                0            2              0          2
+    12 PM                2           1           4              12                6            0              4          1
+      1 PM               4           5           0               4                2            3              3          0
+      2 PM              18          14           0               6                2            6             44         18
+      3 PM              38          25          62              14                3           58            154
+      4 PM              71          13         140              63               21          167            171
+      5 PM             127          32         121              22               18          207             99
+      6 PM              21           9           0               3                5           18             11
+      7 PM               2           3           3               3               13            3              4
+      8 PM               6           1          10               4                8            1              5
+      9 PM               0           2           1               2                6            4              6
+    10 PM                3           2           1               2                8            3              1
+     11PM                2           1           0               3                1            1              2
+     Total             297         124         360             157              100          487            523         31
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.900             FACTOR:          1.0622        ADP:     279
+
+
+
+
+11:23:25PM      6/7/2014                                                                                                      Page 1 of 1
+

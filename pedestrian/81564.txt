@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                   DATE: 10/26/2011          PROJECT:          11-43-045                    STATION ID:       P0288
+
+ROAD:     RIDGE AVE                                                                                          SR/SEG/OFF:       3009/0040/1750
+
+FROM:     OXFORD ST                                                    TO:    22ND ST
+
+STATE:    PA           COUNTY:                                         MCD: 4210160107 - LOWER NORTH
+
+SIDEWALK:           east                        FC:     17                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                     81564 COUNTER #:           10-005                 WEATHER:          f            DATA SOURCE:         INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Tuesday          Wednesday   Thursday         Friday         Saturday       Sunday        Monday        Tuesday
+ Ending        10/25/2011 10/26/2011 10/27/2011 10/28/2011 10/29/2011 10/30/2011 10/31/2011                            11/1/2011
+
+    12 AM                               5           7               2              13             4                4           6
+      1 AM                              4           4               4               7             2                2           4
+      2 AM                              2           9               8               3             0                3           5
+      3 AM                              2           1               0               2             3                0           0
+      4 AM                              2           0               0               1             1                0           6
+      5 AM                              4           1               2               3             1                2           1
+      6 AM                              4           7               8               2             2                7           5
+      7 AM                             16          13              15               0             3               15          15
+      8 AM                             45          17              14              10             1               18          22
+      9 AM                             34          18              30              18             9               14          29
+    10 AM                              31          33              33              16             6               28          29
+    11 AM                   14         27          20              42              18            15               36
+    12 PM                   19         39          28              57              18            32               28
+      1 PM                  26         27          37              65              34            29               24
+      2 PM                  29         51          27              46              11            32               21
+      3 PM                  42         25          40              87              18            13               21
+      4 PM                  43         31          30              46              13            32               22
+      5 PM                  31         33          18              56               7            12               52
+      6 PM                  27         29          23              28              12            10               22
+      7 PM                  13         22          24              20              17             7               28
+      8 PM                  17         13          11              10              21             5               17
+      9 PM                  17         14          10              22              11             2               17
+    10 PM                    7          4           8              14               9            11               18
+     11PM                    3         12           6              12               3             7               12
+     Total                 288        476         392             621             267           239              411         122
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    0.985             FACTOR:         1.0622        ADP:        420
+
+
+
+
+11:18:24PM      6/7/2014                                                                                                           Page 1 of 1
+

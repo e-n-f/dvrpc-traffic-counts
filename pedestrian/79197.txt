@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                 DATE: 7/30/2011           PROJECT:           11-43-045                 STATION ID:        P0273
+
+ROAD:     54TH ST                                                                                        SR/SEG/OFF:        G081/0030/1584
+
+FROM:     OVERBROOK AVE                                               TO:    US 1 CITY AVE
+
+STATE:    PA            COUNTY:                                       MCD: 4210160106 - WEST PARK
+
+SIDEWALK:           west                      FC:     16                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 79197 COUNTER #:             11-011                  WEATHER:                     DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday    Saturday     Sunday          Monday           Tuesday    Wednesday     Thursday      Friday
+ Ending         7/29/2011     7/30/2011   7/31/2011        8/1/2011         8/2/2011     8/3/2011    8/4/2011     8/5/2011
+
+    12 AM                            12          16              11               12           11             8         10
+      1 AM                            4           7               2                3            1             0          5
+      2 AM                            9           2               0                1            4             2          0
+      3 AM                           14          18              14               15           11            11          8
+      4 AM                            0           1               1                2            2             0          3
+      5 AM                            2           3               5                5            4             3          2
+      6 AM                            7           9              12               16           13             7         13
+      7 AM                           20          11              21               24           19            21         38
+      8 AM                           12          14              31               35           38            31         45
+      9 AM                           16          15              27               27           23            27         15
+    10 AM                 4          23          15              12               12           24            23
+    11 AM                32          24          17              19               21           19            27
+    12 PM                39          21          13              26               40           48            30
+      1 PM               38          24          18              48               36           40            62
+      2 PM               56          26          16              30               44           51            47
+      3 PM               33          29          22              40               42           44            61
+      4 PM               51          34          29              53               48           76            76
+      5 PM               34          23          19              40               33           39            52
+      6 PM               22          18          17              36               35           38            53
+      7 PM               40          22          17              25               31           26            32
+      8 PM               29          10           6              22               26           23            17
+      9 PM               13          28          17              18               29           25            17
+    10 PM                21          18           8              28               26           11            19
+     11PM                10          18           7              15               16           10            22
+     Total              422         414         317             536              579          600           648        139
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.894             FACTOR:          1.0622        ADP:    490
+
+
+
+
+11:01:48PM      6/7/2014                                                                                                      Page 1 of 1
+

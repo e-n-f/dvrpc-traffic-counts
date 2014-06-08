@@ -1,0 +1,58 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 5/24/2011           PROJECT:          10-cbd-048               STATION ID:         P0081
+
+ROAD:     17TH ST                                                                                     SR/SEG/OFF:         G047/0040/0369
+
+FROM:     CALLOWHILL ST                                              TO:   BUTTONWOOD ST
+
+STATE:    PA           COUNTY:                                       MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                     FC:     17                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                71843 COUNTER #:             10-001                    WEATHER:                  DATA SOURCE:        INTERNAL
+
+COMMENTS:             Monday 5/30/2011 Memorial Day Holiday
+
+
+
+
+  Hour           Monday       Tuesday    Wednesday        Thursday         Friday      Saturday    Sunday        Monday       Tuesday      Wednesday
+ Ending         5/23/2011    5/24/2011   5/25/2011    5/26/2011        5/27/2011      5/28/2011   5/29/2011     5/30/2011    5/31/2011     6/1/2011
+
+    12 AM                            0           0               0               5            0           2             7            0            2
+      1 AM                           9           2               0               0            1           0             5            2            0
+      2 AM                          14           0               2               0            3           3             2            0            0
+      3 AM                          17           0               0               0            0           1             0            0            0
+      4 AM                           8           1               0               1            0           0             0            1            0
+      5 AM                           1           0               0               3            1           1             0            1            1
+      6 AM                          22           9               4               4            2           2             2            5            4
+      7 AM                          63          47              51              22            7           1             7           55           55
+      8 AM                          97          98              75              37           28           5             6           81           25
+      9 AM                          99         117             108              51           29          15            15           96
+    10 AM               40         111         147              93              27           13           8            22          100
+    11 AM               79          82          91              84              39           36           7            13           99
+    12 PM               89         126          99              86              18           12           7            11          102
+      1 PM             101         124          77              94              13           10           7             9           55
+      2 PM              67          74          90              66              18           10           8             3           54
+      3 PM              63          64          70              50              22            6           2             0           51
+      4 PM              62          60          59              41               9            6           2             5           38
+      5 PM             102          68          71              71              11            4          11             8           73
+      6 PM              35          35          34              41              11           11           8             0           30
+      7 PM              58          49          32              39               5            1           1             1           29
+      8 PM              25          30          21              26               4           10           5             2           18
+      9 PM              23          20          12              33               5            2           6             7           13
+    10 PM                7           8          11               7               4            6           5             1           10
+     11PM                7           5           6               6               3            0           6             0            3
+     Total             758       1,186       1,094             977             312          198         113           126          916           87
+
+
+
+
+11:10:29PM      6/7/2014                                                                                                    Page 1 of 1
+PEDESTRIAN SEASONAL FACTOR:   0.946   FACTOR:   1.0622   ADP:   618
+
+
+
+
+11:10:29PM   6/7/2014                                                 Page 2 of 1
+

@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                  DATE: 11/12/2010         PROJECT:        10-cbd-022               STATION ID:      P0013
+
+ROAD:     6TH ST                                                                                     SR/SEG/OFF:      G002/0040/0211
+
+FROM:     BAINBRIDGE ST                                             TO:    SOUTH ST
+
+STATE:    PA           COUNTY:                                      MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                      FC:     14                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                    71702 COUNTER #:          10-015              WEATHER:                    DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday         Friday    Saturday        Sunday         Monday      Tuesday    Wednesday     Thursday
+ Ending        11/11/2010 11/12/2010 11/13/2010 11/14/2010 11/15/2010 11/16/2010 11/17/2010 11/18/2010
+
+    12 AM                             14         22              33             6            2            12         17
+      1 AM                            23         24              28             9            5             2         12
+      2 AM                             3          5               9             0            0             0          5
+      3 AM                             2          3               5             1            0             0          5
+      4 AM                             1          0               4             0            1             0          1
+      5 AM                             3          1               1             1            2             1          4
+      6 AM                             3          0               1            10            2             5          3
+      7 AM                            14          6               5            18           24            14
+      8 AM                            44         17              10            33           40            40
+      9 AM                            28         21              20            18           20            46
+    10 AM                    3        26         31              31            21           16            19
+    11 AM                   54        25         56              56            24           23            37
+    12 PM                   71        57        112              61            36           28            41
+      1 PM                  65        44        102              90            31           35            36
+      2 PM                  68        63        101             104            35           42            55
+      3 PM                  64        51         65             109            33           46            41
+      4 PM                  90        76         96              91            45           43            34
+      5 PM                  64        68         70             101            73           57            64
+      6 PM                  62        59         76              46            37           29            44
+      7 PM                  32        57         64              22            39           30            44
+      8 PM                  39        32        117              34            28           20            31
+      9 PM                  30        45         75              27            16           35            35
+    10 PM                   61        54         61              12             7           17            30
+     11PM                   10        23         43               2            10           18            12
+     Total                 713       815      1,168             902           531          535           643         47
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  1.001            FACTOR:        1.0622       ADP:     814
+
+
+
+
+11:11:21PM      6/7/2014                                                                                                  Page 1 of 1
+

@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 6/4/2011           PROJECT:           11-41-050                 STATION ID:        P0238
+
+ROAD:     58TH ST                                                                                         SR/SEG/OFF:        G065/0020/2640
+
+FROM:     CHESTER AVE                                                  TO:    KINGSESSING AVE
+
+STATE:    PA            COUNTY:                                        MCD: 4210160110 - UNIVERSITY - SOUTHWEST
+
+SIDEWALK:           east                       FC:     17                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                    78723 COUNTER #:           10-005                  WEATHER:                     DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday       Saturday   Sunday          Monday           Tuesday    Wednesday     Thursday      Friday
+ Ending         6/3/2011         6/4/2011   6/5/2011        6/6/2011         6/7/2011     6/8/2011    6/9/2011     6/10/2011
+
+    12 AM                              10         14              13                3            4             7           7
+      1 AM                              2         11               1                2            5             3           7
+      2 AM                              1          2               2                2            4             0           2
+      3 AM                              3          0               1                5            1             2           1
+      4 AM                              1          1               6                2            3             3           2
+      5 AM                              2          3               6                4            7             3           3
+      6 AM                              0          4               7                6           10             8           4
+      7 AM                              9          4              20               24           20            17          13
+      8 AM                             14          9              24               27           25            19          73
+      9 AM                             22         19              14               38           18            12          98
+    10 AM                   12         18         13              20               26           43             9
+    11 AM                   13         23         13              20               34            7            17
+    12 PM                   19         31         18              18               21           14            14
+      1 PM                  17         18         13              22               16           26            10
+      2 PM                  79         24         20              87               71           25            58
+      3 PM                  28         31         18              22               31           31            22
+      4 PM                  21         14          6              46               21           31            13
+      5 PM                  17         13          6              22               15           10            19
+      6 PM                  17         14         14              22                8            9            13
+      7 PM                  30         21         16              16               14           10            11
+      8 PM                  26         20         24              19               18           13            20
+      9 PM                  28         10         17              18               14           17            17
+    10 PM                   19         22          9               6               15           12            16
+     11PM                    8         22          9              15               10            6            12
+     Total                 334        345        263             447              427          351           325         210
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    0.930            FACTOR:          1.0622        ADP:    356
+
+
+
+
+10:50:56PM      6/7/2014                                                                                                       Page 1 of 1
+

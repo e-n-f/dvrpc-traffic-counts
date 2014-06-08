@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 7/19/2011           PROJECT:          11-43-045                 STATION ID:         P0304
+
+ROAD:     ARAMINGO AVE                                                                                 SR/SEG/OFF:         2009/0021/0000
+
+FROM:     CUMBERLAND ST                                              TO:   HUNTINGDON ST
+
+STATE:    PA           COUNTY:                                       MCD: 4210160109 - RIVER WARDS
+
+SIDEWALK:           west                     FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                79177 COUNTER #:             11-016                    WEATHER:                   DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Monday       Tuesday    Wednesday        Thursday         Friday      Saturday     Sunday        Monday
+ Ending         7/18/2011    7/19/2011   7/20/2011    7/21/2011        7/22/2011      7/23/2011    7/24/2011     7/25/2011
+
+    12 AM                            6           7              15               8           11             16           6
+      1 AM                           2           4               4               1            2              7           8
+      2 AM                           5          10               6               3            9             13           2
+      3 AM                          11          13              13              14           14             18          12
+      4 AM                           8           5               3              10            2              4           6
+      5 AM                          18          17              18              16           21             15          13
+      6 AM                          30          34              28              32           19             11          32
+      7 AM                          42          52              39              34           46             18          31
+      8 AM                          80          83              33              62           70             49          45
+      9 AM                          65          70              42              85          100             38          32
+    10 AM                           77          52              60              82          106             49          46
+    11 AM               27          69          54              56              70           72             60          44
+    12 PM               67          21          74              69              72           63             49          49
+      1 PM              71          49          81              72              72           74             60          40
+      2 PM              94          64          67              89              79           75            106          37
+      3 PM              76          67         104             144              66           94             51          33
+      4 PM              47          57          76             128              77          126             26          38
+      5 PM             107          52          67              91              70           37             54          33
+      6 PM              29          25          28              44              46           31             26          27
+      7 PM              33          22          38              25              45           24              7          25
+      8 PM              27           9          24              22              32           23             28           6
+      9 PM              18          33          29               9              23           35             23           8
+    10 PM               11          30          19              21              28           16             18          20
+     11PM               12          12           7              22              19           21             26          15
+     Total             619         854       1,015           1,053           1,046        1,091            772         608
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.900             FACTOR:         1.0622        ADP:     929
+
+
+
+
+11:16:50PM      6/7/2014                                                                                                     Page 1 of 1
+

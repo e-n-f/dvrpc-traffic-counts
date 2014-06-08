@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                DATE: 10/26/2011          PROJECT:          11-43-045                    STATION ID:     P0343
+
+ROAD:     US 13 FRANKFORD AVE                                                                             SR/SEG/OFF:     0013/0240/1500
+
+FROM:     PA 73 COTTMAN AVE                                         TO:    ALDINE ST
+
+STATE:    PA           COUNTY:                                      MCD: 4210160104 - NORTH DELAWARE
+
+SIDEWALK:           east                     FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                  81705 COUNTER #:           11-018                 WEATHER:          f            DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Tuesday       Wednesday   Thursday         Friday         Saturday       Sunday        Monday      Tuesday
+ Ending        10/25/2011 10/26/2011 10/27/2011 10/28/2011 10/29/2011 10/30/2011 10/31/2011                       11/1/2011
+
+    12 AM                 6           6          5               4              14             6              3          14
+      1 AM                4           3          2               1               9            10              3           4
+      2 AM                5           3          4               4               5             7              5           7
+      3 AM                3           2          3               2               1             3              1           1
+      4 AM                0           0          0               0               3             3              0           4
+      5 AM                8           6          3               9               2             1              6           2
+      6 AM               15          20         13              14               3             4             13          24
+      7 AM               33          25         24              19               4             4             23          24
+      8 AM               44          43         29              45              15            16             39          47
+      9 AM               63          66         55             111              25             8             55          75
+    10 AM                89          60         50              79              44            27             89         110
+    11 AM               138          70         88             117              39            66            109         118
+    12 PM                87          84         77             100              27            88            106          86
+      1 PM               86          71         77             121              26            73            102
+      2 PM               95         114         67             118              42            59            107
+      3 PM              120          99         86             116              35            56            110
+      4 PM               94         100         77              97              40            61            108
+      5 PM               75          83         48              94              35            62             95
+      6 PM               87          95         44             141              39            49            130
+      7 PM               46          75         35              90              20            64             85
+      8 PM               42          42         25              50              32            33             53
+      9 PM               27          53         23              58              34            28             24
+    10 PM                11          14         13              73              18            14             24
+     11PM                 1           7          9              23               8            10             13
+     Total            1,179       1,141        857           1,486             520           752          1,303         516
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.985             FACTOR:         1.0622        ADP:        1,057
+
+
+
+
+11:21:12PM      6/7/2014                                                                                                      Page 1 of 1
+

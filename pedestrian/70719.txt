@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                DATE: 10/13/2010          PROJECT:          11-43-040                STATION ID:    P0142
+
+ROAD:     4TH ST                                                                                      SR/SEG/OFF:    G706/0010/2956
+
+FROM:     CHESTNUT ST                                               TO:    MARKET ST
+
+STATE:    PA           COUNTY:                                      MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                     FC:     17                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                  70719 COUNTER #:           10-008                 WEATHER:                   DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Tuesday       Wednesday   Thursday         Friday         Saturday       Sunday    Monday      Tuesday
+ Ending        10/12/2010 10/13/2010 10/14/2010 10/15/2010 10/16/2010 10/17/2010 10/18/2010 10/19/2010
+
+    12 AM                             8         13               5              40            52         11           2
+      1 AM                            5          1               7              24            47          3           3
+      2 AM                            0          1               2              26            53          3           2
+      3 AM                            3          4               7               0             2          4           3
+      4 AM                            7          6               1               1             2          1           5
+      5 AM                            6          2               4               1             1          4           3
+      6 AM                           28         24              21               5             8         18          16
+      7 AM                          195        211             202              51             9         37         195
+      8 AM                          102        103              81              50            29         65          98
+      9 AM               84          71         62              67             171            32         78          22
+    10 AM                87          83         50              55              66            68         77
+    11 AM                76         105        126              72             147            80         66
+    12 PM               233         138        130             255             146            87        123
+      1 PM              143         229        282             108             555            89        134
+      2 PM              480         357        116             203              77            70        106
+      3 PM              101         180         87             396             132            83         66
+      4 PM              132         125         90             153             110            80         77
+      5 PM              115         129         83             105              78            75        107
+      6 PM               86         126         50              85              92            64         80
+      7 PM               70          64         40              57              60            48         47
+      8 PM               51          69         19              47              62            34         32
+      9 PM               48          42         35              58              50            16         20
+    10 PM                20          22         22              36              58            19         19
+     11PM                20          16         25              58              62            10         14
+     Total            1,746       2,110      1,582           2,085           2,064         1,058      1,192         349
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.968             FACTOR:         1.0622        ADP:    1,729
+
+
+
+
+11:06:57PM      6/7/2014                                                                                                  Page 1 of 1
+

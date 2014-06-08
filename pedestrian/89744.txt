@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 5/11/2012           PROJECT:        10-64-104                STATION ID:       P0306
+
+ROAD:     KENSINGTON AVE                                                                            SR/SEG/OFF:       G058/0010/1056
+
+FROM:     LEHIGH AVE                                               TO:    FRONT ST
+
+STATE:    PA           COUNTY:                                     MCD: 4210160109 - RIVER WARDS
+
+SIDEWALK:           east                     FC:     17                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                89744 COUNTER #:             11-012              WEATHER:                      DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday      Friday     Saturday         Sunday         Monday      Tuesday    Wednesday     Thursday
+ Ending         5/10/2012    5/11/2012   5/12/2012    5/13/2012      5/14/2012     5/15/2012    5/16/2012     5/17/2012
+
+    12 AM                           15          25              31            11           18          21            26
+      1 AM                          23          26              21             8            5           5            11
+      2 AM                          15          16              13             5            8           7             6
+      3 AM                           5           8              10             8           17           2             6
+      4 AM                           4          11              16             9           11           1             8
+      5 AM                           7           7               5            10           12          13            10
+      6 AM                          17           7               8            23           24          26            21
+      7 AM                         261          28              23           197          239         254           265
+      8 AM                         104          59              44           105          116         141           121
+      9 AM                          78          82              69            83           39         119            71
+    10 AM                           78         100              82            74           50         103           116
+    11 AM                          142         122             128            99           49         105            39
+    12 PM                          130         151             100            80           61          87
+      1 PM                         128         118             118            83          151          97
+      2 PM             149         160         119              76           127           79         134
+      3 PM             203         199         132              81           177          122         166
+      4 PM             111         128          99              49           115          149         134
+      5 PM             119         143         111              69           107           92         117
+      6 PM              97         145         102              52            80          100         108
+      7 PM              67          97          98              65            59           68          74
+      8 PM              45          53         102              49            33           48          57
+      9 PM              32          71          44              54            15           27          48
+    10 PM               20          31          49              35            18           51          36
+     11PM               23          32          38              19            26           29          28
+     Total             866       2,066       1,654           1,217         1,552        1,565       1,883           700
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.962            FACTOR:        1.0622       ADP:     1,692
+
+
+
+
+11:22:10PM      6/7/2014                                                                                                  Page 1 of 1
+

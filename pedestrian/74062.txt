@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                 DATE: 2/12/2011           PROJECT:        11-43-040                STATION ID:         P0302
+
+ROAD:     YORK ST                                                                                    SR/SEG/OFF:         LOCAL
+
+FROM:     THOMPSON ST                                               TO:    ARAMINGO AVE
+
+STATE:    PA            COUNTY:                                     MCD: 4210160109 - RIVER WARDS
+
+SIDEWALK:           north                     FC:     19                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 74062 COUNTER #:             10-001               WEATHER:                     DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday    Saturday     Sunday          Monday         Tuesday    Wednesday   Thursday       Friday
+ Ending         2/11/2011     2/12/2011   2/13/2011    2/14/2011      2/15/2011      2/16/2011   2/17/2011     2/18/2011
+
+    12 AM                            25          38              17              8          17          20            18
+      1 AM                           25          22              26              6           7           8             8
+      2 AM                           20          22               8              3          10           7             7
+      3 AM                           11          16               4              4           7           4             6
+      4 AM                            6          12               9              9           6           5             6
+      5 AM                            5          12               9              9          14          20            12
+      6 AM                           10          12              46             32          22          40            25
+      7 AM                           19          21              89             97          66          60            46
+      8 AM                           73          27             120            156         179          98
+      9 AM                           93          58              99            172         187         187
+    10 AM               127          90          88             172            168         231         207
+    11 AM               284          92         185             285            169         242         239
+    12 PM               150         131         151             140            169         232         257
+      1 PM              192         122          70             257            141         172         221
+      2 PM              175         117          93             159            108         132         215
+      3 PM              208          97         118              98            142         164         213
+      4 PM              190          95          93              98            112         147         139
+      5 PM              144          73          98             100             85         111         156
+      6 PM              133          84          80              60             77         108         151
+      7 PM              117          77          84              59             70          90          92
+      8 PM              100          54          57              31             55          61          83
+      9 PM               70          51          41              20             43          38          52
+    10 PM                45          47          38              14             26          22          28
+     11PM                31          47          24              21             15          10          19
+     Total            1,966       1,464       1,460           1,941          1,876       2,275       2,521           128
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  1.106            FACTOR:         1.0622      ADP:     2,259
+
+
+
+
+11:15:04PM      6/7/2014                                                                                                   Page 1 of 1
+

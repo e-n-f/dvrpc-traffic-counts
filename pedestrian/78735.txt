@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 6/10/2011            PROJECT:         11-41-050                   STATION ID:    P0310
+
+ROAD:     ALLEGHENY AVE                                                                                     SR/SEG/OFF:    2016/0110/2355
+
+FROM:     RICHMOND ST                                                   TO:    BATH ST
+
+STATE:    PA            COUNTY:                                         MCD: 4210160109 - RIVER WARDS
+
+SIDEWALK:           north                        FC:     16                     TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                    78735 COUNTER #:             10-009                WEATHER:                     DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday          Friday     Saturday         Sunday          Monday      Tuesday    Wednesday     Thursday
+ Ending         6/9/2011         6/10/2011   6/11/2011    6/12/2011         6/13/2011    6/14/2011   6/15/2011     6/16/2011
+
+    12 AM                                5           0                  1           1            2             5           2
+      1 AM                               1           1                  0           0            0             0           0
+      2 AM                               0           3                  1           0            0             0           0
+      3 AM                               0           0                  0           0            0             0           0
+      4 AM                               0           0                  0           1            1             1           1
+      5 AM                               3           2                  2           2            2             2           2
+      6 AM                               7           2                  2           6            4             3           2
+      7 AM                               2           6                  3           4            3             1           1
+      8 AM                               2           9                  5           4            4             2           6
+      9 AM                               9           3                  4           5            5             7           6
+    10 AM                    0           4           5                  5           4            9             3
+    11 AM                    0           8          11                  0           3            7             4
+    12 PM                    2          10           6                  9           9            6            10
+      1 PM                   5           0           5                  4          10            3             9
+      2 PM                   7           5           7                  7           8            2             1
+      3 PM                   6           3           2                 10           5            3             4
+      4 PM                   6           4           3                  4          12           10             8
+      5 PM                  10           7           5                  6           2            1            11
+      6 PM                   2           4           6                  9           7            3             3
+      7 PM                   1           9          10                  4          11            0             5
+      8 PM                   9           6           5                  9          13            7            13
+      9 PM                   1           1           3                  2           5            2             3
+    10 PM                    6          10           1                  3           0            2             2
+     11PM                    6           6           3                  2           1            4             1
+     Total                  61         106          98                 92         113           80            98          20
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     0.930            FACTOR:         1.0622       ADP:     97
+
+
+
+
+10:51:44PM      6/7/2014                                                                                                       Page 1 of 1
+

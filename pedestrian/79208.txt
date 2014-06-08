@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                 DATE: 8/2/2011            PROJECT:           11-43-045                 STATION ID:        P0264
+
+ROAD:     AVENUE OF THE REPUBLIC                                                                         SR/SEG/OFF:         LOCAL
+
+FROM:     BELMONT AVE                                                 TO:    MEMORIAL HALL DR
+
+STATE:    PA            COUNTY:                                       MCD: 4210160106 - WEST PARK
+
+SIDEWALK:           north                     FC:     19                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 79208 COUNTER #:             10-010                     WEATHER:                  DATA SOURCE:         INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Monday        Tuesday     Wednesday        Thursday          Friday      Saturday    Sunday        Monday
+ Ending         8/1/2011      8/2/2011    8/3/2011         8/4/2011         8/5/2011     8/6/2011    8/7/2011     8/8/2011
+
+    12 AM                             0          0                0                0            0             0          0
+      1 AM                            0          0                0                0            0             0          0
+      2 AM                            0          0                0                0            0             0          0
+      3 AM                            0          1                0                0            0             0          0
+      4 AM                            0          0                0                0            0             0          0
+      5 AM                            1          1                0                0            0             0          0
+      6 AM                            0          3                5                4            1            41          4
+      7 AM                            1          1                2                3            1            17          4
+      8 AM                            5         10                6               19           12             8          4
+      9 AM                           20          8                6               14           10            32         13
+    10 AM                 9          12         18               13                9           39           116         23
+    11 AM                12          22         10               21               33           27            38
+    12 PM                10          15         23               32               17           44            31
+      1 PM               25          18         21               25               38           62            45
+      2 PM               23          50         27               24               49           71            20
+      3 PM               25          34         12               18               17           33            32
+      4 PM               19          29         53               31               64           47            33
+      5 PM               14           8         36               12               76          118            29
+      6 PM                3           2         52                7                1           25             4
+      7 PM                2           6         46                5                7           54             6
+      8 PM                0           4          1                1                6            3             6
+      9 PM                1           0          0                0                0            1             2
+    10 PM                 0           0          0                0                1            0             0
+     11PM                 1           0          1                0                0            0             0
+     Total              144         227        324              208              358          548           460         48
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.888             FACTOR:          1.0622        ADP:    334
+
+
+
+
+11:15:31PM      6/7/2014                                                                                                      Page 1 of 1
+

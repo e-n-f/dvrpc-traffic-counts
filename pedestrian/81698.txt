@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 9/27/2011           PROJECT:          11-43-045                 STATION ID:         P0229
+
+ROAD:     US 13 POWELTON AVE                                                                           SR/SEG/OFF:         G020/0020/5016
+
+FROM:     34TH ST                                                    TO:   33RD ST
+
+STATE:    PA           COUNTY:                                       MCD: 4210160110 - UNIVERSITY - SOUTHWEST
+
+SIDEWALK:           south                    FC:     17                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                81698 COUNTER #:             11-020                    WEATHER:                   DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Monday       Tuesday    Wednesday        Thursday         Friday      Saturday     Sunday        Monday       Tuesday
+ Ending         9/26/2011    9/27/2011   9/28/2011    9/29/2011        9/30/2011      10/1/2011    10/2/2011     10/3/2011    10/4/2011
+
+    12 AM                           26          30              14             107          243          303            22           14
+      1 AM                          16           8              14              58          243          174             4           10
+      2 AM                           1           5               6              34           73           68             2            4
+      3 AM                           2           4               2               4            6           24             3            4
+      4 AM                           3           3               2              15            7            8             1            1
+      5 AM                           4           5              14               8            2            2             3            3
+      6 AM                          10          16              11              21            7            6            10           16
+      7 AM                          21          12              18              19           10            6            23           12
+      8 AM                          25          35              33              38           19           13            40            9
+      9 AM                          23          24              10              20           24           12            21
+    10 AM                           37          39              36              35           34           33            18
+    11 AM                          112          31              29              41           44           58            34
+    12 PM                           82          45              35              57           49           48            43
+      1 PM              22          41          49              46              38           46           53            32
+      2 PM              36          50          42              38              57           89           58            37
+      3 PM              38          37          65              36              65           56           48            61
+      4 PM              55          63          44              42              54           66           41            41
+      5 PM              88          63          76              58              58           47           54            75
+      6 PM              62          68          76              62              73           59           42            64
+      7 PM              61          73          60              49              64           56           56            98
+      8 PM              56          97          56              47              56           91           36            94
+      9 PM              62         235          64              69              66           67           38            34
+    10 PM               48         271          55             172             222          250           34            44
+     11PM               26          88          26             160             267          308           16            35
+     Total             554       1,448         870           1,003           1,477        1,896        1,231           839           73
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.959             FACTOR:         1.0622        ADP:     1,275
+
+
+
+
+11:21:04PM      6/7/2014                                                                                                     Page 1 of 1
+

@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 9/27/2011            PROJECT:          11-43-045                 STATION ID:         P0258
+
+ROAD:     BELMONT AVE                                                                                      SR/SEG/OFF:         3005/0110/0250
+
+FROM:     LANCASTER AVE                                                  TO:   WESTMINSTER AVE
+
+STATE:    PA           COUNTY:                                           MCD: 4210160111 - WEST
+
+SIDEWALK:           east                         FC:     16                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                    81685 COUNTER #:             10-007                    WEATHER:                   DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Monday           Tuesday    Wednesday        Thursday         Friday      Saturday     Sunday        Monday       Tuesday
+ Ending         9/26/2011        9/27/2011   9/28/2011    9/29/2011        9/30/2011      10/1/2011    10/2/2011     10/3/2011    10/4/2011
+
+    12 AM                                5           4               3              10            5             14           2            8
+      1 AM                               8           9               8               4           12             21           3            3
+      2 AM                               4           1               6               9           18              3           2            3
+      3 AM                               3           0               5               1            5              3           3            4
+      4 AM                               2           1               4               2            1              0           3            2
+      5 AM                               9           1               7               2            4              1           1            2
+      6 AM                               5           8               4               8            3              3          10            9
+      7 AM                              27          23              23              43            5              0          28           46
+      8 AM                              27          15              28              19           18              7          25           24
+      9 AM                              21          20              14              35           18             17          19
+    10 AM                               32          21              26              31           36             15          18
+    11 AM                               35          37              32              55           37             14          29
+    12 PM                               22          23              23              51           52             20          31
+      1 PM                  28          25          25              20              36           29             20          35
+      2 PM                  45          31          32              43              28           36             17          36
+      3 PM                  34          43          34              36              63           37             13          53
+      4 PM                  39          50          37              33              40           37             18          42
+      5 PM                  20          13          22              32              42           27             15          26
+      6 PM                  33          28          32              25              43           17             16          45
+      7 PM                  17          18          20              28              49           24             22          18
+      8 PM                  17          16          18              27              25           25             18          21
+      9 PM                  19          16          30              21              16           10             16          18
+    10 PM                   15          13          13              13              26           17              7           5
+     11PM                   12           8           9              13              10           35              4           9
+     Total                 279         461         435             474             648          508            284         482          101
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     0.959             FACTOR:         1.0622        ADP:     479
+
+
+
+
+11:18:11PM      6/7/2014                                                                                                         Page 1 of 1
+

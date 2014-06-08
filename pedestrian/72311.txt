@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH              DATE: 12/15/2010         PROJECT:          11-41-050                STATION ID:
+
+ROAD:     SCHUYLKILL RIVER TRAIL                                                                   SR/SEG/OFF:     //
+
+FROM:     RAILROAD OVERPASS                                      TO:    US 30 GIRARD AVE
+
+STATE:    PA         COUNTY:                                     MCD: 4210160106 - WEST PARK
+
+SIDEWALK:                                 FC:     19                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:               72311 COUNTER #:           10-001                 WEATHER:                   DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Tuesday    Wednesday   Thursday         Friday         Saturday       Sunday    Monday       Tuesday    Wednesday
+ Ending        12/14/2010 12/15/2010 12/16/2010 12/17/2010 12/18/2010 12/19/2010 12/20/2010 12/21/2010 12/22/2010
+
+    12 AM                          2          0                  0            1             1            0          1            1
+      1 AM                         0          0                  0            0             0            1          0            0
+      2 AM                         0          0                  0            0             0            0          0            0
+      3 AM                         0          0                  0            0             0            0          0            0
+      4 AM                         0          0                  0            0             0            0          0            0
+      5 AM                         0          0                  0            2             1            0          0            0
+      6 AM                         1          4                  0            3             2            5          4            2
+      7 AM                        10         10                  2           11             9            9         12           16
+      8 AM                        10         11                  4           26            23            7          5           14
+      9 AM                         4         10                  4           69            27            9          5            8
+    10 AM                         10          6                  5           37            38           21         11            6
+    11 AM                          4          1                  8           20            40            5         10
+    12 PM              2           4          9                  7           38            19           10          8
+      1 PM             2           2          4                  1           33            14            7         13
+      2 PM             2           4          4                  7           30            15            7         10
+      3 PM             1           3          9                  0           21             9            2          6
+      4 PM             5           6          8                 10           17            15            5         10
+      5 PM            13           9          6                  8            2             9           11          4
+      6 PM             5           8          8                  4            1             4            9          6
+      7 PM             1           5          2                  0            2             5            1          4
+      8 PM             1           4          4                  2            2             0            1          1
+      9 PM             1           3          4                  0            0             0            0          0
+    10 PM              1           0          1                  0            2             0            1          0
+     11PM              0           1          0                  0            0             2            0          0
+     Total            34          90        101                 62          317           233          111        110           47
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:              1.028             FACTOR:         1.0622        ADP:    159
+
+
+
+
+11:13:37PM      6/7/2014                                                                                                Page 1 of 1
+

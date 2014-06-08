@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 7/30/2011              PROJECT:           11-43-045                      STATION ID:      P0270
+
+ROAD:     WYNNEFIELD AVE                                                                                           SR/SEG/OFF:      G082/0010/0211
+
+FROM:     54TH ST                                                          TO:    GEORGES LA
+
+STATE:    PA            COUNTY:                                            MCD: 4210160106 - WEST PARK
+
+SIDEWALK:           north                        FC:       16                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                    79192 COUNTER #:               11-017                  WEATHER:                        DATA SOURCE:          INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday       Saturday     Sunday            Monday           Tuesday    Wednesday        Thursday      Friday
+ Ending         7/29/2011        7/30/2011   7/31/2011          8/1/2011         8/2/2011     8/3/2011       8/4/2011     8/5/2011
+
+    12 AM                                0             0                  0             0                1            0              4
+      1 AM                               0             0                  0             0                0            0              1
+      2 AM                               0             0                  0             0                1            0              1
+      3 AM                               0             0                  0             0                0            0              0
+      4 AM                               0             0                  0             0                1            0              0
+      5 AM                               0             0                  0             0                0            0              1
+      6 AM                               2             0                  0             0                0            1              0
+      7 AM                               0             0                  0             0                1            0              1
+      8 AM                               0             0                  0             0                0            0              1
+      9 AM                               0             0                  0             0                0            0              3
+    10 AM                    0           0             0                  0             0                0            1
+    11 AM                    5           2             2                 14            14                2           13
+    12 PM                    0           0             0                  0             0                0            0
+      1 PM                   0           0             0                  0             0                0            1
+      2 PM                   0           0             0                  0             0                0            0
+      3 PM                   1           0             0                  0             0                0            0
+      4 PM                   0           0             0                  0             0                0            2
+      5 PM                   0           0             0                  0             0                0            1
+      6 PM                   0           0             0                  0             0                0            1
+      7 PM                   0           0             0                  0             0                0            0
+      8 PM                   0           0             0                  0             0                1            2
+      9 PM                   0           0             0                  0             0                0            0
+    10 PM                    0           0             0                  1             0                0            1
+     11PM                    0           0             0                  0             0                1            0
+     Total                   6           4             2                 15            14                8           23             12
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     0.894               FACTOR:          1.0622        ADP:       10
+
+
+
+
+11:05:27PM      6/7/2014                                                                                                                 Page 1 of 1
+

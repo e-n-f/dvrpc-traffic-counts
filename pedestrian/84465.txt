@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH               DATE: 3/15/2012           PROJECT:          11-43-045                    STATION ID:
+
+ROAD:     PENNYPACK TRAIL                                                                                SR/SEG/OFF:       LOCAL
+
+FROM:     VERREE RD                                                 TO:    KREWSTOWN RD
+
+STATE:    PA          COUNTY:                                       MCD: 4210160118 - CENTRAL NORTHEAST
+
+SIDEWALK:                                   FC:     19                      TYPE:         PEDESTRIAN
+
+DVRPC FILE #:               84465 COUNTER #:             11-018                    WEATHER:      f               DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour         Wednesday    Thursday     Friday          Saturday         Sunday      Monday          Tuesday      Wednesday    Thursday
+ Ending         3/14/2012   3/15/2012   3/16/2012    3/17/2012        3/18/2012      3/19/2012       3/20/2012     3/21/2012    3/22/2012
+
+    12 AM                           0           0               0               0            0                 0           0            0
+      1 AM                          0           0               0               0            0                 0           0            0
+      2 AM                          0           0               0               0            0                 0           0            0
+      3 AM                          0           0               0               0            0                 0           0            0
+      4 AM                          0           0               0               0            0                 0           0            0
+      5 AM                          2           0               0               0            0                 0           0            0
+      6 AM                          0           0               2               2            0                 1           0            1
+      7 AM                          8           1               8              10            5                 6           7            7
+      8 AM                         13           3              32              20           12                 6           6           15
+      9 AM                         33          22              55              63           40                32          20           30
+    10 AM                          26          19              58              89           48                26          26           38
+    11 AM                          38          16              93              80           70                45          48
+    12 PM             104          26          11              90              75           55                46          38
+      1 PM             51          34          22              94             130           64                45          52
+      2 PM             63          36          17             106             121           59                48          31
+      3 PM             60          41          29             126             211           47                49          55
+      4 PM             94          39          32             129             137           80                51          56
+      5 PM             98          44          50             101             107          119                56          66
+      6 PM             99          30          18              57              76           94                67          58
+      7 PM             51           7           5              16              38           60                25          22
+      8 PM              0           0           2               1               1            8                 8           0
+      9 PM              0           1           0               0               0            0                 1           0
+    10 PM               0           1           0               0               0            1                 0           0
+     11PM               0           0           0               0               0            0                 0           0
+     Total            620         379         247             968           1,160          762               512         485           91
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                1.059             FACTOR:         1.0622       ADP:         726
+
+
+
+
+11:18:02PM      6/7/2014                                                                                                       Page 1 of 1
+

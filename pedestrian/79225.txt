@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 8/5/2011            PROJECT:           11-43-045                 STATION ID:       P0340
+
+ROAD:     GERMANTOWN AVE                                                                                SR/SEG/OFF:       4007/0110/2150
+
+FROM:     HIGHLAND AVE                                               TO:    EVERGREEN AVE
+
+STATE:    PA           COUNTY:                                       MCD: 4210160117 - UPPER NORTHWEST
+
+SIDEWALK:           west                    FC:      14                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                79225 COUNTER #:             10-007                  WEATHER:                      DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday      Friday     Saturday         Sunday           Monday       Tuesday     Wednesday     Thursday
+ Ending         8/4/2011     8/5/2011    8/6/2011         8/7/2011         8/8/2011     8/9/2011    8/10/2011     8/11/2011
+
+    12 AM                            2           5               2                 2           3            2             7
+      1 AM                           2           4               7                 0           4            0             2
+      2 AM                           0           0               1                 0           0            0             0
+      3 AM                           0           0               0                 0           0            3             0
+      4 AM                           0           0               0                 1           2            1             0
+      5 AM                          10           5               0                13           5            6             4
+      6 AM                          13          16               8                17          14           24            18
+      7 AM                          21          14              18                21          30           20            22
+      8 AM                          47          65              30                39          42           55            35
+      9 AM                          76          69              74                42          74           54            54
+    10 AM                          116         108              58                84          58           77            86
+    11 AM                           90         175              99                62          82           70            96
+    12 PM                          120         149              94               108          54          113           120
+      1 PM              56         137         164             101               103          51           96            85
+      2 PM             177         169         145              63                87          83          125
+      3 PM             131         186         130              62               108          99          127
+      4 PM             131         157         109              62               109         140          102
+      5 PM              95         135          79              36                89         100          104
+      6 PM              62          82          33              45                60          36           67
+      7 PM              59          68          25              29                38          41           49
+      8 PM              25          47          27              39                43          26           69
+      9 PM              25          28          22              25                23          11           15
+    10 PM               12          10           4               3                 4           4            4
+     11PM                7           7           2               6                 2           8            5
+     Total             780       1,523       1,350             862             1,055         967        1,188           529
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.888             FACTOR:          1.0622        ADP:     1,092
+
+
+
+
+11:15:52PM      6/7/2014                                                                                                      Page 1 of 1
+

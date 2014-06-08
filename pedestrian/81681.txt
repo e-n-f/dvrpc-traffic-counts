@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 10/4/2011            PROJECT:          11-43-045                    STATION ID:         P0345
+
+ROAD:     US 13 FRANKFORD AVE                                                                                 SR/SEG/OFF:         0013/0270/2000
+
+FROM:     EVARTS ST                                                      TO:   PLACID AVE
+
+STATE:    PA           COUNTY:                                           MCD: 4210160104 - NORTH DELAWARE
+
+SIDEWALK:           east                         FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                    81681 COUNTER #:             10-009                    WEATHER:      f               DATA SOURCE:         INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Monday           Tuesday    Wednesday        Thursday         Friday      Saturday        Sunday        Monday
+ Ending         10/3/2011        10/4/2011   10/5/2011    10/6/2011        10/7/2011      10/8/2011       10/9/2011     10/10/2011
+
+    12 AM                                2           3               3               4            1                 2             3
+      1 AM                               5          14               4               0            4                 2             1
+      2 AM                               0           0               0               7            4                 2             1
+      3 AM                               1           2               1               2            3                 0             0
+      4 AM                               1           1               0               2            3                 1             4
+      5 AM                               2           2               1               4            2                 2             4
+      6 AM                               3           4               3               7            2                 2             7
+      7 AM                               9           4               7               2            1                 4             1
+      8 AM                              10          12              14              14            5                 1
+      9 AM                               7          13              15              61           13                13
+    10 AM                   10           8          18              32              27           12                23
+    11 AM                   22           9          25              31              51           19                42
+    12 PM                   23          16          17              13              21           24                45
+      1 PM                  17           6          11              14              35           15                15
+      2 PM                  17          16          10              29              36           57                25
+      3 PM                  30          23          26              41              64           16                23
+      4 PM                  26          18          31              22              33           20                49
+      5 PM                  17          12          23              23              14           22                37
+      6 PM                  11          17          28              16              11           31                37
+      7 PM                  14           8          20               7              21           30                 7
+      8 PM                   9           8          15              10              13           16                17
+      9 PM                   8           4          13               9               7           23                 7
+    10 PM                    2           7          14              14              12           16                 5
+     11PM                    1           4           2               5               6            9                 8
+     Total                 207         196         308             314             454          348               369          21
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     0.968             FACTOR:         1.0622        ADP:        341
+
+
+
+
+11:20:07PM      6/7/2014                                                                                                              Page 1 of 1
+

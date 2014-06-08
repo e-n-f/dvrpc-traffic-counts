@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 2/21/2012            PROJECT:          11-43-045                    STATION ID:         P0138
+
+ROAD:     10TH ST                                                                                          SR/SEG/OFF:         G023/0050/0924
+
+FROM:     SANSOM ST                                                   TO:   WALNUT ST
+
+STATE:    PA           COUNTY:                                        MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                      FC:     17                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 85818 COUNTER #:             11-019                    WEATHER:      f               DATA SOURCE:        INTERNAL
+
+COMMENTS:             Monday February 20, 2012: Presidents Day Holiday
+
+
+
+
+  Hour           Monday        Tuesday    Wednesday        Thursday         Friday      Saturday        Sunday        Monday
+ Ending         2/20/2012     2/21/2012   2/22/2012    2/23/2012        2/24/2012      2/25/2012       2/26/2012     2/27/2012
+
+    12 AM                            24          35              16              31           52              30            25
+      1 AM                            9          21              34              41           32              30            25
+      2 AM                           10          15              18              18           29              30            15
+      3 AM                           17          25              15              16           28               9            16
+      4 AM                           16          13              11              47           15              12            12
+      5 AM                           36          39              43               5           13              16            49
+      6 AM                          163         181             175               4           42              36           151
+      7 AM                          363         395             441             314           75              50           155
+      8 AM                          491         421             441             412           83              49
+      9 AM                          358         345             406             330          124              98
+    10 AM                           338         310             389             324          145              96
+    11 AM               298         403         441             443             390          197             151
+    12 PM               472         552         600             582             527          223             171
+      1 PM              514         487         612             477             464          238             238
+      2 PM              390         428         460             471             393          236             199
+      3 PM              447         412         468             495             413          216             188
+      4 PM              412         424         544             471             423          201             189
+      5 PM              402         472         490             500             380          200             181
+      6 PM              296         320         340             369             216          173             163
+      7 PM              177         237         246             260             205          156             104
+      8 PM              112         114         143             159             140          131              86
+      9 PM               82          90          85             101             114           65              56
+    10 PM                77          91          90              97              84           59              38
+     11PM                51          53          66              56              70           80              41
+     Total            3,730       5,908       6,385           6,470           5,361        2,813           2,261           448
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  1.106             FACTOR:         1.0622        ADP:        5,717
+
+
+
+
+11:22:04PM      6/7/2014                                                                                                         Page 1 of 1
+

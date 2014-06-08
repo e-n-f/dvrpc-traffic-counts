@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                 DATE: 10/19/2011         PROJECT:          11-43-045                    STATION ID:    P0222
+
+ROAD:     WALNUT ST                                                                                       SR/SEG/OFF:    0003/0081/2180
+
+FROM:     34TH ST                                                   TO:    33RD ST
+
+STATE:    PA            COUNTY:                                     MCD: 4210160110 - UNIVERSITY - SOUTHWEST
+
+SIDEWALK:           north                    FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                  81580 COUNTER #:           10-004                 WEATHER:          f            DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Tuesday       Wednesday   Thursday         Friday         Saturday       Sunday        Monday      Tuesday
+ Ending        10/18/2011 10/19/2011 10/20/2011 10/21/2011 10/22/2011 10/23/2011 10/24/2011 10/25/2011
+
+    12 AM                            10          5              12              37            12              7          18
+      1 AM                            4          2               9              10            17              5           6
+      2 AM                            0          2               2               6             7              6           5
+      3 AM                            4          3               5               3             3              1           1
+      4 AM                            1          0               4               1             2              2           1
+      5 AM                           23         18              27               2             4             23          18
+      6 AM                           24         33              27              10             8             24          33
+      7 AM                           95         82              49              24             5             63          78
+      8 AM                          259        181             171              48            19            218         114
+      9 AM                          222        204             182              67            36            264
+    10 AM                           188        211             164             109            68            224
+    11 AM                           230        196             201             200            83            187
+    12 PM                           246        173             249             139           121            209
+      1 PM                          229        227             168              90           108            220
+      2 PM               55         196        143             161             121            84            133
+      3 PM              171         178        134             142             113            93            159
+      4 PM              201         160        178             144              88            70            199
+      5 PM              208         211        231             155              77            59            248
+      6 PM              202         194        258             175              75            69            178
+      7 PM              102          84        161             127             100            45            177
+      8 PM               86          65         99             117              51            28             97
+      9 PM               64          36         79              73              39            30             72
+    10 PM                41          24         75              45              41            20             45
+     11PM                21          19         39              54              26            20             27
+     Total            1,151       2,702      2,734           2,463           1,477         1,011          2,788         274
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.968             FACTOR:         1.0622        ADP:        2,258
+
+
+
+
+11:23:22PM      6/7/2014                                                                                                      Page 1 of 1
+

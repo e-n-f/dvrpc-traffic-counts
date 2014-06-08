@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                 DATE: 5/10/2011           PROJECT:          11-43-045                 STATION ID:         P0067
+
+ROAD:     JOHN F KENNEDY BLVD BRIDGE                                                                    SR/SEG/OFF:         3037/0012/1108
+
+FROM:     SCHUYLKILL AVE                                              TO:   23RD ST
+
+STATE:    PA            COUNTY:                                       MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           north                     FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 76358 COUNTER #:             10-009                    WEATHER:                   DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Monday         Tuesday    Wednesday        Thursday         Friday      Saturday     Sunday        Monday
+ Ending         5/9/2011      5/10/2011   5/11/2011    5/12/2011        5/13/2011      5/14/2011    5/15/2011     5/16/2011
+
+    12 AM                             1           4               2               3            8              4           1
+      1 AM                            1           1               3               3            1              5           1
+      2 AM                            5           6               3               2            8              5           2
+      3 AM                            0           0               0               1            4              3           0
+      4 AM                            3           0               6               1            5              0           1
+      5 AM                            5          11               9               7            3              0           4
+      6 AM                           21          22              22              12            9              5          14
+      7 AM                           46          41              61              36            9              6          26
+      8 AM                           53          71              65              54           13             13          90
+      9 AM                           37          35              37              27           24             20          18
+    10 AM                            36          29              33              28           28             16
+    11 AM                            31          27              20              26           27             19
+    12 PM                50          46          68              41              55           27             30
+      1 PM               48          55          50              50              47           22             26
+      2 PM               30          31          24              36              37           26             25
+      3 PM               21          31          43              36              41           19             16
+      4 PM               49          38          33              38              35           19             19
+      5 PM               62          59          70              61              47           15             16
+      6 PM               25          24          23              25              23           14             13
+      7 PM               32          16          33              22              26           15             18
+      8 PM               16           7          17               9              14            6             12
+      9 PM               15           4           7               4               8           11              8
+    10 PM                 7           6           5              12               5            5              4
+     11PM                 3           6           5               9               6            4              6
+     Total              358         562         625             604             544          322            289         157
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.962             FACTOR:         1.0622        ADP:     502
+
+
+
+
+11:16:34PM      6/7/2014                                                                                                      Page 1 of 1
+

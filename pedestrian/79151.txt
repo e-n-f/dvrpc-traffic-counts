@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 7/12/2011           PROJECT:          11-43-045                 STATION ID:         P0195
+
+ROAD:     PASSYUNK AVE                                                                                 SR/SEG/OFF:         G509/0010/4488
+
+FROM:     LATONA ST                                                  TO:   FEDERAL ST
+
+STATE:    PA           COUNTY:                                       MCD: 4210160112 - SOUTH
+
+SIDEWALK:           west                     FC:     17                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                79151 COUNTER #:             10-002                    WEATHER:                   DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Monday       Tuesday    Wednesday        Thursday         Friday      Saturday     Sunday        Monday
+ Ending         7/11/2011    7/12/2011   7/13/2011    7/14/2011        7/15/2011      7/16/2011    7/17/2011     7/18/2011
+
+    12 AM                           12          39              16              77           53             65          10
+      1 AM                           5           9              17              38           59             81          13
+      2 AM                           4           1              12              17           42             34           7
+      3 AM                           3           2               5               0           13              4           6
+      4 AM                           7           2               0               9           11             18           0
+      5 AM                           0           3              11               1            1              2           3
+      6 AM                           9           4               4               7            2              8           6
+      7 AM                           8           7              10               6            8              7          23
+      8 AM                          22          27              24              23           16              7          12
+      9 AM                          18          23              35              28           29             19          25
+    10 AM                           15          20              20              20           40             18          14
+    11 AM               11          32          25              22              39           36             51          23
+    12 PM               19          32          25              50              40           66             55
+      1 PM              58          37          35              39              45           64             81
+      2 PM              47          37          30              66              46          111             68
+      3 PM              37          56          48              27              56          111             77
+      4 PM              34          50          39              42              46          127             61
+      5 PM              76          35          33              79              52           97             50
+      6 PM              63          62          39              40              71           56             63
+      7 PM              47          31          40              28              46           31             42
+      8 PM              26          56          30              45              38           66             29
+      9 PM              27          19          21              35              57           46             27
+    10 PM               36          15          56              53              38           40             10
+     11PM               24           9           7              37              37           52             25
+     Total             505         574         565             717             837        1,177            902         142
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.900             FACTOR:         1.0622        ADP:     760
+
+
+
+
+11:16:55PM      6/7/2014                                                                                                     Page 1 of 1
+

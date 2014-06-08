@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                 DATE: 2/11/2012           PROJECT:        11-43-045                    STATION ID:         P0213
+
+ROAD:     WASHINGTON AVE                                                                                 SR/SEG/OFF:         G016/0020/5755
+
+FROM:     15TH ST                                                   TO:    PA 291 BROAD ST
+
+STATE:    PA            COUNTY:                                     MCD: 4210160112 - SOUTH
+
+SIDEWALK:           south                     FC:     14                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 85813 COUNTER #:             11-012               WEATHER:         f               DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday    Saturday     Sunday          Monday         Tuesday    Wednesday       Thursday       Friday
+ Ending         2/10/2012     2/11/2012   2/12/2012    2/13/2012      2/14/2012      2/15/2012       2/16/2012     2/17/2012
+
+    12 AM                            14           8               4              1           7                 5          11
+      1 AM                            3           4               2              4           3                 8           4
+      2 AM                            3           3               2              5           2                 4           4
+      3 AM                            1           2               2              0           4                 4           4
+      4 AM                            2           2               0              2           0                 0           1
+      5 AM                            5           1               3              8           5                 4           6
+      6 AM                            4          11               9             12           7                 4           7
+      7 AM                           19          14              37             31          37                31          32
+      8 AM                           18          18              35             41          26                31          19
+      9 AM                           15          15              38             40          32                33          33
+    10 AM                            24          27              23             40          32                38
+    11 AM                            25          11              28             32          33                26
+    12 PM                            48          16              33             39          41                37
+      1 PM               27          39          12              38             40          49                47
+      2 PM               35          35          34              21             44          30                25
+      3 PM               53          39          15              41             55          42                36
+      4 PM               61          28          16              39             61          49                34
+      5 PM               48          26          21              51             54          50                43
+      6 PM               32          14          18              39             48          42                30
+      7 PM               39          25          29              23             21          26                27
+      8 PM               28          21          14              16             28          15                22
+      9 PM               20          11           7              27             19          15                21
+    10 PM                12          13          14              11             14          16                15
+     11PM                12           6          13               6              7          11                10
+     Total              367         438         325             528            646         574               535         121
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  1.106            FACTOR:         1.0622      ADP:         597
+
+
+
+
+11:22:28PM      6/7/2014                                                                                                       Page 1 of 1
+

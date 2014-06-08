@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                 DATE: 10/19/2011            PROJECT:          11-43-045                    STATION ID:    P0220
+
+ROAD:      SPRUCE ST                                                                                         SR/SEG/OFF:    G066/0030/0264
+
+FROM:     US 13 38TH ST                                                TO:    37TH ST
+
+STATE:    PA            COUNTY:                                        MCD: 4210160110 - UNIVERSITY - SOUTHWEST
+
+SIDEWALK:           north                      FC:      14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                  81595 COUNTER #:              10-010                 WEATHER:          f            DATA SOURCE:       INTERNAL
+
+COMMENTS:             Construction 2 blocks east at the Wistar Institute. Sidewalk closed
+
+
+
+
+  Hour          Tuesday       Wednesday    Thursday           Friday         Saturday       Sunday        Monday      Tuesday
+ Ending        10/18/2011 10/19/2011 10/20/2011 10/21/2011 10/22/2011 10/23/2011 10/24/2011 10/25/2011
+
+    12 AM                              9           14              12              24            52              8          19
+      1 AM                             8            7              18              19            26              3           9
+      2 AM                             3            1              22              21            18              4           9
+      3 AM                             0            3               5               5            11              3           1
+      4 AM                             4            5               5               4             3              5           4
+      5 AM                            26           21              14               8             3             20          20
+      6 AM                            39           36              47              16             5             20          38
+      7 AM                            48           46              48              27             8             60          50
+      8 AM                            90          100              96              38            15            101          13
+      9 AM                           151          114             141              80            44            125
+    10 AM                            124          145             129              94            52            138
+    11 AM                            137          105             157              89            54            140
+    12 PM                            128          116             183              99            83            165
+      1 PM               44          152          158             144             103            47            118
+      2 PM              156           93          145             128              92            77             78
+      3 PM              134          119          111             121              64            73            117
+      4 PM              172          152          165             128              53            68            121
+      5 PM              164          162          101             100              58            70            120
+      6 PM              154          128          108              77              64            64             93
+      7 PM               88           62           66             101              81            48             74
+      8 PM               60           60           46              47              36            34             40
+      9 PM               41           38           39              43              34            29             44
+    10 PM                33           18           37              50              25            25             20
+     11PM                12           19           25              45              32            20             17
+     Total            1,058        1,770        1,714           1,861           1,166           929          1,634         163
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    0.968             FACTOR:         1.0622        ADP:        1,555
+
+
+
+
+11:18:08PM      6/7/2014                                                                                                         Page 1 of 1
+

@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                DATE: 10/26/2011         PROJECT:          11-43-045                    STATION ID:       P0325
+
+ROAD:     ALLEGHENY AVE                                                                                  SR/SEG/OFF:       2016/0020/0750
+
+FROM:     DOVER ST                                                 TO:    NEWKIRK ST
+
+STATE:    PA           COUNTY:                                     MCD: 4210160101 - NORTH
+
+SIDEWALK:           south                   FC:     16                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 81626 COUNTER #:           10-006                 WEATHER:          f            DATA SOURCE:         INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Tuesday      Wednesday   Thursday         Friday         Saturday       Sunday        Monday        Tuesday
+ Ending        10/25/2011 10/26/2011 10/27/2011 10/28/2011 10/29/2011 10/30/2011 10/31/2011                        11/1/2011
+
+    12 AM               12           5          5              12               6             7                5          13
+      1 AM               2           4          5               4               5             5                0           8
+      2 AM               2           1          1               2               2             0                1           6
+      3 AM               0           0          1               2               0             3                2           3
+      4 AM               4           2          1               5               2             2                1           3
+      5 AM               3           7          3               8               3             2                2           5
+      6 AM              12          14         14              16               4             7               14          11
+      7 AM              34          46         29              25               6             4               34          24
+      8 AM              56          58         56              63               4            12               40          40
+      9 AM              16          44         22              32              11            16               20          16
+    10 AM               44          52         39              46              17            19               22          24
+    11 AM               25          17         15              76              15            22               21           9
+    12 PM               67          71         85              39               9            16               31
+      1 PM              44          57         33              65              21            21               31
+      2 PM              62          85         67              44              22            50               48
+      3 PM              60          77         44              34              47            12               64
+      4 PM              41          37         35              38              47            21               50
+      5 PM              30          29         27              28              18            21               55
+      6 PM              30          35         27              38              18            67               82
+      7 PM              27          26         19              22              16            28               81
+      8 PM              19          37         13              23               8            14               37
+      9 PM              32          33         14              32              13            13               21
+    10 PM                2          10         11              18               4            16               23
+     11PM               19           9          9              17               6            12               10
+     Total             643         756        575             689             304           390              695         162
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                0.985             FACTOR:         1.0622        ADP:        594
+
+
+
+
+11:19:09PM      6/7/2014                                                                                                       Page 1 of 1
+

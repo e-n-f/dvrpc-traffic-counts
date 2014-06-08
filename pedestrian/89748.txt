@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 5/11/2012            PROJECT:        10-64-104                STATION ID:       P0308
+
+ROAD:     KENSINGTON AVE                                                                             SR/SEG/OFF:       G046/0010/2086
+
+FROM:     CAMBRIA ST                                                TO:    CLEARFIELD ST
+
+STATE:    PA           COUNTY:                                      MCD: 4210160101 - NORTH
+
+SIDEWALK:           east                      FC:     14                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 89748 COUNTER #:             11-020              WEATHER:                      DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday       Friday     Saturday         Sunday         Monday      Tuesday    Wednesday     Thursday
+ Ending         5/10/2012     5/11/2012   5/12/2012    5/13/2012      5/14/2012     5/15/2012    5/16/2012     5/17/2012
+
+    12 AM                             7          23              14            12           14          15            16
+      1 AM                           10          26               8            17            6           1            18
+      2 AM                           10          13              12             8            4           9            14
+      3 AM                           12           9              10            16            2           7             8
+      4 AM                            7          10               7            13            2           2             4
+      5 AM                            5           6               7            10            8           6             9
+      6 AM                            9           7               7            13           13          11             6
+      7 AM                           28          32               8            32           38          36            47
+      8 AM                           29          40              21            38           28          54            57
+      9 AM                           58         122              23            50           29          85            52
+    10 AM                           106         143              37            88           42          96            93
+    11 AM               120          98         148             122            99           45         102
+    12 PM               113         142         166             143           107           62         126
+      1 PM              209         178         247             141           122          113         130
+      2 PM              134         153         239             268           129          134         138
+      3 PM              160         165         239              85           108          130         171
+      4 PM              192         188         226              77            88          171         162
+      5 PM              158         204         185              43           133          135         166
+      6 PM              129         167         154              45           104           94         107
+      7 PM               62         127         106              37            55           47          65
+      8 PM               34          59          84              33            25           28          43
+      9 PM               25          64          36              41            18           31          32
+    10 PM                16          31          35              26            27           32          24
+     11PM                21          20          24              19            20           19          12
+     Total            1,373       1,877       2,320           1,234         1,332        1,227       1,600           324
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.962            FACTOR:        1.0622       ADP:     1,633
+
+
+
+
+11:23:07PM      6/7/2014                                                                                                   Page 1 of 1
+

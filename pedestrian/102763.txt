@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                  DATE: 7/25/2013               PROJECT:          14-41-050                     STATION ID:
+
+ROAD:     SCHUYLKILL RIVER TRAIL AT BARTRAMS GARDENS                                                             SR/SEG/OFF:    LOCAL
+
+FROM:     53RD ST                                                          TO:    SCHUYLKILL RIVER BANK
+
+STATE:    PA           COUNTY:                                             MCD: 4210160110 - UNIVERSITY - SOUTHWEST
+
+SIDEWALK:           east                        FC:        19                      TYPE:           PEDESTRIAN
+
+DVRPC FILE #:                   102763 COUNTER #:               11-016                    WEATHER:                    DATA SOURCE:       EXTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour         Wednesday        Thursday     Friday             Saturday         Sunday        Monday      Tuesday      Wednesday    Thursday
+ Ending         7/24/2013       7/25/2013   7/26/2013       7/27/2013         7/28/2013       7/29/2013   7/30/2013     7/31/2013    8/1/2013
+
+    12 AM                               0              0                  0               0           1             0           0               0
+      1 AM                              0              0                  0               0           1             0           0               0
+      2 AM                              0              0                  0               0           0             0           0               0
+      3 AM                              0              0                  0               0           0             0           0               0
+      4 AM                              0              0                  0               0           0             0           0               0
+      5 AM                              1              0                  0               6           0             2           0               0
+      6 AM                              0              0                  1               0           1             0           0               0
+      7 AM                              0              0                  0               0           0             0           0               0
+      8 AM                              0              1                  0               0           1             1           2               0
+      9 AM                              0              2                  1               0           7             2           0               0
+    10 AM                               0              1                  2               1           2             1           0
+    11 AM                   6           0              0                  0               0           1             1           0
+    12 PM                   2           1              4                  2               0           1             0           0
+      1 PM                  2           0              0                  0               0           3             6           1
+      2 PM                  5           0              0                  2               0           0             8           0
+      3 PM                  3           0              0                  1               0           0             2           0
+      4 PM                  0           0              0                  1               0           0            11           0
+      5 PM                  0           0              1                  0               0           0             1           0
+      6 PM                  0           0              0                  0               0          16             2           0
+      7 PM                  0           0              2                  0               0           8             2           0
+      8 PM                  0           0              0                  0               0           0            55           0
+      9 PM                  0           0              0                  0               0           0             0           0
+    10 PM                   0           0              0                  0               0           0             0           0
+     11PM                   0           0              0                  0               0           0             0           0
+     Total                 18           2             11                 10               7          42            94           3               0
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    0.894                FACTOR:         1.0622         ADP:     23
+
+
+
+
+11:24:21PM      6/7/2014                                                                                                            Page 1 of 1
+

@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                  DATE: 5/3/2011                   PROJECT:           11-43-045                 STATION ID:        P0253
+
+ROAD:     PA 3 CHESTNUT ST                                                                                       SR/SEG/OFF:        0003/0050/1350
+
+FROM:     52ND ST                                                             TO:    51ST ST
+
+STATE:    PA           COUNTY:                                                MCD: 4210160111 - WEST
+
+SIDEWALK:           south                          FC:        14                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                   76390 COUNTER #:                   10-004                     WEATHER:                  DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Monday          Tuesday        Wednesday           Thursday          Friday      Saturday    Sunday        Monday
+ Ending         5/2/2011        5/3/2011       5/4/2011            5/5/2011         5/6/2011     5/7/2011    5/8/2011     5/9/2011
+
+    12 AM                                  0              0               0               23           26            34          5
+      1 AM                                 0              0               0               39           26            43          0
+      2 AM                                 0              0              26               52           38            17          9
+      3 AM                                 0              0              31               36           43            15         12
+      4 AM                                 0              0              41               63           26            40         64
+      5 AM                                 0              0              85               89           53            38         30
+      6 AM                                 0              0             131               45           40            58         10
+      7 AM                                 0              0              56               32           40            40          5
+      8 AM                                 0              0              63               50           69            60          4
+      9 AM                                 0              0              61               45           53            62          8
+    10 AM                   0              0              0              90               35           89            40          2
+    11 AM                   0              0              0              54               44           54            67          2
+    12 PM                   0              0              0              37               27           37            82          1
+      1 PM                  0              0              0              31               34           24            62          6
+      2 PM                  0              0              0              16               21           17            46
+      3 PM                  0              0              0              21               18           11            42
+      4 PM                  0              0              0              13                4            9            38
+      5 PM                  0              0              0               8                6            3            22
+      6 PM                  0              0              0               9                2            4            21
+      7 PM                  0              0              0               6                3            1            17
+      8 PM                  0              0              0               3                2            2            11
+      9 PM                  0              0              0               8                0            0             7
+    10 PM                   0              0              0              17                2            6             4
+     11PM                   0              0              0              30                4           10             2
+     Total                  0              0              0             837              676          681           868        158
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                       0.962                FACTOR:          1.0622        ADP:    521
+
+
+
+
+11:14:28PM      6/7/2014                                                                                                              Page 1 of 1
+

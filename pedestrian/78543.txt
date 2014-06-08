@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                 DATE: 5/21/2011            PROJECT:        10-cbd-64                     STATION ID:         P0119
+
+ROAD:     I 676 BEN FRANKLIN BRIDGE                                                                        SR/SEG/OFF:         DRPA//
+
+FROM:     5TH ST RAMP                                                TO:    CHRISTOPHER COLUMBUS BLVD UNDERPASS
+
+STATE:    PA            COUNTY:                                      MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           south                      FC:     11                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                  78543 COUNTER #:             10-008               WEATHER:         fair           DATA SOURCE:           INTERNAL
+
+COMMENTS:              Walkway open from 6:00 a.m. to 9:00 p.m.
+
+
+
+
+  Hour              Friday     Saturday     Sunday          Monday         Tuesday    Wednesday      Thursday         Friday
+ Ending         5/20/2011     5/21/2011   5/22/2011     5/23/2011      5/24/2011      5/25/2011     5/26/2011        5/27/2011
+
+    12 AM                             0            0               0              0           0                  0           0
+      1 AM                            0            0               0              0           0                  0           0
+      2 AM                            0            0               0              0           0                  0           0
+      3 AM                            0            0               0              0           0                  0           0
+      4 AM                            0            0               0              0           0                  0           0
+      5 AM                            0            2               2              6           5                  1          18
+      6 AM                           12            7              16             35          54                 42          86
+      7 AM                           26           31              66             42          37                 48          46
+      8 AM                           69           37              28             40          57                 27          58
+      9 AM                           71           52              37             43          41                 28          31
+    10 AM                            87           66              41             21          40                 25          43
+    11 AM                 1          97           72              27             38          55                 20
+    12 PM                22          76           50              44             70          97                 46
+      1 PM               19          78           29              39             28          54                 35
+      2 PM                5          69           37              33             24          30                 24
+      3 PM               22          53           41              48             27          42                 24
+      4 PM               26         106           54              42             47          67                 41
+      5 PM               60          89           49              70             68          85                 72
+      6 PM               45          50           51              62             83          87                 50
+      7 PM               35          28           37              66             74          55                 47
+      8 PM               22          24           30              25             45          32                 30
+      9 PM                2           3            0               5             11           4                  0
+    10 PM                 0           0            0               0              0           0                  0
+     11PM                 0           0            0               0              0           0                  0
+     Total              259         938          645             651            702         842                560         282
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                   0.962            FACTOR:         1.0622      ADP:          739
+
+
+
+
+11:17:14PM      6/7/2014                                                                                                         Page 1 of 1
+

@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 5/16/2012            PROJECT:          12-41-090                 STATION ID:       P0413
+
+ROAD:     CR 605 MT EPHRAIM AVE                                                                            SRI/MP:           04000605__/1.08
+
+FROM:     SYCAMORE AVE                                                  TO:    CHESTNUT AVE
+
+STATE:    NJ           COUNTY:                                          MCD: 3400710000 - CAMDEN CITY
+
+SIDEWALK:           east                         FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                     90307 COUNTER #:            11-014                 WEATHER:                      DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Tuesday         Wednesday   Thursday          Friday         Saturday       Sunday     Monday        Tuesday
+ Ending         5/15/2012        5/16/2012   5/17/2012    5/18/2012       5/19/2012      5/20/2012     5/21/2012     5/22/2012
+
+    12 AM                                3           4               6              15             8             6           0
+      1 AM                               5           3               5               2             3             4           5
+      2 AM                               3           7               2               3             0             0           3
+      3 AM                               4           7               2               2             1             1           4
+      4 AM                               2           1               0               2             3             1           3
+      5 AM                               3           5               0               0             0             1           4
+      6 AM                               5           7               1               6            14             4           8
+      7 AM                              11          12               7               9             4             7           6
+      8 AM                              12          11              14               7             2            14           7
+      9 AM                              16          10               9               5             7             7          14
+    10 AM                    4          22          12              21               8             8            10           9
+    11 AM                    5          13           7              15               8             5             9          10
+    12 PM                    6          15          17              17              18             7            20           9
+      1 PM                  12          11          15              21              11             7             6          13
+      2 PM                  11           8          16              11              13             9            10           9
+      3 PM                   7          21          13              12              14             8            14          23
+      4 PM                  13          17          20              15              17             1            16          16
+      5 PM                   6          11           7              11               5             6            10          11
+      6 PM                   9          11           9              11              10             5             7           8
+      7 PM                   6           8           6              11               6            14             9          11
+      8 PM                   5           8           6               8              10             9            13          16
+      9 PM                  20          10          15              10              13            18            14           9
+    10 PM                    5           4          18               5               4             7             6           3
+     11PM                    2           7           5               7              12             4             4           6
+     Total                 111         230         233             221             200           150           193         207
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     0.962             FACTOR:         1.0622        ADP:     209
+
+
+
+
+11:22:44PM      6/7/2014                                                                                                         Page 1 of 1
+

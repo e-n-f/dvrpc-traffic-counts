@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 3/26/2011            PROJECT:        10-cbd-033               STATION ID:         P0111
+
+ROAD:     3RD ST                                                                                        SR/SEG/OFF:         G705/0030/1531
+
+FROM:     CALLOWHILL ST                                                TO:    WILLOW ST
+
+STATE:    PA            COUNTY:                                        MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                         FC:     17                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                    71781 COUNTER #:             10-007               WEATHER:                     DATA SOURCE:          INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday       Saturday     Sunday          Monday         Tuesday    Wednesday   Thursday       Friday
+ Ending         3/25/2011        3/26/2011   3/27/2011    3/28/2011      3/29/2011      3/30/2011   3/31/2011     4/1/2011
+
+    12 AM                               25          13               2              3           2             4          8
+      1 AM                              13          34               0              0           1             2          8
+      2 AM                              12          90               0              1           1             0          7
+      3 AM                               4           3               2              0           1             0          1
+      4 AM                               2          19               0              0           0             1          2
+      5 AM                               2           0               4              2           6             7          4
+      6 AM                               1           0               9             11           6             5          4
+      7 AM                               2           4               8             13           9             4          6
+      8 AM                               9           9              16             25          25            13          8
+      9 AM                              21           5              25             15          14            24         18
+    10 AM                               26          20              29             11          35             9         23
+    11 AM                               19          10              10              5          11            11
+    12 PM                                9          18              16             33          26            16
+      1 PM                  26          20          18              32             26          21            13
+      2 PM                  24           7          12              23             32          25            13
+      3 PM                  13          22          31              19             21          29            18
+      4 PM                  24          22          12              20             26          18            10
+      5 PM                  22          19          23              24             28          38            17
+      6 PM                  20          19          16              22             33          21            13
+      7 PM                  15          10           7              16             24          20            15
+      8 PM                  17          28           4              10             20          11            16
+      9 PM                  25          18           4               2              7           3             6
+    10 PM                   14          17           7               6              6           4             3
+     11PM                   15          26           3               3              4           4            21
+     Total                 215         353         362             298            346         331           241             89
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     1.036            FACTOR:         1.0622      ADP:     354
+
+
+
+
+11:12:08PM      6/7/2014                                                                                                         Page 1 of 1
+

@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                   DATE: 10/12/2011          PROJECT:          11-43-045                    STATION ID:    P0316
+
+ROAD:     KENSINGTON AVE                                                                                     SR/SEG/OFF:    G046/0012/2500
+
+FROM:     TIOGA ST                                                     TO:    ATLANTIC ST
+
+STATE:    PA           COUNTY:                                         MCD: 4210160109 - RIVER WARDS
+
+SIDEWALK:           east                        FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                     81583 COUNTER #:           10-009                 WEATHER:          f            DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Tuesday          Wednesday   Thursday         Friday         Saturday       Sunday        Monday      Tuesday
+ Ending        10/11/2011 10/12/2011 10/13/2011 10/14/2011 10/15/2011 10/16/2011 10/17/2011 10/18/2011
+
+    12 AM                              34          41              42              37            30             19          34
+      1 AM                             27          18              19              39            27             19          29
+      2 AM                             22           9              19              30            14             12          13
+      3 AM                             20          16              17               9             9             17          16
+      4 AM                             14          11              22              20            19             20          11
+      5 AM                             33          18              26              12             8             25          24
+      6 AM                             38          40              51              16            20             25          26
+      7 AM                             31          28              37              18            13             35          39
+      8 AM                             35          38              43              26            25             38          43
+      9 AM                             31          32              32              42            37             38          21
+    10 AM                              57          27              44              55            50             35
+    11 AM                              67          56              59              71            50             65
+    12 PM                              74          50              77              67            38             63
+      1 PM                             69          65              40              44            40             72
+      2 PM                             72          89              84              69            46             80
+      3 PM                  73         61          57              69              52            59             74
+      4 PM                  84         74          58              57              59            51             79
+      5 PM                  79         49          79              80              76            69             53
+      6 PM                  55         38          58              45              72            46             50
+      7 PM                  39         20          42              56              51            55             52
+      8 PM                  43         28          40              49              65            52             44
+      9 PM                  43         14          38              57              50            52             47
+    10 PM                   31         30          48              46              56            32             51
+     11PM                   34         31          53              30              53            42             38
+     Total                 481        969       1,011           1,101           1,089           884          1,051         256
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    0.968             FACTOR:         1.0622        ADP:        1,047
+
+
+
+
+11:18:52PM      6/7/2014                                                                                                         Page 1 of 1
+

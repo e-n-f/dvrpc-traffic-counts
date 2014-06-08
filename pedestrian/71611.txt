@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                  DATE: 10/22/2010          PROJECT:        10-cbd-010               STATION ID:    P0037
+
+ROAD:     18TH ST                                                                                     SR/SEG/OFF:     LOCAL
+
+FROM:     BAINBRIDGE ST                                              TO:    SOUTH ST
+
+STATE:    PA           COUNTY:                                       MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                       FC:     19                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                    71611 COUNTER #:           10-018              WEATHER:                    DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday         Friday     Saturday        Sunday         Monday      Tuesday    Wednesday   Thursday
+ Ending        10/21/2010 10/22/2010 10/23/2010 10/24/2010 10/25/2010 10/26/2010 10/27/2010 10/28/2010
+
+    12 AM                              20         23              42             4            6          5            3
+      1 AM                              9         21              33             6            7          7           14
+      2 AM                             19         10               8             1            1          0            3
+      3 AM                              2         30              11            16            0          1            0
+      4 AM                              1          1               5             0           16         13           18
+      5 AM                              2          2               2             3            5          4            4
+      6 AM                             23          4               4            23           26         35           19
+      7 AM                             52          7               8            64           50         59           63
+      8 AM                            102         26              19            92           96         74           74
+      9 AM                             74         38              31            72           65         54          108
+    10 AM                   24         47         48              41            50           61         48           36
+    11 AM                   59        100         55              57            50           65         42           50
+    12 PM                   63         52         84             134            47           54         64           23
+      1 PM                  53         75         53              65            42           52         52
+      2 PM                  37         53         78              57            53           55         37
+      3 PM                  44         57         66              50            55           64         45
+      4 PM                  66         64         78              50            72           56         67
+      5 PM                  78         75         67              47            83           79         80
+      6 PM                  89         85         74              48            86          103         78
+      7 PM                  80         56         40              44            72           68         70
+      8 PM                  45         72         50              23            35           29         39
+      9 PM                  30         44         29              18            36           40         56
+    10 PM                   20         28         30              11            14           15         17
+     11PM                   18         37         25               6             9           13         22
+     Total                 706      1,149        939             814           985        1,026        969          415
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                   0.968            FACTOR:        1.0622       ADP:     1,008
+
+
+
+
+11:09:32PM      6/7/2014                                                                                                  Page 1 of 1
+

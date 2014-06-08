@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 4/12/2011            PROJECT:          10-cbd-042                STATION ID:         P0093
+
+ROAD:     11TH ST                                                                                          SR/SEG/OFF:         G017/0020/0844
+
+FROM:     NOBLE ST                                                       TO:   CALLOWHILL ST
+
+STATE:    PA           COUNTY:                                           MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                         FC:     16                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                    71822 COUNTER #:             10-008                    WEATHER:                   DATA SOURCE:         INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Monday           Tuesday    Wednesday        Thursday         Friday      Saturday     Sunday        Monday
+ Ending         4/11/2011        4/12/2011   4/13/2011    4/14/2011        4/15/2011      4/16/2011    4/17/2011     4/18/2011
+
+    12 AM                                7           3               7              10            7              2             7
+      1 AM                               6           1               0               7            7              2             5
+      2 AM                               2           3               0               3           10              2             0
+      3 AM                               0           0               1               1            1              0             0
+      4 AM                               1           1               0               3            1              3             0
+      5 AM                              11           3               2               2            2              3             5
+      6 AM                               7           7               7               6            3              5             7
+      7 AM                              28          43              27              32           12             12
+      8 AM                              41          36              32              33           23             10
+      9 AM                              26          20              34              33           24             16
+    10 AM                               83          19              27              32           21             23
+    11 AM                   21          17          25              28              21           26             18
+    12 PM                   26          33          41              27              30           12             30
+      1 PM                  35          24          26              27              29           19             62
+      2 PM                  30          31          33              33              47           21             37
+      3 PM                  61          46          38              24              65           30             18
+      4 PM                  45          29          25              36              38           21             39
+      5 PM                  44          31          32              45              91           26             38
+      6 PM                  38          25          37              30              40           34             26
+      7 PM                  34          22          33              27              30           15             26
+      8 PM                  22          10          27              23              39            5             28
+      9 PM                  13          19          17              21              25            8             18
+    10 PM                   19          12          11              17              15            5             15
+     11PM                    9           9           8              15              16            8             16
+     Total                 397         520         489             490             648          341            449          24
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     1.012             FACTOR:         1.0622        ADP:     527
+
+
+
+
+10:51:50PM      6/7/2014                                                                                                           Page 1 of 1
+

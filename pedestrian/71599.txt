@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                DATE: 10/15/2010         PROJECT:        10-cbd-005               STATION ID:      P0048
+
+ROAD:     GRAYS FERRY AVE                                                                          SR/SEG/OFF:      G021/0010/2745
+
+FROM:     BAINBRIDGE ST                                           TO:    SOUTH ST
+
+STATE:    PA           COUNTY:                                    MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           west                    FC:     16                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                71599 COUNTER #:            10-013              WEATHER:                    DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday     Friday      Saturday        Sunday         Monday      Tuesday    Wednesday     Thursday
+ Ending        10/14/2010 10/15/2010 10/16/2010 10/17/2010 10/18/2010 10/19/2010 10/20/2010 10/21/2010
+
+    12 AM                            4          8               9             7            3             2          8
+      1 AM                           4          7              12             3            1             2          2
+      2 AM                           0          3               7             2            6             0          0
+      3 AM                           0          0               0             1            0             0          3
+      4 AM                           0          1               4             0            1             0          2
+      5 AM                           6          1               2             3            1             2          3
+      6 AM                           8          3               5            12           11            10         11
+      7 AM                          30         16               9            30           14            27         22
+      8 AM                          42         25              21            35           27            31         38
+      9 AM                          36         45              27            23           29            29
+    10 AM                           30         64              29            22           23            29
+    11 AM               30          49         55              65            32           18            22
+    12 PM               34          39         61              53            31           33            49
+      1 PM              38          26         63              64            31           31            41
+      2 PM              28          44         65              72            31           38            37
+      3 PM              25          46         53              54            35           42            38
+      4 PM              31          57         61              51            50           41            56
+      5 PM              33          88         43              48            72           57            67
+      6 PM              49          62         63              50            77           62            74
+      7 PM              38          48         48              40            53           38            52
+      8 PM              30          41         30              21            25           23            28
+      9 PM              11          10         15              12            24           21            13
+    10 PM               10          15         13               9            16           10            14
+     11PM                9          17         28               7             5            5             7
+     Total             366         702        771             671           620          535           630         89
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                0.968            FACTOR:        1.0622       ADP:     673
+
+
+
+
+11:13:31PM      6/7/2014                                                                                                Page 1 of 1
+

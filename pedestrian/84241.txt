@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                    DATE: 2/25/2012            PROJECT:        11-43-045                    STATION ID:        P0216
+
+ROAD:     GRAYS FERRY AVE                                                                                    SR/SEG/OFF:        G021/0010/1056
+
+FROM:     MONTROSE ST                                                   TO:    CHRISTIAN ST
+
+STATE:    PA            COUNTY:                                         MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                          FC:     16                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                     84241 COUNTER #:             11-012               WEATHER:         f              DATA SOURCE:          INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday        Saturday     Sunday          Monday         Tuesday    Wednesday       Thursday      Friday
+ Ending         2/24/2012         2/25/2012   2/26/2012    2/27/2012      2/28/2012      2/29/2012       3/1/2012     3/2/2012
+
+    12 AM                                 1           3               3              2           1               14          3
+      1 AM                                2           0               1              1           0                1          1
+      2 AM                                4           5               4              1           2                2          1
+      3 AM                                0           0               0              0           0                1          4
+      4 AM                                1           1               1              0           6                2          2
+      5 AM                                0           1               1              1           1                3          2
+      6 AM                                3           3               5              2           4                4          3
+      7 AM                                7           4              13             13           7                5         16
+      8 AM                                8           4               8             10           5                9         14
+      9 AM                                7          10              13             10           1                7         10
+    10 AM                                 9           7              15             10           2                3
+    11 AM                                 9           6               9             11           4                8
+    12 PM                     6           9          17               9             15           1                7
+      1 PM                    6           8          19              20             14           7                9
+      2 PM                    8           3           2              19             11           7                8
+      3 PM                    5           9           4              10             10           4                9
+      4 PM                    5          13          12              11             15           6               14
+      5 PM                    9           9           8              22              9          10                9
+      6 PM                    5           2           9              12             16           6                9
+      7 PM                    6          10           6               8             11           9               16
+      8 PM                    7           8           4               8              7           6               10
+      9 PM                    7           7           5               6              8           4               10
+    10 PM                     5           5           9               5              2           2               10
+     11PM                     4           0           7               3              1           2                2
+     Total                   73         134         146             206            180          97              172             56
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                      1.083            FACTOR:         1.0622      ADP:        179
+
+
+
+
+11:19:32PM      6/7/2014                                                                                                             Page 1 of 1
+

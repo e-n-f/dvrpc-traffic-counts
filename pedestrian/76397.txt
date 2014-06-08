@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 5/3/2011             PROJECT:           11-43-045                 STATION ID:        P0291
+
+ROAD:     PA 611 BROAD ST                                                                                SR/SEG/OFF:        0611/0060/0284
+
+FROM:     CECIL B MOORE AVE                                           TO:    MONTGOMERY AVE
+
+STATE:    PA           COUNTY:                                        MCD: 4210160107 - LOWER NORTH
+
+SIDEWALK:           east                      FC:     14                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 76397 COUNTER #:             10-010                     WEATHER:                  DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Monday        Tuesday     Wednesday        Thursday          Friday      Saturday    Sunday        Monday
+ Ending         5/2/2011      5/3/2011    5/4/2011         5/5/2011         5/6/2011     5/7/2011    5/8/2011     5/9/2011
+
+    12 AM                            52          29               32               40           44          38          18
+      1 AM                           20          23               14               17           35          27           9
+      2 AM                           15          28                9               18           26          31           7
+      3 AM                            9          13                2                9           17          12           3
+      4 AM                            5           7                4                3            8           5           3
+      5 AM                            4           5               10                7            7           2           3
+      6 AM                           14           9               21               34           13           8          38
+      7 AM                          102          66              140              188           40          18         215
+      8 AM                          213         102              237              250           81          24         232
+      9 AM                          217         142              229              259          133          50         118
+    10 AM                           249         153              238              281           96         127
+    11 AM               120         351         240              211              253          127          92
+    12 PM               400         454         272              326              455          671         137
+      1 PM              338         389         234              314              340          365         145
+      2 PM              258         218         184              280              289          129         118
+      3 PM              300         164         186              303              229          122          87
+      4 PM              354         194         226              194              249          105         112
+      5 PM              360         300         249              255              283           86          97
+      6 PM              220         155         153              165              180          111         140
+      7 PM              158         103         150              134              127           68         106
+      8 PM              127          80         122              106               84           57          76
+      9 PM              113          83          68              102               74           60          52
+    10 PM               178         110          73               90              102           78          46
+     11PM               131          60          55               80              182           54          40
+     Total            3,057       3,561       2,789            3,496            3,953        2,533       1,590         646
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.962             FACTOR:          1.0622        ADP:    3,052
+
+
+
+
+11:24:11PM      6/7/2014                                                                                                      Page 1 of 1
+

@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                  DATE: 10/18/2011           PROJECT:          11-43-045                       STATION ID:     P0332
+
+ROAD:      WYOMING AVE                                                                                          SR/SEG/OFF:     G054/0040/1056
+
+FROM:     "G" ST                                                        TO:   PENHURST ST
+
+STATE:    PA            COUNTY:                                         MCD: 4210160101 - NORTH
+
+SIDEWALK:           north                       FC:     16                      TYPE:            PEDESTRIAN
+
+DVRPC FILE #:                    81621 COUNTER #:            11-020                    WEATHER:        f            DATA SOURCE:         INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Monday           Tuesday    Wednesday        Thursday         Friday        Saturday       Sunday      Monday
+ Ending        10/17/2011 10/18/2011 10/19/2011 10/20/2011 10/21/2011 10/22/2011 10/23/2011 10/24/2011
+
+    12 AM                    1          3          1                   2                0          2               0            0
+      1 AM                   0          0          1                   0                0          1               2            1
+      2 AM                   0          0          0                   0                0          0               1            0
+      3 AM                   1          3          1                   3                1          3               1            1
+      4 AM                   0          0          0                   0                1          2               0            0
+      5 AM                   0          0          0                   0                0          1               1            0
+      6 AM                   4          1          3                   3                4          1               0            2
+      7 AM                   3          1          3                   4                9          0               0            0
+      8 AM                   1          2          3                   6                1          3               3            0
+      9 AM                   0          2          2                   1                1          3               1
+    10 AM                    5          2          3                   0                4          5               6
+    11 AM                    3          3          0                   1                2          6               7
+    12 PM                    7          2          2                   2                5          3               8
+      1 PM                   7          6          2                   6                7          5               9
+      2 PM                   9          9          6                   4                1          5               5
+      3 PM                  10          5          4                   2                7          7               4
+      4 PM                  12          6          0                   5                3          1               6
+      5 PM                   1          5          2                   3                3          7               3
+      6 PM                   1          8          0                   4                9          8               3
+      7 PM                   1          7          1                   3                4          3               4
+      8 PM                   6          5          2                   4                0          3               1
+      9 PM                   4          4          0                   1                2          2               2
+    10 PM                    0          0          0                   4                0          0               1
+     11PM                    0          2          0                   1                0          3               2
+     Total                  76         76         36                  59               64         74              70            4
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    0.968             FACTOR:         1.0622          ADP:      65
+
+
+
+
+11:19:04PM      6/7/2014                                                                                                            Page 1 of 1
+

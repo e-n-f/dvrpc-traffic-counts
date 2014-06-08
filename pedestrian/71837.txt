@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 5/21/2011            PROJECT:        10-cbd-046                   STATION ID:         P0085
+
+ROAD:     15TH ST                                                                                           SR/SEG/OFF:         G039/0010/3880
+
+FROM:     HAMILTON ST                                                  TO:    CALLOWHILL ST
+
+STATE:    PA            COUNTY:                                        MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                         FC:     16                    TYPE:        PEDESTRIAN
+
+DVRPC FILE #:                    71837 COUNTER #:             10-006               WEATHER:        fair           DATA SOURCE:          INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday       Saturday     Sunday          Monday         Tuesday   Wednesday      Thursday         Friday
+ Ending         5/20/2011        5/21/2011   5/22/2011    5/23/2011      5/24/2011     5/25/2011     5/26/2011        5/27/2011
+
+    12 AM                                3           8               2             4           5                 12           9
+      1 AM                               3           3               0             1           4                  4           3
+      2 AM                               8           6               0             0           2                  2           0
+      3 AM                               3           3               0             0           0                  0           0
+      4 AM                               6           0               0             1           0                  0           1
+      5 AM                               2           1               7             5           4                  1           1
+      6 AM                               1           5              73            18          19                  8          14
+      7 AM                               3           1              80            42          33                 26          40
+      8 AM                              13           0              42            65          51                 57          71
+      9 AM                               9           7              38            56          54                 64          28
+    10 AM                                7           3              39            44          72                 58
+    11 AM                   62          27           3              56            63          52                 74
+    12 PM                   79          18          11              75           116         100                133
+      1 PM                  79          18           3             101           100         118                136
+      2 PM                  34          20          10              53            84          59                 62
+      3 PM                  30          17           7              35            52          50                 61
+      4 PM                  46           9           7              58            44          46                 40
+      5 PM                  39          12          16              47            44          47                 48
+      6 PM                  16          14          13              25            26          22                 28
+      7 PM                   9          11           8              14            24          23                 24
+      8 PM                  14          23           5               7            13          17                 27
+      9 PM                  11           2           2               9             8           8                 12
+    10 PM                    3           7           6               6             8           3                 10
+     11PM                    2           6           2               6             1           6                  2
+     Total                 424         242         130             773           819         795                889         167
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     0.962            FACTOR:         1.0622     ADP:          621
+
+
+
+
+11:10:18PM      6/7/2014                                                                                                          Page 1 of 1
+

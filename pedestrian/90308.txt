@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 5/16/2012           PROJECT:          12-41-090                 STATION ID:       P0414
+
+ROAD:     CR 605 MT EPHRAIM AVE                                                                        SRI/MP:           04000605__/1.08
+
+FROM:     SYCAMORE AVE                                              TO:    CHESTNUT AVE
+
+STATE:    NJ           COUNTY:                                      MCD: 3400710000 - CAMDEN CITY
+
+SIDEWALK:           west                     FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 90308 COUNTER #:            11-016                 WEATHER:                      DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Tuesday     Wednesday   Thursday          Friday         Saturday       Sunday     Monday        Tuesday
+ Ending         5/15/2012    5/16/2012   5/17/2012    5/18/2012       5/19/2012      5/20/2012     5/21/2012     5/22/2012
+
+    12 AM                            9           8               8              12             9            16           4
+      1 AM                           2           8               8               7             6             3           8
+      2 AM                           4           2               8               5             3             5           6
+      3 AM                           0           2               3               2             2             2           0
+      4 AM                           3           2               1               4             3             2           4
+      5 AM                           5           2               9               3             4             3           0
+      6 AM                          11           9              10               9             4             3          10
+      7 AM                           8           8               9               6             2            11          17
+      8 AM                          10          13              14               9             5             9          35
+      9 AM                          12          25              12               6            12             7          17
+    10 AM                9          16          13              14              12             3            16          12
+    11 AM                4          16          31              14               6             7            17           9
+    12 PM                8          25          20              27              18             9            11          11
+      1 PM               7          16          31              15               9            68            10          15
+      2 PM              21          37          13              46              11            48            14          23
+      3 PM              25          24          19              30              29            27            19          29
+      4 PM              22          25          27              32              43            10            24          11
+      5 PM              22          13          20              82              19            46             8          15
+      6 PM               7          16          20              15              18            28            18          17
+      7 PM               8           7          14               8              10            19            12          17
+      8 PM               8           7          15              27              13            12             6           6
+      9 PM              17          12          11               5               6             4             5          11
+    10 PM               14          12          12              10              18            13            21           6
+     11PM               16           7          10               8              12             9             6          10
+     Total             188         297         335             415             287           353           248         293
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.962             FACTOR:         1.0622        ADP:     330
+
+
+
+
+11:22:47PM      6/7/2014                                                                                                     Page 1 of 1
+

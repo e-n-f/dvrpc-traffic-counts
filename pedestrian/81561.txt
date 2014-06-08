@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                   DATE: 11/2/2011            PROJECT:          11-43-045                     STATION ID:       P0206
+
+ROAD:      15TH ST                                                                                             SR/SEG/OFF:          LOCAL
+
+FROM:     MIFFLIN ST                                                    TO:    MOORE ST
+
+STATE:    PA           COUNTY:                                          MCD: 4210160112 - SOUTH
+
+SIDEWALK:           east                         FC:     19                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                     81561 COUNTER #:            10-004                 WEATHER:          f               DATA SOURCE:         INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Tuesday         Wednesday   Thursday          Friday         Saturday       Sunday         Monday        Tuesday
+ Ending         11/1/2011        11/2/2011   11/3/2011    11/4/2011       11/5/2011      11/6/2011         11/7/2011     11/8/2011
+
+    12 AM                                2           6               2               2            20                 0          13
+      1 AM                               0           1               0               4            20                 1           0
+      2 AM                               4           0               2               4             0                 0           3
+      3 AM                               0           0               0               0             0                 0           2
+      4 AM                               0           1               0               0             0                 2           1
+      5 AM                               1           5               0               0             0                 5           0
+      6 AM                               1           3               4               4             5                 6           8
+      7 AM                              33          18              24              13             2                21          13
+      8 AM                              18          16              19              20            19                15          25
+      9 AM                              13          17              15              14            18                15          23
+    10 AM                   24           9          18              16              15            28                17          23
+    11 AM                   20          16          24              14              24            18                16
+    12 PM                   18          29          21              16              25            23                19
+      1 PM                  21          25          14              26              20            15                22
+      2 PM                  17          19          28              18              28            36                30
+      3 PM                  30          26          20              32              26            36                62
+      4 PM                  22          19          29              21              18            19                28
+      5 PM                  25          19          17              23              21            11                23
+      6 PM                  25          15          17              21              38            21                14
+      7 PM                  20          19          17              53              24            11                15
+      8 PM                  15          14           3               8              29             8                 6
+      9 PM                  24          18          14               8              24            14                17
+    10 PM                    6           2           2               7              14             1                11
+     11PM                    6           7           5               2              10             1                 1
+     Total                 273         309         296             331             377           326               346         111
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     1.001             FACTOR:         1.0622        ADP:         352
+
+
+
+
+11:17:28PM      6/7/2014                                                                                                             Page 1 of 1
+

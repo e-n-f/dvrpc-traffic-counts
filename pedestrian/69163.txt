@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                 DATE: 7/7/2010              PROJECT:                             STATION ID:   P0169
+
+ROAD:     6TH ST                                                                                   SR/SEG/OFF:   2005/0061/1500
+
+FROM:     ARCH ST                                                   TO:   RACE ST
+
+STATE:    PA           COUNTY:                                      MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           west                        FC:     14                 TYPE:      PEDESTRIAN
+
+DVRPC FILE #:                  69163 COUNTER #:              1001              WEATHER:   fair           DATA SOURCE:    INTERNAL
+
+COMMENTS:             Pedestrian Totals: Export to Excel to get directional data
+
+
+
+
+  Hour         Wednesday      Thursday       Friday
+ Ending         7/7/2010      7/8/2010      7/9/2010
+
+    12 AM                0             1            5
+      1 AM               3             5            7
+      2 AM               2             2            1
+      3 AM               0             0            0
+      4 AM               5             2            1
+      5 AM               7            17            9
+      6 AM              19            40           34
+      7 AM              55            99           76
+      8 AM              91           156          119
+      9 AM              67           106           58
+    10 AM               36            56           51
+    11 AM               58            90           70
+    12 PM              107           116            0
+      1 PM              73            91
+      2 PM              42            77
+      3 PM              53            79
+      4 PM              70            63
+      5 PM              36            70
+      6 PM              12            28
+      7 PM               5            24
+      8 PM               9            19
+      9 PM               6            18
+    10 PM                2             5
+     11PM                4             5
+     Total             762         1,169          431
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    0.900            FACTOR:     1.0622    ADP:       1,118
+
+
+
+
+10:51:35PM      6/7/2014                                                                                           Page 1 of 1
+

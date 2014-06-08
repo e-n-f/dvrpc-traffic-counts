@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                  DATE: 9/24/2011            PROJECT:        11-43-045                STATION ID:         P0338
+
+ROAD:     RIDGE AVE                                                                                    SR/SEG/OFF:         3009/0100/1000
+
+FROM:     MAIN ST                                                     TO:    CRESSON ST
+
+STATE:    PA            COUNTY:                                       MCD: 4210160108 - LOWER NORTHWEST
+
+SIDEWALK:           west                        FC:     16                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                   81658 COUNTER #:             10-004               WEATHER:                     DATA SOURCE:          INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday      Saturday     Sunday          Monday         Tuesday    Wednesday   Thursday       Friday
+ Ending         9/23/2011       9/24/2011   9/25/2011    9/26/2011      9/27/2011      9/28/2011   9/29/2011     9/30/2011
+
+    12 AM                               2           5               1              0           0             0           2
+      1 AM                              0           1               2              0           0             0           0
+      2 AM                              1           2               1              1           1             1           2
+      3 AM                              1           0               0              0           0             3           0
+      4 AM                              4           3               0              1           0             1           1
+      5 AM                              0           0               5              0           2             4           2
+      6 AM                              0           0               8              2           7             9           2
+      7 AM                              6           2              12              9          14             4           5
+      8 AM                             14           9               4              6           9            12          14
+      9 AM                             11          14               9              4           3             4           3
+    10 AM                   2          11          18               8              3           3             3
+    11 AM                   1          13           9               4              6           6             5
+    12 PM                   0           9           7               3              5          10             9
+      1 PM                  1           7          18               2              5          10             3
+      2 PM                  4          11           3               7              8           2             2
+      3 PM                  7          11           2               5             10           9             5
+      4 PM                 11          12           7              13              9           7            12
+      5 PM                  8          13           6              13              8          21            14
+      6 PM                  5          13           4              18              7          17             8
+      7 PM                  3           8           6               9              5           9            11
+      8 PM                  1           6           4               3              3           5             4
+      9 PM                  7           4           3               3              5           5             7
+    10 PM                   1           1           4               3              0           4             5
+     11PM                   1          13           0               0              3           1             2
+     Total                 52         171         127             133            100         145           128             31
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    0.949            FACTOR:         1.0622      ADP:     135
+
+
+
+
+11:21:39PM      6/7/2014                                                                                                        Page 1 of 1
+

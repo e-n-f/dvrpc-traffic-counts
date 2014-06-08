@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                 DATE: 2/25/2012           PROJECT:        11-43-045                    STATION ID:        P0196
+
+ROAD:     PASSYUNK AVE                                                                                   SR/SEG/OFF:        G509/0010/2059
+
+FROM:     12TH ST                                                   TO:    TASKER ST
+
+STATE:    PA            COUNTY:                                     MCD: 4210160112 - SOUTH
+
+SIDEWALK:           east                      FC:     17                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 85803 COUNTER #:             11-016               WEATHER:         f              DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday    Saturday     Sunday          Monday         Tuesday    Wednesday       Thursday      Friday
+ Ending         2/24/2012     2/25/2012   2/26/2012    2/27/2012      2/28/2012      2/29/2012       3/1/2012     3/2/2012
+
+    12 AM                            37          40              21             10          12              18          29
+      1 AM                           18          32               3             16          16               4           7
+      2 AM                            9          19               5              5           5               5           9
+      3 AM                            2           3               7              2           2               3           2
+      4 AM                            3           2               4              4           4               4           7
+      5 AM                            4           4               6              8          12               6           8
+      6 AM                            8           2              13             16          17              11          14
+      7 AM                           25           6              39             67          52              45          39
+      8 AM                           29          39              78             70          60              79          63
+      9 AM                           53          32              51             49          37              57          65
+    10 AM                            64          50              46             34          37              49          23
+    11 AM                76          68          43              44             48          30              56
+    12 PM                63          85          96              53             46          33              62
+      1 PM               61          96          75              64             83          26              69
+      2 PM               76         123         115              87             71          44              71
+      3 PM               84         126         153              91             79          60              65
+      4 PM              112          67         115             108            124          75             117
+      5 PM              115          90         135             140            172         107             140
+      6 PM              114         148          96              94            127         104             100
+      7 PM               99         170          86              80            107          80              86
+      8 PM              182         114          55              64             84          55              82
+      9 PM              113         137          29              67             80          55              84
+    10 PM                76          81          22              31             35          35              39
+     11PM                43          53          23              32             33          29              46
+     Total            1,214       1,610       1,272           1,228          1,370         987           1,298         266
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  1.083            FACTOR:         1.0622      ADP:        1,489
+
+
+
+
+11:22:13PM      6/7/2014                                                                                                      Page 1 of 1
+

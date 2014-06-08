@@ -1,0 +1,58 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 8/30/2011           PROJECT:           12-41-040                STATION ID:        P0399
+
+ROAD:     US 202 DEKALB ST BRIDGE                                                                      SR/SEG/OFF:        0202/0121/1500
+
+FROM:     FRONT ST                                                   TO:    WASHINGTON ST
+
+STATE:    PA           COUNTY:                                       MCD: 4209154656 - NORRISTOWN BORO
+
+SIDEWALK:           west                     FC:     14                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                81256 COUNTER #:             11-012                     WEATHER:                 DATA SOURCE:        INTERNAL
+
+COMMENTS:             Monday September 5, 2011 Labor Day Holiday
+
+
+
+
+  Hour           Monday       Tuesday    Wednesday        Thursday          Friday      Saturday   Sunday        Monday       Tuesday      Wednesday
+ Ending         8/29/2011    8/30/2011   8/31/2011        9/1/2011         9/2/2011     9/3/2011   9/4/2011     9/5/2011      9/6/2011     9/7/2011
+
+    12 AM                            2           1               3                3            2          0            0             1            2
+      1 AM                           0           0               4                2            4          4            3             2            3
+      2 AM                           1           0               0                2            1          0            0             1            0
+      3 AM                          14          16              17               11           14         15           14            16            7
+      4 AM                           2           1               7                3            3          0            0             2            1
+      5 AM                          14          12              12                9            7          2            6             9            8
+      6 AM                          14          16              20               19            4          6            3            12           11
+      7 AM                          19          20              19               18           13         10            9            12            6
+      8 AM                          12          19              23               12           15         16           10            11           16
+      9 AM                          15          13              15               15           16          3           12            18           18
+    10 AM                            8           8               6               12            9          3            9             7           12
+    11 AM                6          92          21              25               12           17         15            7            15
+    12 PM               32          17          32              18               32           24         12           10            12
+      1 PM              14          15          24              12               19           14         22           13            14
+      2 PM              21          35          27              18               31           26         13           14            16
+      3 PM              29          28          32              25               29           14         14           10             9
+      4 PM              21          32          37              26               23            9          6            9            14
+      5 PM              14          29          21              19               20           13          8           15             5
+      6 PM              19          32          18              25               13            5         14            7             6
+      7 PM              10          15          18              10               21            9          9            5             3
+      8 PM               8          16           8               9               16            5          6            4             4
+      9 PM               7          12           8              13               10            8         10            3             3
+    10 PM                3           2          13               3                7            4          5            5             3
+     11PM                7           3           4               2                8            2          4            1             0
+     Total             191         429         369             331              347          238        197          169           195           84
+
+
+
+
+11:16:31PM      6/7/2014                                                                                                    Page 1 of 1
+PEDESTRIAN SEASONAL FACTOR:   0.919   FACTOR:   1.0622   ADP:   277
+
+
+
+
+11:16:31PM   6/7/2014                                                 Page 2 of 1
+

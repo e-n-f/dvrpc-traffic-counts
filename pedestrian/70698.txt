@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                DATE: 9/17/2010            PROJECT:        11-43-040                STATION ID:     P0149
+
+ROAD:     8TH ST                                                                                     SR/SEG/OFF:     G033/0020/0264
+
+FROM:     MARKET ST                                                 TO:    CHESTNUT ST
+
+STATE:    PA           COUNTY:                                      MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           west                      FC:     17                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 70698 COUNTER #:             10-008              WEATHER:                      DATA SOURCE:    INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday       Friday     Saturday         Sunday         Monday      Tuesday    Wednesday
+ Ending         9/16/2010     9/17/2010   9/18/2010    9/19/2010      9/20/2010     9/21/2010    9/22/2010
+
+    12 AM                            37          66              64            25           17          31
+      1 AM                            8          54              65             9           13           6
+      2 AM                           12          37              30            12            6           1
+      3 AM                            7          12              10             6            5           2
+      4 AM                           12          18               7             7            8           5
+      5 AM                           18          42               4            18           21          83
+      6 AM                          154         131              33            96          108         138
+      7 AM                          442          76              64           349          391         463
+      8 AM                          410          71             111           530          609         620
+      9 AM                          448         180             111           631          665         823
+    10 AM                           983         192             190           744          958         984
+    11 AM               963         769         320             198           570          749         670
+    12 PM               859         671         241             213           630          690
+      1 PM              607         494         277             135           465          452
+      2 PM              705         437         255             162           370          435
+      3 PM              476         706         326             152           476          464
+      4 PM              530         676         294             158           481          586
+      5 PM              520         496         272             100           614          534
+      6 PM              257         335         251             132           269          349
+      7 PM              136         240         201              87           133          206
+      8 PM              176         171         143              96            76          128
+      9 PM               63          83         117              82            83           53
+    10 PM                55          93         138              60            72           68
+     11PM                56         105         101              36            41           41
+     Total            5,403       7,807       3,815           2,300         6,707        7,556       3,826
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.949            FACTOR:        1.0622       ADP:     5,682
+
+
+
+
+11:08:25PM      6/7/2014                                                                                               Page 1 of 1
+

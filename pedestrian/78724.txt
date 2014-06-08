@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                 DATE: 6/4/2011           PROJECT:           11-41-050                 STATION ID:        P0239
+
+ROAD:     58TH ST                                                                                       SR/SEG/OFF:        G065/0020/2640
+
+FROM:     CHESTER AVE                                                TO:    KINGSESSING AVE
+
+STATE:    PA            COUNTY:                                      MCD: 4210160110 - UNIVERSITY - SOUTHWEST
+
+SIDEWALK:           west                     FC:     17                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 78724 COUNTER #:            10-006                  WEATHER:                     DATA SOURCE:          INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday    Saturday    Sunday          Monday           Tuesday    Wednesday     Thursday      Friday
+ Ending         6/3/2011      6/4/2011    6/5/2011        6/6/2011         6/7/2011     6/8/2011    6/9/2011     6/10/2011
+
+    12 AM                            12         11               8                4            7            10          10
+      1 AM                            3         11               4                1            9            12           7
+      2 AM                            6          5               0                6            2             3           0
+      3 AM                            2          0               0                2            0             5           2
+      4 AM                            0          2               3                0            2             5           2
+      5 AM                            9          2               3                3            2             8           8
+      6 AM                           11          3              10               15           10            11           9
+      7 AM                            3          2              23               11           17            14          14
+      8 AM                            7          7             124               24           12            19          18
+      9 AM                           28          4              20               12           14            14          12
+    10 AM                38          29         14              37               32           18             9
+    11 AM                34          21         16              88               14           23            14
+    12 PM                38          22         21             113               26           28            22
+      1 PM               22          27         16             130               41           31            36
+      2 PM               40          23         20              40               20           28            22
+      3 PM               23          28         21              47               41           18            16
+      4 PM               56          13         28              40               30           36            24
+      5 PM               38          21         31              67               35           34            20
+      6 PM               44          29         30              29               36           25            29
+      7 PM               49          33         26              34               55           17            38
+      8 PM               81          26         25              45               26           34            54
+      9 PM               42          34         16              14               30           27             9
+    10 PM                18          12          7              15               22           20            14
+     11PM                16          23         13              31                8           14             7
+     Total              539         422        331             925              494          428           415             82
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.930            FACTOR:          1.0622        ADP:    497
+
+
+
+
+10:50:59PM      6/7/2014                                                                                                        Page 1 of 1
+

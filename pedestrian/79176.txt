@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 7/19/2011            PROJECT:          11-43-045                 STATION ID:         P0303
+
+ROAD:     ARAMINGO AVE                                                                                     SR/SEG/OFF:         2009/0020/0000
+
+FROM:     CUMBERLAND ST                                                  TO:   HUNTINGDON ST
+
+STATE:    PA           COUNTY:                                           MCD: 4210160109 - RIVER WARDS
+
+SIDEWALK:           east                         FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                    79176 COUNTER #:             11-015                    WEATHER:                   DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Monday           Tuesday    Wednesday        Thursday         Friday      Saturday     Sunday        Monday
+ Ending         7/18/2011        7/19/2011   7/20/2011    7/21/2011        7/22/2011      7/23/2011    7/24/2011     7/25/2011
+
+    12 AM                                5           0               2               1            0              2           1
+      1 AM                               6           0               1               1            1              6           0
+      2 AM                               2           1               1               1            1              1           0
+      3 AM                              14           9               8              15           12             14          14
+      4 AM                               0           1               1               0            0              0           1
+      5 AM                               1           1               1               0            3              3           1
+      6 AM                               2           1               2               5            3              6           4
+      7 AM                              15           4               5               2            0              1           4
+      8 AM                              11          25               7               7            2             10          18
+      9 AM                              11          58              47               6            5             11          23
+    10 AM                               32          33              62              14           14             40          15
+    11 AM                    1          79          33              99              16           12             33          11
+    12 PM                   21          39          17              70              19           12             15          13
+      1 PM                  27          26          34              27              17           14             16          13
+      2 PM                  28          21          24              19              11           12             53          20
+      3 PM                  17          11          33              51              15           19             11          25
+      4 PM                  20          19          17              20              10           15             17          19
+      5 PM                  22          12           8              93               9            8             27          23
+      6 PM                  19          20          13              24              13            8             19          24
+      7 PM                  23          17          16               9              11           10              9           3
+      8 PM                  23           6          18               8              14            7             10           4
+      9 PM                   7           4          11               5              11           10             10           8
+    10 PM                    8           5           3               7               2            2              4           4
+     11PM                    2           5           2               0               1            1              1           0
+     Total                 218         363         362             569             201          171            319         248
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     0.900             FACTOR:         1.0622        ADP:     316
+
+
+
+
+11:16:46PM      6/7/2014                                                                                                         Page 1 of 1
+

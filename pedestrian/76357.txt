@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                 DATE: 5/7/2011           PROJECT:          11-43-045                STATION ID:         P0060
+
+ROAD:     SOUTH ST BRIDGE                                                                             SR/SEG/OFF:         G018/0010/2112
+
+FROM:     I 76 SCHUYLKILL EXPWY RAMPS                                TO:    27TH ST
+
+STATE:    PA            COUNTY:                                      MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           south                    FC:     16                      TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 76357 COUNTER #:            10-005                 WEATHER:                     DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday    Saturday    Sunday          Monday           Tuesday    Wednesday   Thursday       Friday
+ Ending         5/6/2011      5/7/2011    5/8/2011        5/9/2011     5/10/2011      5/11/2011   5/12/2011     5/13/2011
+
+    12 AM                             3          6                7               5           3           0             4
+      1 AM                            5          6                3               3           2           1             1
+      2 AM                            5          2                1               0           1           2             3
+      3 AM                            2          4                0               1           0           0             0
+      4 AM                            2          1                2               4           2           1             2
+      5 AM                            3          0               18              13          12          10            10
+      6 AM                           16         16               58              55          56          45            41
+      7 AM                           17         20               97             107         101          88           100
+      8 AM                           24         25              127             128         138         105            69
+      9 AM                           16         18               72              75          72          77            80
+    10 AM                10          28         25               23              54          45          49            38
+    11 AM                34          24         24               40              44          32          39            38
+    12 PM                44          24         32               44              50          32          52            33
+      1 PM               36          34         26               29              52          51          42            35
+      2 PM               56          45         44               52              40          48          62            57
+      3 PM               50          47         34               71              88          71          58            75
+      4 PM               72          43         38               98             114         101         101           107
+      5 PM              135          41         23              188             169         175         153           151
+      6 PM               92          38         30              112             107         127          98            84
+      7 PM               65          27         28               68              80          65          65            55
+      8 PM               34          14         21               53              63          51          51            26
+      9 PM               19          16          6               23              35          34          19            14
+    10 PM                16          14          7               23              14          26           9            21
+     11PM                15          15          8               11               8          10          12            17
+     Total              678         503        444            1,220           1,309       1,255       1,139         1,061
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.962            FACTOR:          1.0622      ADP:     999
+
+
+
+
+11:13:58PM      6/7/2014                                                                                                    Page 1 of 1
+

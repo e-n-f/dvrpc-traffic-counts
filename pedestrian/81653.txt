@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH               DATE: 9/20/2011           PROJECT:          11-43-045                 STATION ID:
+
+ROAD:     MANAYUNK TOWPATH TRAIL                                                                      SR/SEG/OFF:         LOCAL
+
+FROM:     FOUNTAIN ST                                               TO:   FLAT ROCK RD
+
+STATE:    PA          COUNTY:                                       MCD: 4210160108 - LOWER NORTHWEST
+
+SIDEWALK:                                   FC:     19                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:               81653 COUNTER #:             10-002                    WEATHER:                   DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Monday      Tuesday    Wednesday        Thursday         Friday      Saturday     Sunday        Monday
+ Ending         9/19/2011   9/20/2011   9/21/2011    9/22/2011        9/23/2011      9/24/2011    9/25/2011     9/26/2011
+
+    12 AM                           0           0               1               0            0              0           0
+      1 AM                          0           0               0               2            0              0           0
+      2 AM                          0           0               0               0            0              0           0
+      3 AM                          0           0               0               0            0              0           0
+      4 AM                          0           0               0               0            0              0           0
+      5 AM                          1           0               0               2            0              0           1
+      6 AM                          3           3               3               5            4              0           1
+      7 AM                         18          13               7               2           10             10          12
+      8 AM                         18          19              10              15           27             23          11
+      9 AM                         17          10              21               9           36             33          16
+    10 AM                           2           9              16               0           20             51          19
+    11 AM                          10           9              11               2           41             56           8
+    12 PM               4           5          12              11               0           19             57          19
+      1 PM             42           6           8              12               4           37             48          23
+      2 PM             23           8          21               6              11           29             44          27
+      3 PM             29           4          17               5               4           41             52          20
+      4 PM             20          28          15              17               6           34             42          19
+      5 PM             34          25          17              34               7           40             30          39
+      6 PM             69          57          24              46               5           20             28          48
+      7 PM             17          31          15              14               0            4              9          19
+      8 PM              0           0           1               0               0            2              2           0
+      9 PM              0           0           0               1               0            0              0           0
+    10 PM               6           1           0               2               0            0              0           2
+     11PM               0           0           2               0               1            0              0           0
+     Total            244         234         195             217              75          364            485         284
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                0.949             FACTOR:         1.0622        ADP:     264
+
+
+
+
+11:21:30PM      6/7/2014                                                                                                    Page 1 of 1
+

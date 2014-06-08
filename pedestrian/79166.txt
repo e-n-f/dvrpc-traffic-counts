@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 7/29/2011            PROJECT:         11-43-045                 STATION ID:      P0274
+
+ROAD:     SEDGLEY DR                                                                                      SR/SEG/OFF:      G029/0020/1742
+
+FROM:     POPLAR DR                                                    TO:    KELLY DR
+
+STATE:    PA           COUNTY:                                         MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                         FC:     14                     TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                    79166 COUNTER #:             11-014                WEATHER:                     DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday          Friday     Saturday         Sunday         Monday       Tuesday     Wednesday     Thursday
+ Ending         7/28/2011        7/29/2011   7/30/2011    7/31/2011          8/1/2011     8/2/2011    8/3/2011      8/4/2011
+
+    12 AM                                1           1               4              3            1              2          4
+      1 AM                               0           1               1              3            0              0          1
+      2 AM                               0           0               0              0            0              0          0
+      3 AM                              12           4               7             10           10             11         10
+      4 AM                               0           1               0              0            0              0          0
+      5 AM                               2           4               0              7            7              3          5
+      6 AM                              14          14               9             13           13             17          7
+      7 AM                              39          49              22             16           23             20         14
+      8 AM                              25          35              28             26           12             18         20
+      9 AM                              22          39              36             12           13             15         23
+    10 AM                   24          14          41              27              8           12             13         18
+    11 AM                   21          12          43              35             14           10             12          9
+    12 PM                   11          18          29              18             14            9             18
+      1 PM                  11           9          31              29             12            9             11
+      2 PM                   9          18          27              16              5            9             15
+      3 PM                  12          10          27              19              9            9             10
+      4 PM                   6          10          12              34              9           20              8
+      5 PM                  34          20          17              21             13           20             16
+      6 PM                  43          11          13              26              7           39             25
+      7 PM                  24          24          20              22             10           29             18
+      8 PM                  20           5          35              21             25           18             12
+      9 PM                   8           6          11              13              6            8              6
+    10 PM                    2           7          12               5              3            5              1
+     11PM                    5           1           4               3              4            0              0
+     Total                 230         280         470             396            229          276            251        111
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     0.894            FACTOR:         1.0622        ADP:     301
+
+
+
+
+11:15:28PM      6/7/2014                                                                                                       Page 1 of 1
+

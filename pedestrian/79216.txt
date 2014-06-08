@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 8/2/2011            PROJECT:           11-43-045                 STATION ID:        P0262
+
+ROAD:     PARKSIDE AVE                                                                                     SR/SEG/OFF:        3017/0080/1500
+
+FROM:     MEMORIAL HALL DR                                              TO:    41ST ST
+
+STATE:    PA            COUNTY:                                         MCD: 4210160106 - WEST PARK
+
+SIDEWALK:           north                       FC:     17                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                    79216 COUNTER #:            10-005                     WEATHER:                  DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Monday           Tuesday    Wednesday        Thursday          Friday      Saturday    Sunday        Monday
+ Ending         8/1/2011         8/2/2011   8/3/2011         8/4/2011         8/5/2011     8/6/2011    8/7/2011     8/8/2011
+
+    12 AM                               1          0                   0             0            1             2          1
+      1 AM                              2          0                   0             0            0             0          0
+      2 AM                              0          0                   0             0            0             1          0
+      3 AM                              2          0                   0             0            0             0          0
+      4 AM                              0          0                   0             0            0             0          0
+      5 AM                              2          1                   2             4            0             0          1
+      6 AM                              1          5                   4             9            3            17          4
+      7 AM                              3          3                   1             6            8             9          5
+      8 AM                              7          3                   2             7            7             1          4
+      9 AM                              7          7                   3             7           12             2         11
+    10 AM                    2          3          6                   1             2            6            14          9
+    11 AM                    2          6         16                   2             4           12             9
+    12 PM                    3         16         18                   1             2            5             7
+      1 PM                   2         12          5                   1             6           19             3
+      2 PM                   2          3          4                   2             4           22             2
+      3 PM                   6          2          2                   4             5           58            11
+      4 PM                   7          2          5                   0             3           53             1
+      5 PM                   0          0          9                   5             9          126             6
+      6 PM                   2          5          1                   2             4           62            18
+      7 PM                   1          1         13                   1            10           38            11
+      8 PM                   0          6          6                   1             9           92             5
+      9 PM                   1          2          1                   3             2           32             2
+    10 PM                    0          1          0                   2             2            4             2
+     11PM                    0          2          0                   1             4            5             0
+     Total                  28         86        105                  38            99          565           123         35
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    0.888             FACTOR:          1.0622        ADP:    159
+
+
+
+
+11:15:40PM      6/7/2014                                                                                                        Page 1 of 1
+

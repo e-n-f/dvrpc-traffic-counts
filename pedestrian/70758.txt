@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                DATE: 10/20/2010          PROJECT:          11-43-040                STATION ID:    P0164
+
+ROAD:     3RD ST                                                                                      SR/SEG/OFF:    G705/0020/0343
+
+FROM:     MARKET ST                                                 TO:    ARCH ST
+
+STATE:    PA           COUNTY:                                      MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           west                     FC:     16                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                  70758 COUNTER #:           10-006                 WEATHER:                   DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Tuesday       Wednesday   Thursday         Friday         Saturday       Sunday    Monday      Tuesday
+ Ending        10/19/2010 10/20/2010 10/21/2010 10/22/2010 10/23/2010 10/24/2010 10/25/2010 10/26/2010
+
+    12 AM                            10         10              31              98           107          7           8
+      1 AM                            8          7              28              55            58          3           4
+      2 AM                            8          2              15              60            60          4           4
+      3 AM                            1          2               2               2             4          2           4
+      4 AM                            4          4               7               0             5          0           3
+      5 AM                           13          5               6               2             3          8          10
+      6 AM                           42         25              26               9             8         37          26
+      7 AM                           52         44              55              34            11         39          63
+      8 AM                          135        103             106              32            35        110          71
+      9 AM                          148        120             166             114            38         88
+    10 AM                97         144        124             126             209            81        100
+    11 AM               136         319        260             306             306           135        164
+    12 PM               183         227        315             358             300           217        292
+      1 PM              223         270        292             312             375           261        253
+      2 PM              240         256        210             282             359           264        192
+      3 PM              205         224        219             219             360           226        175
+      4 PM              174         191        168             231             321           219        197
+      5 PM              186         241        239             256             233           174        145
+      6 PM              219         220        227             248             203           116        149
+      7 PM              132         125        198             183             159            86         96
+      8 PM               93          86         93             125             105            47         59
+      9 PM               53          70         60             104              89            44         69
+    10 PM                30          28         41             104              68            25         44
+     11PM                10          19         62              88              99            17         15
+     Total            1,981       2,841      2,830           3,384           3,592         2,241      2,248         193
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.968             FACTOR:         1.0622        ADP:    2,937
+
+
+
+
+11:07:36PM      6/7/2014                                                                                                  Page 1 of 1
+

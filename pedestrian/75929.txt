@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                  DATE: 4/2/2011              PROJECT:           10-cbd-031                  STATION ID:      P0115
+
+ROAD:     FRONT ST                                                                                            SR/SEG/OFF:      G005/0102/0448
+
+FROM:     CALLOWHILL ST                                                  TO:    NOBLE ST
+
+STATE:    PA            COUNTY:                                          MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                      FC:        17                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                   75929 COUNTER #:              10-007                  WEATHER:                     DATA SOURCE:          INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday      Saturday   Sunday             Monday           Tuesday    Wednesday     Thursday      Friday
+ Ending         4/1/2011        4/2/2011   4/3/2011           4/4/2011         4/5/2011     4/6/2011    4/7/2011     4/8/2011
+
+    12 AM                              3             3                  0             0            1             2              0
+      1 AM                            10            13                  0             0            0             0              1
+      2 AM                             2             1                  0             0            0             0              0
+      3 AM                             0             3                  0             0            0             0              0
+      4 AM                             2             0                  0             0            0             0              0
+      5 AM                             0             0                  0             0            0             0              4
+      6 AM                             0             1                  1             1            1             1              4
+      7 AM                             0             4                  0             4            2             0              0
+      8 AM                             5             2                  3             7            1             2              0
+      9 AM                             2             0                  3             5            3             3              8
+    10 AM                              1             0                  2             2           12             0
+    11 AM                   4          5             3                  8             2            8             4
+    12 PM                   2          2             7                  4             3            6             1
+      1 PM                  4          3             0                  4             1            1             1
+      2 PM                  1          1             2                  1             0            2             0
+      3 PM                  0          7             8                  2             3            6             1
+      4 PM                  1          1             7                  8             2            0             4
+      5 PM                  7          7             8                  7             3            3             2
+      6 PM                 14         15            13                  1             2            7            10
+      7 PM                  2         16             3                  5             3            6            10
+      8 PM                 24         28             3                  3             0            2             7
+      9 PM                  2         23             6                  0             5            0             0
+    10 PM                   4          8             3                  0             1            1             2
+     11PM                   0          3             7                  2             0            1             8
+     Total                 65        144            97                 54            44           63            58             17
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                   1.012               FACTOR:          1.0622        ADP:    83
+
+
+
+
+11:15:16PM      6/7/2014                                                                                                            Page 1 of 1
+

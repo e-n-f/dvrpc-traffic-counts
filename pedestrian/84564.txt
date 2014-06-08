@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 2/14/2012           PROJECT:          12-41-050                         STATION ID:      P0376
+
+ROAD:     WALNUT ST                                                                                            SR/SEG/OFF:      LOCAL
+
+FROM:     WOODLAWN AVE                                               TO:   GIRARD AVE
+
+STATE:    PA           COUNTY:                                       MCD: 4204515232 - COLLINGDALE BORO
+
+SIDEWALK:           south                    FC:     19                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                84564 COUNTER #:             11-018                    WEATHER:        f               DATA SOURCE:         INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Monday       Tuesday    Wednesday        Thursday         Friday      Saturday          Sunday        Monday
+ Ending         2/13/2012    2/14/2012   2/15/2012    2/16/2012        2/17/2012      2/18/2012         2/19/2012     2/20/2012
+
+    12 AM                            0           0                 0             0              0                 0             1
+      1 AM                           0           0                 0             1              0                 0             1
+      2 AM                           0           0                 0             0              0                 0             0
+      3 AM                           0           0                 0             0              0                 0             0
+      4 AM                           0           0                 0             0              0                 0             0
+      5 AM                           1           0                 0             0              0                 1             0
+      6 AM                           0           0                 0             0              0                 0             0
+      7 AM                           1           0                 2             0              0                 0             0
+      8 AM                           0           0                 0             0              0                 0             0
+      9 AM                           0           1                 0             0              0                 0             5
+    10 AM                            0           0                 0             0              0                 1             0
+    11 AM                            1           0                 0             0              0                 6
+    12 PM                9           3           0                 0            20              0                 0
+      1 PM              13           4           1                 0            20             15                 0
+      2 PM               3           3           1                 1             4              2                 0
+      3 PM               1           2          20                 1             0              1                 5
+      4 PM               0           0           0                 0            10              1                 0
+      5 PM               2           3           4                 1             0              0                 0
+      6 PM              10           1           1                 0             0              1                 1
+      7 PM               0           0           0                 0             0             12                 4
+      8 PM               1           1           0                 1             1              1                 0
+      9 PM               0           0           0                 0             0              0                 0
+    10 PM                0           0           2                 0             0              0                 0
+     11PM                0           0           0                 0             0              0                 0
+     Total              39          20          30                 6            56             33                18             7
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 1.106             FACTOR:         1.0622        ADP:          32
+
+
+
+
+11:20:34PM      6/7/2014                                                                                                            Page 1 of 1
+

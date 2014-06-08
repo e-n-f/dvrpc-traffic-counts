@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                  DATE: 10/15/2010         PROJECT:        10-cbd-009               STATION ID:      P0039
+
+ROAD:     19TH ST                                                                                    SR/SEG/OFF:      LOCAL
+
+FROM:     BAINBRIDGE ST                                             TO:    SOUTH ST
+
+STATE:    PA           COUNTY:                                      MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                      FC:     19                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                    71608 COUNTER #:          10-018              WEATHER:                    DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday         Friday    Saturday        Sunday         Monday      Tuesday    Wednesday     Thursday
+ Ending        10/14/2010 10/15/2010 10/16/2010 10/17/2010 10/18/2010 10/19/2010 10/20/2010 10/21/2010
+
+    12 AM                             15         17              23             7           6              4          6
+      1 AM                             2          9               9            10           4              3          2
+      2 AM                             4          6              21             1           0              4          6
+      3 AM                             1          2               6             4           0              1          1
+      4 AM                             4          1               1             2           4              2          1
+      5 AM                             7          1               4             3           5              9          6
+      6 AM                            10          4               5            11          18             18         10
+      7 AM                            42          6               7            33          43             33         41
+      8 AM                            58         40              27            66          81             85         67
+      9 AM                            45         48              21            41          47             77         48
+    10 AM                             44         38              30            29          31             83
+    11 AM                             38         56              54            61          38             91
+    12 PM                   14        42         74              45            45          36             55
+      1 PM                  31        36         74              57            48          40             44
+      2 PM                  41        36         91              62            40          39             26
+      3 PM                  31        61        123              44            53          42             57
+      4 PM                  38        51        120              40            69          52             41
+      5 PM                  51        73         77              61           106         100             78
+      6 PM                  55        73         97              45            77          86             82
+      7 PM                  45        51         74              41            46          62             65
+      8 PM                  37        39         40              29            35          52             34
+      9 PM                  25        34         27              16            31          37             23
+    10 PM                   30        32         20               9            10          18             21
+     11PM                   20        16         55              13            11           7             14
+     Total                 418       814      1,100             670           839         848            950        188
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.968            FACTOR:        1.0622       ADP:     895
+
+
+
+
+11:09:26PM      6/7/2014                                                                                                  Page 1 of 1
+

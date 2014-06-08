@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                DATE: 9/9/2010             PROJECT:          11-43-040                STATION ID:       P0128
+
+ROAD:     10TH ST                                                                                      SR/SEG/OFF:       G023/0050/1346
+
+FROM:     WALNUT ST                                                   TO:    LOCUST ST
+
+STATE:    PA           COUNTY:                                        MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                      FC:     17                      TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 70663 COUNTER #:             10-008                    WEATHER:                  DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour         Wednesday      Thursday     Friday          Saturday         Sunday      Monday      Tuesday      Wednesday
+ Ending         9/8/2010      9/9/2010    9/10/2010    9/11/2010        9/12/2010      9/13/2010   9/14/2010     9/15/2010
+
+    12 AM                            11          26              48              44           35          27            30
+      1 AM                           26          20              28              33           23          16            13
+      2 AM                           19          27              40              38           18           8            14
+      3 AM                            9          16              18              21            8           4            15
+      4 AM                            8           9               9               5            8           9            14
+      5 AM                           41          29               9               8           41          29            31
+      6 AM                           97          86              26              27          111         103           115
+      7 AM                          224         211              51              29          223         210           228
+      8 AM                          282         276              62              29          324         298           303
+      9 AM               18         206         217              86              41          219         234           265
+    10 AM               256         218         183             113              70          239         197           185
+    11 AM               239         264         255             154             106          250         281           254
+    12 PM               322         284         261             220             112          336         325           370
+      1 PM              288         291         281             194             139          282         258           302
+      2 PM              243         231         241             163             134          259         263           244
+      3 PM              288         269         257             176             133          297         270           254
+      4 PM              346         277         299             166             121          349         346           330
+      5 PM              337         329         334             153              99          320         317           388
+      6 PM              231         217         197             131             108          208         216           243
+      7 PM              172         170         159             135              93          177         160           172
+      8 PM              105         109         138             106              63          103         126           111
+      9 PM               67          77          83             109              41           59          85            68
+    10 PM                55          54         101              77              59           71          72            65
+     11PM                38          72          93             100              28           45          43            53
+     Total            3,005       3,785       3,799           2,374           1,581        4,005       3,897         4,067
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.949             FACTOR:         1.0622       ADP:     3,266
+
+
+
+
+11:08:39PM      6/7/2014                                                                                                     Page 1 of 1
+

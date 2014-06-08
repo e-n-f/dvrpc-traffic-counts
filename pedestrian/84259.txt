@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 2/7/2012            PROJECT:          11-43-045                    STATION ID:         P0281
+
+ROAD:     12TH ST                                                                                         SR/SEG/OFF:         G015/0022/1663
+
+FROM:     FAIRMOUNT AVE                                              TO:   BROWN ST
+
+STATE:    PA           COUNTY:                                       MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           west                     FC:     16                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                84259 COUNTER #:             11-015                    WEATHER:      f               DATA SOURCE:         INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Monday       Tuesday     Wednesday        Thursday         Friday      Saturday        Sunday        Monday
+ Ending         2/6/2012     2/7/2012    2/8/2012         2/9/2012     2/10/2012      2/11/2012       2/12/2012     2/13/2012
+
+    12 AM                            2          5                1               8            7                 9             2
+      1 AM                           0          3                1               1           13                 3             3
+      2 AM                           0          1                1               1            2                 1             0
+      3 AM                           1          0                1               2            1                 0             0
+      4 AM                           0          1                1               1            2                 1             0
+      5 AM                           0          0                1               0            2                 0             0
+      6 AM                           1          1                1               1            1                 2             2
+      7 AM                          17         17               12              17            3                 9             8
+      8 AM                          78         59               79              68           18                 7
+      9 AM                          25         39               47              39           24                23
+    10 AM                           45         39               41              50           40                18
+    11 AM                           47         41               40              34           45                42
+    12 PM                           53         39               42              47           34                44
+      1 PM                          55         44               32              43           41                37
+      2 PM              43          50         38               39              53           42                48
+      3 PM              99          99         47               58              82           46                34
+      4 PM              67          64         80               53              55           44                19
+      5 PM              66          67         47               63              55           34                33
+      6 PM              53          66         29               70              51           18                19
+      7 PM              42          24         29               28              36           24                20
+      8 PM              15          24         13               18              51           25                15
+      9 PM              16          15         12               16              13            9                 8
+    10 PM               13          11         10               21              12            1                 8
+     11PM                6          14          5               15              18            2                10
+     Total             420         758        599              681             738          478               410          15
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 1.106             FACTOR:         1.0622        ADP:        718
+
+
+
+
+11:19:54PM      6/7/2014                                                                                                          Page 1 of 1
+

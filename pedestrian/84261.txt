@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      BB                DATE: 2/4/2012             PROJECT:           11-43-045                 STATION ID:        P0286
+
+ROAD:     2ND ST                                                                                         SR/SEG/OFF:        G007/0055/7234
+
+FROM:     WILDEY ST                                                   TO:    LAUREL ST
+
+STATE:    PA           COUNTY:                                        MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                     FC:      17                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 84261 COUNTER #:             11-011                  WEATHER:                     DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Friday       Saturday    Sunday           Monday           Tuesday    Wednesday     Thursday      Friday
+ Ending         2/3/2012      2/4/2012    2/5/2012         2/6/2012         2/7/2012     2/8/2012    2/9/2012     2/10/2012
+
+    12 AM                           105         207              10               13            9           8            37
+      1 AM                           66          93               9                7            7          12            26
+      2 AM                           23          29              10                3            7           7             2
+      3 AM                            8           6               1                2            0           3             0
+      4 AM                            1           2               3                0            1           0             0
+      5 AM                            4           3               2                3            5           3             1
+      6 AM                            2           1              10                7            9           7             7
+      7 AM                            3           8              17               14           10          19            23
+      8 AM                           19           9              17               26           27          21            23
+      9 AM                           47          26              41               22           37          16            29
+    10 AM                            63          55              13               22           14          19            29
+    11 AM                            74          52              35               27           30          20            53
+    12 PM                           108         133              50               37           43          28            42
+      1 PM               13         112         140              53               56           42          50
+      2 PM               77         116         134              45               52           49          50
+      3 PM               91         110         100              54               73           46          54
+      4 PM              205         130         106              81               53           47          54
+      5 PM              181         177          96              71               66           47          81
+      6 PM              246         445          89              72               99           53         111
+      7 PM              208         414          42              82              101           45         131
+      8 PM              162         388          35              46               74           38          92
+      9 PM              189         231          46              46               58           30          56
+    10 PM               199         226          42              36               34           25          51
+     11PM               163         272          21              10               22           20          18
+     Total            1,734       3,144       1,475             814              871          641         911           272
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  1.106             FACTOR:          1.0622        ADP:    1,538
+
+
+
+
+11:19:57PM      6/7/2014                                                                                                      Page 1 of 1
+

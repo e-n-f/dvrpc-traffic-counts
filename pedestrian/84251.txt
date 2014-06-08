@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 1/17/2012            PROJECT:          11-43-045                 STATION ID:         P0191
+
+ROAD:     CALLOWHILL ST                                                                                 SR/SEG/OFF:         G026/0040/2086
+
+FROM:     18TH ST                                                     TO:   19TH ST
+
+STATE:    PA           COUNTY:                                        MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           south                     FC:     17                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 84251 COUNTER #:             11-019                    WEATHER:                   DATA SOURCE:        INTERNAL
+
+COMMENTS:             Monday January 16, 2012: Martin Luther King Holiday
+
+
+
+
+  Hour           Monday       Tuesday    Wednesday         Thursday         Friday      Saturday     Sunday        Monday
+ Ending         1/16/2012    1/17/2012   1/18/2012     1/19/2012        1/20/2012      1/21/2012    1/22/2012     1/23/2012
+
+    12 AM                            0            1               4               3           13           12             2
+      1 AM                           0            0               2               1            4            9             1
+      2 AM                           0            0               0               2           12           12             1
+      3 AM                           1            0               0               0            0            0             0
+      4 AM                           0            0               0               0            1            0             0
+      5 AM                           5            3               8               7            0            0            17
+      6 AM                          23           19              14              12            4            3            14
+      7 AM                          28           25              20              21           11           15            27
+      8 AM                          50           47              42              56           35           39            53
+      9 AM                          80           73              69             107           68           66            92
+    10 AM                           55           97              70             117          115          120           107
+    11 AM              122          83           72              90              96          159          148            82
+    12 PM              164         109          108             104             107          159          175            80
+      1 PM             148          63           88              98             228          139          175            82
+      2 PM             122          80           64              68             111          101          142            65
+      3 PM              70          12           62              50             151           84          143            47
+      4 PM              54           0           65              48             100           92           47            50
+      5 PM              47           0           54              74              67           60           51            75
+      6 PM              31           0           68              60              95           60           69            64
+      7 PM              27           0           76              61             118           47           33            63
+      8 PM              20           1           38              48             107           59           14            45
+      9 PM              17           0           52              27              66           30           43            34
+    10 PM                7          18           22              78              66           56           16            11
+     11PM                5           8            8              11              76           18            8            11
+     Total             834         616        1,042           1,046           1,714        1,327        1,340         1,023
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  1.102             FACTOR:         1.0622        ADP:     1,382
+
+
+
+
+11:19:42PM      6/7/2014                                                                                                      Page 1 of 1
+

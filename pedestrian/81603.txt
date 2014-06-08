@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                 DATE: 10/18/2011             PROJECT:          11-43-045                      STATION ID:       P0328
+
+ROAD:     "I" ST                                                                                                SR/SEG/OFF:       Q181/0010/0250
+
+FROM:     CAYUGA ST                                                      TO:   MALTA ST
+
+STATE:    PA           COUNTY:                                           MCD: 4210160101 - NORTH
+
+SIDEWALK:           east                       FC:       19                      TYPE:            PEDESTRIAN
+
+DVRPC FILE #:                   81603 COUNTER #:              10-006                    WEATHER:        f            DATA SOURCE:          INTERNAL
+
+COMMENTS:             No sidewalk. Ground slopes up into park.
+
+
+
+
+  Hour          Monday          Tuesday    Wednesday          Thursday         Friday        Saturday       Sunday       Monday
+ Ending        10/17/2011 10/18/2011 10/19/2011 10/20/2011 10/21/2011 10/22/2011 10/23/2011 10/24/2011
+
+    12 AM                   0          0             0                 0                 0          0                0            0
+      1 AM                  0          0             0                 0                 0          0                0            0
+      2 AM                  0          0             0                 0                 0          0                0            0
+      3 AM                  0          0             0                 0                 0          0                2            0
+      4 AM                  0          0             0                 0                 0          0                0            0
+      5 AM                  0          1             0                 0                 0          0                4            0
+      6 AM                  0          0             0                 0                 0          0                0            0
+      7 AM                  0          0             0                 0                 0          0                0            0
+      8 AM                  0          0             0                 0                 1          0                0
+      9 AM                  0          0             0                 2                 2          0                0
+    10 AM                   0          0             0                 0                 0          3                0
+    11 AM                   4          0             0                 0                 0          0                0
+    12 PM                  17          0             0                 0                 0          1                0
+      1 PM                  0          1             0                 0                 0          1                0
+      2 PM                  0          1             0                 1                 0          0                0
+      3 PM                  0          0             0                 0                 3          0                0
+      4 PM                  5          0             0                 0                 0          0                0
+      5 PM                  1          2             0                 0                 0          1                0
+      6 PM                  0          3             1                 0                 0          0                1
+      7 PM                  1          5             0                 0                 3          0                0
+      8 PM                  0          0             0                 3                 0          0                0
+      9 PM                  0          3             0                 0                 3          3                0
+    10 PM                   8          0             0                 0                 0          0                0
+     11PM                   0          1             0                 0                 0          0                0
+     Total                 36         17             1                 6                12          9                7            0
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                   0.968               FACTOR:         1.0622          ADP:      9
+
+
+
+
+11:17:49PM      6/7/2014                                                                                                              Page 1 of 1
+

@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                   DATE: 10/8/2010            PROJECT:        10-cbd-004               STATION ID:      P0049
+
+ROAD:     24TH ST                                                                                       SR/SEG/OFF:      LOCAL
+
+FROM:     BAINBRIDGE ST                                                TO:    SOUTH ST
+
+STATE:    PA           COUNTY:                                         MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                         FC:     19                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                    71595 COUNTER #:             10-012              WEATHER:                    DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday          Friday     Saturday         Sunday         Monday      Tuesday    Wednesday     Thursday
+ Ending         10/7/2010        10/8/2010   10/9/2010    10/10/2010 10/11/2010 10/12/2010 10/13/2010 10/14/2010
+
+    12 AM                                3           2               2             2            0             1          0
+      1 AM                               0           1               0             0            1             1          0
+      2 AM                               1           0               0             2            0             0          0
+      3 AM                               0           0               0             0            0             0          0
+      4 AM                               1           0               0             1            0             0          0
+      5 AM                               4           1               1             4            2             4          3
+      6 AM                               3           1               2             4            4             2          8
+      7 AM                              10           2               5            18            9            12          8
+      8 AM                              11           8               4            14           14            22         16
+      9 AM                               7          21               8             6           12            11         11
+    10 AM                                7          11              16            11           10             9          1
+    11 AM                               11          17              13            19            9            11
+    12 PM                   19          10          17              17            12           10             9
+      1 PM                  12          15          16               9            10           17            18
+      2 PM                   7          10           9               9            11           11            17
+      3 PM                   7          18           8              11             4           10             6
+      4 PM                  13          16          12              13            13            6            18
+      5 PM                  25          11          27              22            24           15            12
+      6 PM                  29          23          28              15            25           27            17
+      7 PM                  12          22          12              10            22           13            21
+      8 PM                   9           9           7               6            10            8             8
+      9 PM                   4           5           3               2             2            4            10
+    10 PM                    1           8           4               3             1            5             2
+     11PM                    1           5           4               0             0            2             2
+     Total                 139         210         211             168           215          189           213         47
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     0.968            FACTOR:        1.0622       ADP:     207
+
+
+
+
+11:13:21PM      6/7/2014                                                                                                     Page 1 of 1
+

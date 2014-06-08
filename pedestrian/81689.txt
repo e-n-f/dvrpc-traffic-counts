@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                   DATE: 10/26/2011          PROJECT:          11-43-045                    STATION ID:     P0249
+
+ROAD:     PA 3 COBBS CREEK PKWY                                                                              SR/SEG/OFF:     0003/0020/0250
+
+FROM:     MARKET ST                                                    TO:    PA 3 CHESTNUT ST
+
+STATE:    PA           COUNTY:                                         MCD: 4210160111 - WEST
+
+SIDEWALK:           east                        FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                     81689 COUNTER #:           10-010                 WEATHER:          f            DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Tuesday          Wednesday   Thursday         Friday         Saturday       Sunday        Monday      Tuesday
+ Ending        10/25/2011 10/26/2011 10/27/2011 10/28/2011 10/29/2011 10/30/2011 10/31/2011                          11/1/2011
+
+    12 AM                                9         13              17              12            11             9           21
+      1 AM                               4         15               6               3             3            10            8
+      2 AM                               9          9               5               8             3             5            6
+      3 AM                               2          4               5               3             0             6            7
+      4 AM                               3         16              13               7             6             3            4
+      5 AM                              16         32              13               7            13            20           13
+      6 AM                              49         43              37              16            17            34           62
+      7 AM                              70         85              58              20            22            48           72
+      8 AM                              75         61              42              19            23            51           40
+      9 AM                              62         57              60              20            28            51
+    10 AM                   27          54         51              63              18            45            57
+    11 AM                   47          38         53              55              15            33            63
+    12 PM                   50          51         47              56              20            43            54
+      1 PM                  61          45         57              50              20            49            63
+      2 PM                  64          62         57              56              15            53            72
+      3 PM                  90          64         83              81              19            47           101
+      4 PM                  53          93         78              76              16            28            81
+      5 PM                  55          93         60              71              20            34            87
+      6 PM                  58         102         36              56              22            48            92
+      7 PM                  44          63         36              51              15            47            53
+      8 PM                  33          41         27              34              10            34            49
+      9 PM                  23          42         29              29              10            16            46
+    10 PM                   33          27         20              37               6            35            36
+     11PM                   23          11         21              23              11            14            21
+     Total                 661       1,085        990             994             332           652         1,112          233
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                    0.985             FACTOR:         1.0622        ADP:        901
+
+
+
+
+11:20:49PM      6/7/2014                                                                                                         Page 1 of 1
+

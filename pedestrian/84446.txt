@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      BB                DATE: 2/4/2012           PROJECT:           11-43-045                 STATION ID:        P0285
+
+ROAD:     CHRISTOPHER COLUMBUS BLVD                                                                    SR/SEG/OFF:        2001/0111/2056
+
+FROM:     SPRING GARDEN ST                                          TO:    FAIRMOUNT AVE
+
+STATE:    PA           COUNTY:                                      MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           west                    FC:     14                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                84446 COUNTER #:            11-016                  WEATHER:                     DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Friday      Saturday    Sunday          Monday           Tuesday    Wednesday     Thursday      Friday
+ Ending         2/3/2012     2/4/2012    2/5/2012        2/6/2012         2/7/2012     2/8/2012    2/9/2012     2/10/2012
+
+    12 AM                           12         27               6                4            4             5           9
+      1 AM                          22         12               1                4            3             4           1
+      2 AM                          13         12               3                7            1             4           7
+      3 AM                           9         15               0                1            2             5           3
+      4 AM                          10          6               5                5            4             4           6
+      5 AM                           6          9               3                3           12             5           5
+      6 AM                           6          6               8                6            5             4           5
+      7 AM                           9         10              11               20           18            12          13
+      8 AM                          14         19              26               17           14            20          21
+      9 AM                          14          8              18               18           14            20          14
+    10 AM                           18         20              15               27           16            12          18
+    11 AM                           27         24              34               17           33            30          16
+    12 PM                           35         36              30               22           24            16          12
+      1 PM                          41         27              26               30           22            37
+      2 PM              16          34         41              27               31           21            31
+      3 PM              33          35         30              39               21           28            27
+      4 PM              38          38         24              30               20           15            19
+      5 PM              31          29         22              34               31           12            26
+      6 PM              34          25         19              28               29           21            31
+      7 PM              19          23         11              16               23           13            20
+      8 PM              21          30         10              10               12           21            20
+      9 PM              21          24         12               9               20           13            16
+    10 PM               41          19          6              12               18           10            18
+     11PM               22          13         11              11                9           14             9
+     Total             276         506        417             402              395          340           395         130
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 1.106            FACTOR:          1.0622        ADP:    480
+
+
+
+
+11:20:00PM      6/7/2014                                                                                                    Page 1 of 1
+

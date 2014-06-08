@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                  DATE: 10/29/2010         PROJECT:        10-cbd-015               STATION ID:       P0027
+
+ROAD:     13TH ST                                                                                    SR/SEG/OFF:       LOCAL
+
+FROM:     BAINBRIDGE ST                                             TO:    SOUTH ST
+
+STATE:    PA           COUNTY:                                      MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                      FC:     19                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                    71627 COUNTER #:          10-013              WEATHER:                      DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday         Friday    Saturday        Sunday         Monday      Tuesday    Wednesday     Thursday
+ Ending        10/28/2010 10/29/2010 10/30/2010 10/31/2010            11/1/2010     11/2/2010    11/3/2010     11/4/2010
+
+    12 AM                              4         24              36             3            5             4           8
+      1 AM                             5         13              27             1            4             1           6
+      2 AM                             0          8              29             4            2             2           0
+      3 AM                             0          3               9             1            4             1           2
+      4 AM                             1          1               9             0            2             0           0
+      5 AM                             3          3               4             2            1             1           0
+      6 AM                            18          1               6            11            9            13          10
+      7 AM                            29          8               7            33           27            27          20
+      8 AM                            28         27              15            16           24            21          30
+      9 AM                            15         15              16            13           17            15          18
+    10 AM                             25         22              25            11           11            22          18
+    11 AM                             25         26              22            18           12            18          15
+    12 PM                             17         30              28            17           24            25          24
+      1 PM                            29         33              17            26           13            23          11
+      2 PM                  26        16         42              28            26           30            11          10
+      3 PM                  28        29         20              35            62           43            28          26
+      4 PM                  61        42         37              35            27           26            35          19
+      5 PM                  34        44         49              49            42           49            90          42
+      6 PM                  29        48         55              31            41           24            38          29
+      7 PM                  39        30         33              18            23           28            27          32
+      8 PM                  20        37         38              13            19           13            36          34
+      9 PM                  12        17         24              19             9           23            14          10
+    10 PM                   14        14         33               4            12           24            15          21
+     11PM                    8        17         59               5             5           20            19           6
+     Total                 271       493        604             487           422          435           486         391
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.985            FACTOR:        1.0622       ADP:     511
+
+
+
+
+11:11:32PM      6/7/2014                                                                                                   Page 1 of 1
+

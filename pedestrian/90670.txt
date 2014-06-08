@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 5/31/2012           PROJECT:           12-61-050               STATION ID:   P0419
+
+ROAD:     CR 628 N PARK DR                                                                            SRI/MP:       04000628__/2.02
+
+FROM:     DALE AVE                                                   TO:    CR 636 CUTHBERT BLVD
+
+STATE:    NJ           COUNTY:                                       MCD: 3400712280 - CHERRY HILL TWP
+
+SIDEWALK:           south                   FC:      16                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                90670 COUNTER #:             11-020                    WEATHER:                DATA SOURCE:    INTERNAL
+
+COMMENTS:             SPECIAL EVENT: IRA Regatta
+
+
+
+
+  Hour         Wednesday     Thursday     Friday          Saturday         Sunday       Monday
+ Ending         5/30/2012    5/31/2012   6/1/2012         6/2/2012         6/3/2012     6/4/2012
+
+    12 AM                            3           2                0                1            0
+      1 AM                           1           1                1                0            0
+      2 AM                           0           0                0                0            0
+      3 AM                           0           1                0                0            0
+      4 AM                           4           7                3                1            5
+      5 AM                          28          39               35                5           12
+      6 AM                         120          57               91               27           31
+      7 AM                         175          90              250               51           29
+      8 AM                         214         177              378               90
+      9 AM                         252         204              432              126
+    10 AM                          227         277              470              163
+    11 AM                          188         304              331              147
+    12 PM               55         139         224              448              108
+      1 PM              52         184         185              440              118
+      2 PM              77         147         308              118               85
+      3 PM              75         212         170               62               31
+      4 PM             156         163         151               55               63
+      5 PM             154         151          80               59               84
+      6 PM             136         194          56               60               64
+      7 PM             118         177          23               62               51
+      8 PM              94          93           8               67                4
+      9 PM              33          10           2               16                3
+    10 PM               14          16           0                6                9
+     11PM                5           6           1                7                3
+     Total             969       2,704       2,367            3,391            1,234           77
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.946             FACTOR:          1.0622        ADP:   2,436
+
+
+
+
+11:22:56PM      6/7/2014                                                                                              Page 1 of 1
+

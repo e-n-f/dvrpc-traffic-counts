@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 2/2/2011             PROJECT:           11-43-040                 STATION ID:     P0341
+
+ROAD:     OLD YORK RD                                                                                    SR/SEG/OFF:         LOCAL
+
+FROM:     OLD YORK RD CONN TO PA 611                                  TO:    TABOR RD
+
+STATE:    PA           COUNTY:                                        MCD: 4210160115 - UPPER NORTH
+
+SIDEWALK:           east                     FC:      19                       TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                  74021 COUNTER #:            10-006                  WEATHER:                     DATA SOURCE:         INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Tuesday       Wednesday   Thursday          Friday          Saturday       Sunday    Monday        Tuesday
+ Ending         2/1/2011      2/2/2011    2/3/2011         2/4/2011         2/5/2011     2/6/2011    2/7/2011     2/8/2011
+
+    12 AM                            20          15               22               23           19          15          20
+      1 AM                           10           4               13               21           16          11          18
+      2 AM                            2          11                9               10           13           3           9
+      3 AM                            2           6                4                5           10           2           8
+      4 AM                            3          13               11                4            3          12          13
+      5 AM                            6          26               31               22           12          24          21
+      6 AM                           28          81               71               28           35          84          75
+      7 AM                           65         255              223               28           50         155         287
+      8 AM                          151         210              205               61           18         196         223
+      9 AM                          212         270              233               69           41         233         388
+    10 AM                           200         206              234               84           67         223         227
+    11 AM                           220         206              226               94           70         306         281
+    12 PM               147         219         255              228               95           94         267          79
+      1 PM              222         179         256              229              100           98         250
+      2 PM              317         253         333              293              113          124         306
+      3 PM              235         318         330              292              120          117         328
+      4 PM              245         216         281              250               96           97         370
+      5 PM              253         216         266              238              116           98         279
+      6 PM              160         150         149              110               71           88         167
+      7 PM               99         118          86              113               47           60          98
+      8 PM               55          65          72               82               66           55          75
+      9 PM               69          57          69               51               39           37          70
+    10 PM                29          36          42               60               51           60          47
+     11PM                26          35          38               38               43           43          35
+     Total            1,857       2,781       3,480            3,266            1,406        1,325       3,556        1,649
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  1.106             FACTOR:          1.0622        ADP:    3,097
+
+
+
+
+11:14:46PM      6/7/2014                                                                                                      Page 1 of 1
+

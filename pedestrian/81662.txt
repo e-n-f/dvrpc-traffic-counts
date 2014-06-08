@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 10/7/2011           PROJECT:        11-43-045                   STATION ID:      P0319
+
+ROAD:     TORRESDALE AVE                                                                               SR/SEG/OFF:      1004/0110/0500
+
+FROM:     PRATT ST                                                 TO:    GRANITE ST
+
+STATE:    PA           COUNTY:                                     MCD: 4210160114 - LOWER NORTHEAST
+
+SIDEWALK:           west                     FC:     16                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                81662 COUNTER #:             11-020              WEATHER:         f             DATA SOURCE:        INTERNAL
+
+COMMENTS:             Monday October 10, 2011: Columbus Day Holiday
+
+
+
+
+  Hour          Thursday      Friday     Saturday         Sunday         Monday      Tuesday       Wednesday     Thursday
+ Ending         10/6/2011    10/7/2011   10/8/2011    10/9/2011      10/10/2011 10/11/2011 10/12/2011 10/13/2011
+
+    12 AM                           13          28               9             8           6                10          3
+      1 AM                           3           8              16             6          22                 3          7
+      2 AM                           4           8               2             6           6                 3          3
+      3 AM                           2           5               1             7           2                 2          3
+      4 AM                           2           6               5            15           5                 2          3
+      5 AM                           0           4               2             3           5                 3          3
+      6 AM                           7           4               6            10           8                 8          9
+      7 AM                          58          18               1            17          60                64         78
+      8 AM                          37          16              21            17          56                31         39
+      9 AM                          19          21               8            17          31                27         30
+    10 AM                           41          27              25            37          24                19         18
+    11 AM                7          16          23              35            27          27                17         23
+    12 PM               42          64          31              39            33          43                20         27
+      1 PM              30          32          36              96            37          51                32         22
+      2 PM              27          36          24              35            36          62                31         49
+      3 PM             154         171          41              31            51         153               111        135
+      4 PM              52          38          35              35            36          51                34         52
+      5 PM              28          54          37              36            38          62                40         36
+      6 PM              52          48          59              27            66          46                30         48
+      7 PM              91          47          43              64            38          36                25         25
+      8 PM              29          33          45              41            24          37                17         26
+      9 PM              18          66          19              21            17          10                10         24
+    10 PM               14          24          30              14            22          13                 5         11
+     11PM                3          11          19              11            19           4                 5          6
+     Total             547         826         587             581           587         820               549        680
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.968            FACTOR:        1.0622       ADP:        677
+
+
+
+
+11:19:15PM      6/7/2014                                                                                                    Page 1 of 1
+

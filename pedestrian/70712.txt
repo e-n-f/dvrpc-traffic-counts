@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                DATE: 9/23/2010            PROJECT:          11-43-040                STATION ID:       P0159
+
+ROAD:     12TH ST                                                                                      SR/SEG/OFF:       G015/0020/2851
+
+FROM:     CHESTNUT ST                                                 TO:    MARKET ST
+
+STATE:    PA           COUNTY:                                        MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           west                      FC:     16                      TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 70712 COUNTER #:             10-009                    WEATHER:                  DATA SOURCE:       INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour         Wednesday      Thursday     Friday          Saturday         Sunday      Monday      Tuesday      Wednesday
+ Ending         9/22/2010     9/23/2010   9/24/2010    9/25/2010        9/26/2010      9/27/2010   9/28/2010     9/29/2010
+
+    12 AM                            56          84             155             211           31          44            48
+      1 AM                           32          33             125             124           28          24            40
+      2 AM                           29          41             120              69           23          16            23
+      3 AM                           15          38              37              32           14          12            20
+      4 AM                           26          22              52              28           24          30            27
+      5 AM                           58          63              56              26           47          53            58
+      6 AM                          138         150              76              31           77         144           121
+      7 AM                          291         235             117              73          190         282           269
+      8 AM                          474         309             179              98          287         390           414
+      9 AM                          411         354             220             156          304         306           446
+    10 AM               236         360         391             312             216          263         299           387
+    11 AM               452         329         479             414             209          326         355           423
+    12 PM               513         439         605             471             208          407         450           506
+      1 PM              397         557         701             498             253          436         336           129
+      2 PM              505         421         614             536             292          380         404
+      3 PM              578         472         634             507             242          359         331
+      4 PM              593         542         642             554             236          395         373
+      5 PM              732         490         682             501             193          318         414
+      6 PM              393         387         424             522             142          269         296
+      7 PM              301         363         441             459             119          201         189
+      8 PM              247         241         392             325             127          153         222
+      9 PM              158         178         308             294              91          120         152
+    10 PM                90         140         257             279              87          115         106
+     11PM                90         136         252             266              44           68          83
+     Total            5,285       6,585       8,151           7,075           3,307        4,835       5,311         2,911
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.949             FACTOR:         1.0622       ADP:     5,924
+
+
+
+
+11:07:30PM      6/7/2014                                                                                                     Page 1 of 1
+

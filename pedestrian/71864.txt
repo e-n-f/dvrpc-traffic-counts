@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 8/9/2011            PROJECT:          10-cbd-053                STATION ID:         P0070
+
+ROAD:     BEN FRANKLIN PKWY OUTER LA                                                                   SR/SEG/OFF:         3007/0041/1955
+
+FROM:     22ND ST                                                    TO:   EAKINS OVAL
+
+STATE:    PA           COUNTY:                                       MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           west                     FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                71864 COUNTER #:             11-018                    WEATHER:                   DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Monday       Tuesday     Wednesday        Thursday         Friday      Saturday     Sunday        Monday
+ Ending         8/8/2011     8/9/2011    8/10/2011    8/11/2011        8/12/2011      8/13/2011    8/14/2011     8/15/2011
+
+    12 AM                            7           1               9               4            7              6           5
+      1 AM                           5           4               2               3            4              6           2
+      2 AM                           2           6               2               3            4              5           0
+      3 AM                          18          15              19              16           13             18           9
+      4 AM                           2           0               2               2            3              0           1
+      5 AM                          13           9              11               6            3              3           4
+      6 AM                          30          23              25              25           13              8          17
+      7 AM                          23          24              26              20           17              1          13
+      8 AM                           9          16              87              20           26              3           6
+      9 AM               8           8          12              14              22           31              5          17
+    10 AM               16           3          16              20              29           21             11
+    11 AM               16          20          27              34              17           21             18
+    12 PM               14          36          56              65              64           31             14
+      1 PM               0           8          68              74              57           33             10
+      2 PM               0          16          52              61              39           41             11
+      3 PM               1          22          69              42              53           47             10
+      4 PM              14          29         174              47              59           73             27
+      5 PM              29          27          51              23              38           51             30
+      6 PM              12          45          44              56              45           23             28
+      7 PM               9          12          52              38              23           15             34
+      8 PM              10          24          36              41              35           20             16
+      9 PM              16          19          22              26              12           15              5
+    10 PM                8           2          13              10              14            3             12
+     11PM                7           5           7               8               8            5              4
+     Total             160         385         797             742             614          520            285          74
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                 0.888             FACTOR:         1.0622        ADP:     525
+
+
+
+
+11:11:00PM      6/7/2014                                                                                                     Page 1 of 1
+

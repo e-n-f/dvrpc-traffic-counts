@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      SB                DATE: 9/17/2010            PROJECT:        11-43-040                STATION ID:     P0130
+
+ROAD:     12TH ST                                                                                    SR/SEG/OFF:     G015/0020/1900
+
+FROM:     LOCUST ST                                                 TO:    WALNUT ST
+
+STATE:    PA           COUNTY:                                      MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           east                      FC:     16                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                 70689 COUNTER #:             10-004              WEATHER:                      DATA SOURCE:    INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour          Thursday       Friday     Saturday         Sunday         Monday      Tuesday    Wednesday
+ Ending         9/16/2010     9/17/2010   9/18/2010    9/19/2010      9/20/2010     9/21/2010    9/22/2010
+
+    12 AM                            37          68              99            14           13          30
+      1 AM                            9          53              38             6           17          22
+      2 AM                           20          41              84            27            9          11
+      3 AM                            1          13              11            10            7          11
+      4 AM                            8          10               7             9            6          12
+      5 AM                           23          15               7             8           14          14
+      6 AM                           42          34              19            42           45          49
+      7 AM                           97          73              39            84           95          99
+      8 AM                          176          69              64           191          169         131
+      9 AM                          123         106              86           116          149         211
+    10 AM                           135         150             118           110          121
+    11 AM                           153         183             156           125          166
+    12 PM                           233         247             202           196          193
+      1 PM              192         211         206             169           183          160
+      2 PM              168         210         236             151           126          158
+      3 PM              174         197         216             163           157          168
+      4 PM              200         263         243             183           213          190
+      5 PM              188         278         221             198           268          242
+      6 PM              179         268         224             145           169          188
+      7 PM              169         227         185             157           158          220
+      8 PM              125         179         170             124           132          149
+      9 PM              102         150         152              91            91          152
+    10 PM                98         149         169              63            51           89
+     11PM                50         125         134              47            42           44
+     Total            1,645       3,314       3,218           2,421         2,528        2,764         590
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.949            FACTOR:        1.0622       ADP:     2,872
+
+
+
+
+11:08:55PM      6/7/2014                                                                                               Page 1 of 1
+

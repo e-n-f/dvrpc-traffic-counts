@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                   DATE: 3/24/2012            PROJECT:        12-41-040                    STATION ID:         P0403
+
+ROAD:     NORRISTOWN T.C. PEDESTRIAN CONNECTOR                                                              SR/SEG/OFF:         LOCAL
+
+FROM:     LAFAYETTE ST                                                 TO:    MAIN ST
+
+STATE:    PA            COUNTY:                                        MCD: 4209154656 - NORRISTOWN BORO
+
+SIDEWALK:           east                         FC:     17                    TYPE:         PEDESTRIAN
+
+DVRPC FILE #:                    88361 COUNTER #:             11-020               WEATHER:         f               DATA SOURCE:        INTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour              Friday       Saturday     Sunday          Monday         Tuesday    Wednesday       Thursday       Friday
+ Ending         3/23/2012        3/24/2012   3/25/2012    3/26/2012      3/27/2012      3/28/2012       3/29/2012     3/30/2012
+
+    12 AM                                5           2               1              1           2                 3           2
+      1 AM                               2           0               1              0           0                 0           0
+      2 AM                               0           0               1              1           1                 0           1
+      3 AM                               0           0               0              0           1                 0           1
+      4 AM                               0           0              11              6           6                 6           8
+      5 AM                               1           2               9             14          11                18           7
+      6 AM                              12           1              20             16          17                18          22
+      7 AM                              19          10              29             27          35                30          37
+      8 AM                              26          12              35             38          31                39          38
+      9 AM                              19          11              43             32          21                27          30
+    10 AM                               26          36              22             36          33                19          37
+    11 AM                               16           8              34             25          24                25          36
+    12 PM                   22          13           7              23             31          22                27          43
+      1 PM                  39          21           6              30             38          27                35
+      2 PM                  32           7           9              26             31          18                25
+      3 PM                  45          17          15              34             25          17                26
+      4 PM                  34           8           4              23             33          21                22
+      5 PM                  16           5           5              23             30          37                21
+      6 PM                  18           5           3              14             13           7                19
+      7 PM                   8           4           1               5              7           9                 7
+      8 PM                  12           3           4               6             12           3                 0
+      9 PM                   3           8           0               4              5           1                 8
+    10 PM                    8           8           5               2              2           4                 6
+     11PM                    2           1           2               3              4           4                 8
+     Total                 239         226         143             399            427         352               389         262
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                     1.059            FACTOR:         1.0622      ADP:         363
+
+
+
+
+11:23:13PM      6/7/2014                                                                                                          Page 1 of 1
+
