@@ -1,0 +1,16 @@
+#!/usr/bin/perl
+
+open(IN, "identify.txt");
+while (<IN>) {
+	$text .= $_;
+}
+close(IN);
+
+while ($text =~ s/"RECORDNUM":"([^"]*)"//) {
+	$rec = $1;
+	next if $seen{$rec};
+	$seen{$rec} = 1;
+	print "$1\n";
+	system "curl -o 'pedestrian/$rec.pdf' http://www.dvrpc.org/asp/pedestrianCount/default.aspx?recnum='$rec'";
+	system "curl -o 'bike/$rec.html' http://www.dvrpc.org/asp/bikecount/default.aspx?RECNUM='$rec'";
+}
