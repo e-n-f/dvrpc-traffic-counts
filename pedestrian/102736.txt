@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH               DATE: 7/25/2013           PROJECT:          14-41-050                STATION ID:
+
+ROAD:       SCHUYLKILL RIVER TRAIL                                                                   SR/SEG/OFF:       LOCAL
+
+FROM:     PORT ROYAL AVE                                            TO:    SHAWMONT AVE
+
+STATE:    PA          COUNTY:                                       MCD: 4210160108 - LOWER NORTHWEST
+
+SIDEWALK:                                   FC:     19                      TYPE:         PEDESTRIAN
+
+DVRPC FILE #:               102736 COUNTER #:            11-014                    WEATHER:                  DATA SOURCE:       EXTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour         Wednesday    Thursday     Friday          Saturday         Sunday      Monday      Tuesday      Wednesday    Thursday
+ Ending         7/24/2013   7/25/2013   7/26/2013    7/27/2013        7/28/2013      7/29/2013   7/30/2013     7/31/2013    8/1/2013
+
+    12 AM                           3           0               0               1            0             0           0            0
+      1 AM                          1           0               0               1            0             0           0            0
+      2 AM                          1           0               0               0            0             0           0            0
+      3 AM                          0           0               0               0            0             0           0            0
+      4 AM                          0           0               0               0            0             3           0            1
+      5 AM                          2           0               1               0            2             4           5            0
+      6 AM                         30          24              25              16           10            30          25            8
+      7 AM                         22          37              80              33           23            27          45           28
+      8 AM                         36          36             137              67           18            23          35
+      9 AM             25          38          39             197             101           20            22          17
+    10 AM              40          41          56             229             115           21            44          35
+    11 AM              49          40          97             211             114           67            68          45
+    12 PM              43          41          48             132             100           66            74          52
+      1 PM             31          34          51             138              74           40            36          34
+      2 PM             44          26          42             123              82           47            39          24
+      3 PM             26          35          53             132              50           50            53          32
+      4 PM             60          47          71              96              43           45            60          35
+      5 PM             82          80          70              59              10           66            77          68
+      6 PM            100         100          91              38              18           93            93          65
+      7 PM            109          80          40              27               5           76           102          67
+      8 PM             30          23          17              27               8           33            28          31
+      9 PM              6           2           4               0               1            4             8           4
+    10 PM               1           5           0               0               0            1             0           0
+     11PM               1           0           0               0               0            1             0           0
+     Total            647         687         776           1,652             839          683           791         619           37
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                0.894             FACTOR:         1.0622       ADP:     820
+
+
+
+
+1:05:31AM       6/8/2014                                                                                                   Page 1 of 1
+

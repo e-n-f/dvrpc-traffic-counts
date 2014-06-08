@@ -1,0 +1,57 @@
+DVRPC - Pedestrian Count
+TAKEN BY:      JH                DATE: 7/24/2013            PROJECT:          14-41-050                 STATION ID:       P0062
+
+ROAD:       WALNUT ST BRIDGE                                                                            SR/SEG/OFF:       0003/0091/2834
+
+FROM:     SCHUYLKILL AVE                                             TO:    23RD ST
+
+STATE:    PA           COUNTY:                                       MCD: 4210160103 - CENTRAL
+
+SIDEWALK:           south                     FC:     14                      TYPE:          PEDESTRIAN
+
+DVRPC FILE #:                 102739 COUNTER #:            12-021                 WEATHER:                      DATA SOURCE:       EXTERNAL
+
+COMMENTS:
+
+
+
+
+  Hour           Tuesday      Wednesday   Thursday          Friday         Saturday       Sunday     Monday        Tuesday    Wednesday
+ Ending         7/23/2013     7/24/2013   7/25/2013    7/26/2013       7/27/2013      7/28/2013     7/29/2013     7/30/2013    7/31/2013
+
+    12 AM                            10          14              17              15            21          15            13           16
+      1 AM                            0           6               8              10            22           3             9           15
+      2 AM                            4           7               9               4             7           2             3            2
+      3 AM                            3           2               7               9             5           1             1            7
+      4 AM                            3           4               3               3             3           5             7            5
+      5 AM                           35          24              18               6             3          11            34           30
+      6 AM                           88          71              69              18            20          42            70           73
+      7 AM                          125         105             119              36            16          80           119           80
+      8 AM                          157         149             146              70            38         125           256          222
+      9 AM               78          93          90              98              53            53         115           104
+    10 AM                47          57          61              86             104            71          96            86
+    11 AM                55          65          79              81              93            70          86            83
+    12 PM                53          57          79              87              77            70          96            99
+      1 PM               41          66          68              74             118            72         105           113
+      2 PM               54          68          66             120             103            81          99            81
+      3 PM               45          78         118             125             104            48         128           119
+      4 PM               87         143         164             161              94            29         161           265
+      5 PM              149         277         240             234             114            16         316           331
+      6 PM              168         197         197             167              89            39         255           234
+      7 PM              122         178         213             147              66            39         166           199
+      8 PM              147         147         161             107              88            27         158           129
+      9 PM               66         109          71             111              62             9          84            80
+    10 PM                30          58          68              43              32            13          41            49
+     11PM                22          25          29              45              30            10          25            24
+     Total            1,164       2,043       2,086           2,082           1,398           782       2,215         2,508          450
+
+
+
+
+PEDESTRIAN SEASONAL FACTOR:                  0.900             FACTOR:         1.0622        ADP:     1,791
+
+
+
+
+1:05:37AM       6/8/2014                                                                                                      Page 1 of 1
+
