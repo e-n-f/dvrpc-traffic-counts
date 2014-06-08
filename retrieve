@@ -6,11 +6,37 @@ while (<IN>) {
 }
 close(IN);
 
+sub check {
+	my $fname = $_[0];
+	my $any = 0;
+
+	open(IN, "$fname");
+	while (<IN>) {
+		if (/The maximum report processing jobs limit/) {
+			print STDERR "fail on $fname, trying again\n";
+			sleep(120);
+			close(IN);
+			return 1;
+		}
+
+		$any = 1;
+	}
+	close(IN);
+
+	return !$any;
+}
+
 while ($text =~ s/"RECORDNUM":"([^"]*)"//) {
 	$rec = $1;
 	next if $seen{$rec};
 	$seen{$rec} = 1;
 	print "$1\n";
-	system "curl -o 'pedestrian/$rec.pdf' http://www.dvrpc.org/asp/pedestrianCount/default.aspx?recnum='$rec'";
-	system "curl -o 'bike/$rec.html' http://www.dvrpc.org/asp/bikecount/default.aspx?RECNUM='$rec'";
+
+	do {
+		system "curl -o 'pedestrian/$rec.pdf' http://www.dvrpc.org/asp/pedestrianCount/default.aspx?recnum='$rec'";
+	} while (check("pedestrian/$rec.pdf"));
+
+	do {
+		system "curl -o 'bike/$rec.html' http://www.dvrpc.org/asp/bikecount/default.aspx?RECNUM='$rec'";
+	} while (check("bike/$rec.html"));
 }
